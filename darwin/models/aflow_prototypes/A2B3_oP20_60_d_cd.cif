@@ -1,0 +1,67 @@
+# CIF file
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Rh2S3'
+_chemical_formula_sum 'Rh2 S3'
+
+loop_
+_publ_author_name
+ 'E. Parth\'{e}'
+ 'F. Hulliger'
+_journal_name_full_name
+;
+Acta Crystallographica
+;
+_journal_volume 21
+_journal_year 1966
+_journal_page_first A66
+_journal_page_last A66
+_publ_Section_title
+;
+ The crystal structure of Rh$_{2}$S$_{3}$
+;
+
+# Found in Pearson's Crystal Data - Crystal Structure Database for Inorganic Compounds, 2013
+
+_aflow_title 'Rh$_{2}$S$_{3}$ Structure'
+_aflow_proto 'A2B3_oP20_60_d_cd'
+_aflow_params 'a,b/a,c/a,y_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '8.4598035458,0.706855791961,0.724586288418,0.547,0.394,0.75,0.033,0.348,0.611,0.396'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP20'
+
+_cell_length_a    8.4598035458
+_cell_length_b    5.9798611352
+_cell_length_c    6.1298576520
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "P 21/b 2/c 21/n"
+_symmetry_Int_Tables_number 60
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y,-z+1/2
+4 -x+1/2,-y+1/2,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y,z+1/2
+8 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S1  S    4 c 0.00000 0.54700 0.25000 1.00000
+Rh1 Rh   8 d 0.39400 0.75000 0.03300 1.00000
+S2  S    8 d 0.34800 0.61100 0.39600 1.00000

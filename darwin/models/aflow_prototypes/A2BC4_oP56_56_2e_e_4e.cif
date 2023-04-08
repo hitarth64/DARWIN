@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Calciborite'
+_chemical_formula_sum 'B2 Ca O4'
+
+loop_
+_publ_author_name
+ 'D. N. Shashkin'
+ 'M. A. Simonov'
+ 'N. V. Belov'
+_journal_name_full_name
+;
+ Doklady Akademii Nauk SSSR
+;
+_journal_volume 195
+_journal_year 1970
+_journal_page_first 345
+_journal_page_last 348
+_publ_Section_title
+;
+ Crystal structure of calciborite CaB$_{2}$O$_{4}$=Ca$_{2}$[BO$_{3}$BO]$_{2}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Calciborite (CaB$_{2}$O$_{4}$ II) Structure'
+_aflow_proto 'A2BC4_oP56_56_2e_e_4e'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '8.38,1.6491646778,0.597374701671,0.537,0.139,0.624,0.742,0.052,0.365,0.386,0.143,0.123,0.391,0.185,0.633,0.742,-0.009,0.114,0.596,0.112,0.365,0.885,0.112,0.378'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP56'
+
+_symmetry_space_group_name_H-M "P 21/c 21/c 2/n"
+_symmetry_Int_Tables_number 56
+ 
+_cell_length_a    8.38000
+_cell_length_b    13.82000
+_cell_length_c    5.00600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y,-z+1/2
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y+1/2,z
+5 -x,-y,-z
+6 -x+1/2,y,z+1/2
+7 x,-y+1/2,z+1/2
+8 x+1/2,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 8 e 0.53700 0.13900 0.62400 1.00000
+B2 B 8 e 0.74200 0.05200 0.36500 1.00000
+Ca1 Ca 8 e 0.38600 0.14300 0.12300 1.00000
+O1 O 8 e 0.39100 0.18500 0.63300 1.00000
+O2 O 8 e 0.74200 -0.00900 0.11400 1.00000
+O3 O 8 e 0.59600 0.11200 0.36500 1.00000
+O4 O 8 e 0.88500 0.11200 0.37800 1.00000

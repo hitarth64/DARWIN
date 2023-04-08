@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Marialite scapolite'
+_chemical_formula_sum 'Cl Na4 O24 Si12'
+
+loop_
+_publ_author_name
+ 'J. J. Papike'
+ 'T. Zoltai'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 50
+_journal_year 1965
+_journal_page_first 641
+_journal_page_last 655
+_publ_Section_title
+;
+ The crystal structure of a marialite scapolite
+;
+
+_aflow_title 'Marialite Scapolite [Na$_{4}$Cl(AlSi$_{3}$)$_{3}$O$_{24}$, $S6_{4}$] Structure'
+_aflow_proto 'AB4C24D12_tI82_87_a_h_2h2i_hi'
+_aflow_params 'a,c/a,x_{2},y_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '12.06,0.627860696517,0.134,0.2113,0.4587,0.3483,0.3066,0.1206,0.3388,0.4104,0.0517,0.35,0.2148,0.2293,0.1289,0.3281,0.3374,0.0851,0.206'
+_aflow_Strukturbericht '$S6_{4}$'
+_aflow_Pearson 'tI82'
+
+_symmetry_space_group_name_H-M "I 4/m"
+_symmetry_Int_Tables_number 87
+ 
+_cell_length_a    12.06000
+_cell_length_b    12.06000
+_cell_length_c    7.57200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,-y,-z
+6 x,y,-z
+7 y,-x,-z
+8 -y,x,-z
+9 x+1/2,y+1/2,z+1/2
+10 -x+1/2,-y+1/2,z+1/2
+11 -y+1/2,x+1/2,z+1/2
+12 y+1/2,-x+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z+1/2
+14 x+1/2,y+1/2,-z+1/2
+15 y+1/2,-x+1/2,-z+1/2
+16 -y+1/2,x+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 2 a 0.00000 0.00000 0.00000 1.00000
+Na1 Na 8 h 0.13400 0.21130 0.00000 1.00000
+O1 O 8 h 0.45870 0.34830 0.00000 1.00000
+O2 O 8 h 0.30660 0.12060 0.00000 1.00000
+Si1 Si 8 h 0.33880 0.41040 0.00000 1.00000
+O3 O 16 i 0.05170 0.35000 0.21480 1.00000
+O4 O 16 i 0.22930 0.12890 0.32810 1.00000
+Si2 Si 16 i 0.33740 0.08510 0.20600 1.00000

@@ -1,0 +1,91 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral '$\beta$-alumina'
+_chemical_formula_sum 'Al2 O3'
+
+loop_
+_publ_author_name
+ 'W. L. Bragg'
+ 'C. Gottfried'
+ 'J. West'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 77
+_journal_year 1931
+_journal_page_first 255
+_journal_page_last 274
+_publ_Section_title
+;
+ The Structure of $\beta$ Alumina
+;
+
+# Found in Strukturbericht Band II 1928-1932, 1937
+
+_aflow_title '$\beta$-Alumina (Al$_{2}$O$_{3}$, $D5_{6}$) Structure'
+_aflow_proto 'A2B3_hP60_194_3fk_cdef2k'
+_aflow_params 'a,c/a,z_{3},z_{4},z_{5},z_{6},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10}'
+_aflow_params_values '5.56,4.05575539568,0.14,0.02,0.17,-0.17,-0.05,0.83333,0.1,0.16667,0.05,0.5,0.14'
+_aflow_Strukturbericht '$D5_{6}$'
+_aflow_Pearson 'hP60'
+
+_symmetry_space_group_name_H-M "P 63/m 2/m 2/c"
+_symmetry_Int_Tables_number 194
+ 
+_cell_length_a    5.56000
+_cell_length_b    5.56000
+_cell_length_c    22.55000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 x-y,-y,-z
+8 x,x-y,-z+1/2
+9 y,x,-z
+10 -x+y,y,-z+1/2
+11 -x,-x+y,-z
+12 -y,-x,-z+1/2
+13 -x,-y,-z
+14 -x+y,-x,-z+1/2
+15 y,-x+y,-z
+16 x,y,-z+1/2
+17 x-y,x,-z
+18 -y,x-y,-z+1/2
+19 -x+y,y,z
+20 -x,-x+y,z+1/2
+21 -y,-x,z
+22 x-y,-y,z+1/2
+23 x,x-y,z
+24 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 c 0.33333 0.66667 0.25000 1.00000
+O2 O 2 d 0.33333 0.66667 0.75000 1.00000
+O3 O 4 e 0.00000 0.00000 0.14000 1.00000
+Al1 Al 4 f 0.33333 0.66667 0.02000 1.00000
+Al2 Al 4 f 0.33333 0.66667 0.17000 1.00000
+Al3 Al 4 f 0.33333 0.66667 -0.1700 1.00000
+O4 O 4 f 0.33333 0.66667 -0.0500 1.00000
+Al4 Al 12 k 0.83333 0.66667 0.10000 1.00000
+O5 O 12 k 0.16667 0.33333 0.05000 1.00000
+O6 O 12 k 0.50000 0.00000 0.14000 1.00000

@@ -1,0 +1,62 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'B2H6'
+_chemical_formula_sum 'B H3'
+
+loop_
+_publ_author_name
+ 'Y. Yao'
+ 'R. Hoffmann'
+_journal_name_full_name
+;
+ Journal of the American Chemical Society
+;
+_journal_volume 133
+_journal_year 2011
+_journal_page_first 21002
+_journal_page_last 21009
+_publ_Section_title
+;
+ BH$_{3}$ under Pressure: Leaving the Molecular Diborane Motif
+;
+
+_aflow_title 'B$_{2}$H$_{6}$ ($P2_{1}/c$) Structure'
+_aflow_proto 'AB3_mP16_14_e_3e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '4.46,1.94618834081,1.0201793722,120.5,0.3698,0.4285,0.0119,0.0865,0.4057,0.7725,0.4789,0.1446,0.7686,0.5981,0.4237,-0.0903'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP16'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.46000
+_cell_length_b    8.68000
+_cell_length_c    4.55000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  120.50000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 4 e 0.36980 0.42850 0.01190 1.00000
+H1 H 4 e 0.08650 0.40570 0.77250 1.00000
+H2 H 4 e 0.47890 0.14460 0.76860 1.00000
+H3 H 4 e 0.59810 0.42370 -0.09030 1.00000

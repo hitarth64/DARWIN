@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Wollastonite'
+_chemical_formula_sum 'Ca O3 Si'
+
+loop_
+_publ_author_name
+ 'M. J. Buerger'
+ 'C. T. Prewitt'
+_journal_name_full_name
+;
+ Proceedings of the National Academy of Sciences of the United States of America
+;
+_journal_volume 47
+_journal_year 1961
+_journal_page_first 1884
+_journal_page_last 1888
+_publ_Section_title
+;
+ The Crystal Structures of Wollastonite and Pectolite
+;
+
+_aflow_title 'Wollastonite (CaSiO$_{3}$) Structure'
+_aflow_proto 'AB3C_aP30_2_3i_9i_3i'
+_aflow_params 'a,b/a,c/a,\alpha,\beta,\gamma,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15}'
+_aflow_params_values '7.94,0.921914357683,0.890428211587,90.03333,95.36667,103.43333,0.1985,0.4228,0.7608,0.2027,-0.0707,0.764,0.4966,0.2495,0.472,0.4291,0.2314,0.8019,0.4008,0.7259,0.8302,0.3037,0.4635,0.4641,0.3017,-0.0626,0.4655,0.0154,0.6254,0.7343,0.0175,0.1319,0.7353,0.2732,0.5118,0.0919,0.2713,0.8717,0.094,0.2188,0.1784,0.2228,0.1852,0.387,0.2687,0.1849,-0.0455,0.2692,0.397,0.7235,0.056'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'aP30'
+
+_symmetry_space_group_name_H-M "P -1"
+_symmetry_Int_Tables_number 2
+ 
+_cell_length_a    7.94000
+_cell_length_b    7.32000
+_cell_length_c    7.07000
+_cell_angle_alpha 90.03333
+_cell_angle_beta  95.36667
+_cell_angle_gamma 103.43333
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 2 i 0.19850 0.42280 0.76080 1.00000
+Ca2 Ca 2 i 0.20270 -0.07070 0.76400 1.00000
+Ca3 Ca 2 i 0.49660 0.24950 0.47200 1.00000
+O1 O 2 i 0.42910 0.23140 0.80190 1.00000
+O2 O 2 i 0.40080 0.72590 0.83020 1.00000
+O3 O 2 i 0.30370 0.46350 0.46410 1.00000
+O4 O 2 i 0.30170 -0.06260 0.46550 1.00000
+O5 O 2 i 0.01540 0.62540 0.73430 1.00000
+O6 O 2 i 0.01750 0.13190 0.73530 1.00000
+O7 O 2 i 0.27320 0.51180 0.09190 1.00000
+O8 O 2 i 0.27130 0.87170 0.09400 1.00000
+O9 O 2 i 0.21880 0.17840 0.22280 1.00000
+Si1 Si 2 i 0.18520 0.38700 0.26870 1.00000
+Si2 Si 2 i 0.18490 -0.04550 0.26920 1.00000
+Si3 Si 2 i 0.39700 0.72350 0.05600 1.00000

@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Lueshite'
+_chemical_formula_sum 'Na Nb O3'
+
+loop_
+_publ_author_name
+ 'A. C. {Sakowski-Cowley}'
+ 'K. Lukaszewicz'
+ 'H. D. Megaw'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 25
+_journal_year 1969
+_journal_page_first 851
+_journal_page_last 865
+_publ_Section_title
+;
+ The structure of sodium niobate at room temperature, and the problem of reliability in pseudosymmetric structures
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Lueshite (NaNbO$_{3}$) Structure'
+_aflow_proto 'ABC3_oP40_57_cd_e_cd2e'
+_aflow_params 'a,b/a,c/a,x_{1},x_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '5.506,1.01089720305,2.81874318925,0.243,0.696,0.239,0.218,0.191,0.767,0.2566,0.7722,0.6262,0.536,0.532,0.64,-0.034,-0.033,0.61'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP40'
+
+_symmetry_space_group_name_H-M "P 2/b 21/c 21/m"
+_symmetry_Int_Tables_number 57
+ 
+_cell_length_a    5.50600
+_cell_length_b    5.56600
+_cell_length_c    15.52000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x,-y,z+1/2
+5 -x,-y,-z
+6 -x,y+1/2,z
+7 x,-y+1/2,z+1/2
+8 x,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 4 c 0.24300 0.25000 0.00000 1.00000
+O1 O 4 c 0.69600 0.25000 0.00000 1.00000
+Na2 Na 4 d 0.23900 0.21800 0.25000 1.00000
+O2 O 4 d 0.19100 0.76700 0.25000 1.00000
+Nb1 Nb 8 e 0.25660 0.77220 0.62620 1.00000
+O3 O 8 e 0.53600 0.53200 0.64000 1.00000
+O4 O 8 e -0.03400 -0.03300 0.61000 1.00000

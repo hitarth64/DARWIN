@@ -1,0 +1,63 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Shcherbinaite'
+_chemical_formula_sum 'O5 V2'
+
+loop_
+_publ_author_name
+ 'J. A. A. Ketelaar'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 95
+_journal_year 1936
+_journal_page_first 9
+_journal_page_last 27
+_publ_Section_title
+;
+ Die Kristallstruktur des Vanadinpentoxyds
+;
+
+# Found in A Refinement of the Structure of V$_{2}$O$_{5}$, 1986
+
+_aflow_title '$D8_{7}$ (Shcherbinaite, V$_{2}$O$_{5}$) ({\em{obsolete}}) Structure'
+_aflow_proto 'A5B2_oP14_31_a2b_b'
+_aflow_params 'a,b/a,c/a,y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '11.48,0.379790940767,0.309233449477,0.08,0.89,0.148,0.45,-0.08,0.2,0.03,0.46,0.148,0.097,0.0'
+_aflow_Strukturbericht '$D8_{7}$'
+_aflow_Pearson 'oP14'
+
+_symmetry_space_group_name_H-M "P m n 21"
+_symmetry_Int_Tables_number 31
+ 
+_cell_length_a    11.48000
+_cell_length_b    4.36000
+_cell_length_c    3.55000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,-y,z+1/2
+3 -x,y,z
+4 x+1/2,-y,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 a 0.00000 0.08000 0.89000 1.00000
+O2 O 4 b 0.14800 0.45000 -0.08000 1.00000
+O3 O 4 b 0.20000 0.03000 0.46000 1.00000
+V1 V 4 b 0.14800 0.09700 0.00000 1.00000

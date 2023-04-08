@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'MnO6Sr2Te'
+_chemical_formula_sum 'Mn O6 Sr2 Te'
+
+loop_
+_publ_author_name
+ 'L. {Ortega-San Martin}'
+ 'J. P. Chapman'
+ 'E. {Hern\\'{a}ndez-Bocanegra}'
+ 'M. Insausti'
+ 'M. I. Arriortua'
+ 'T. Rojo'
+_journal_name_full_name
+;
+ Journal of Physics: Condensed Matter
+;
+_journal_volume 16
+_journal_year 2004
+_journal_page_first 3879
+_journal_page_last 3888
+_publ_Section_title
+;
+ Structural phase transitions in the ordered double perovskite Sr${_2}$MnTeO$_{6}$
+;
+
+_aflow_title 'Sr$_{2}$MnTeO$_{6}$ Structure'
+_aflow_proto 'AB6C2D_mP20_14_a_3e_e_d'
+_aflow_params 'a,b/a,c/a,\beta,x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '5.7009,0.995807679489,1.72670455542,125.30487,0.2103,-0.0065,0.265,0.3193,0.7621,0.0287,0.7308,0.7126,-0.0283,0.2523,-0.01532,0.7508'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP20'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    5.70090
+_cell_length_b    5.67700
+_cell_length_c    9.84377
+_cell_angle_alpha 90.00000
+_cell_angle_beta  125.30487
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 2 a 0.00000 0.00000 0.00000 1.00000
+Te1 Te 2 d 0.50000 0.00000 0.50000 1.00000
+O1 O 4 e 0.21030 -0.00650 0.26500 1.00000
+O2 O 4 e 0.31930 0.76210 0.02870 1.00000
+O3 O 4 e 0.73080 0.71260 -0.02830 1.00000
+Sr1 Sr 4 e 0.25230 -0.01532 0.75080 1.00000

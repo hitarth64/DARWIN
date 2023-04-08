@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Danburite'
+_chemical_formula_sum 'B2 Ca O8 Si2'
+
+loop_
+_publ_author_name
+ 'K. Sugiyama'
+ 'Y. Tak\\'{e}uchi'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 173
+_journal_year 1985
+_journal_page_first 293
+_journal_page_last 304
+_publ_Section_title
+;
+ Unusual thermal expansion of a B-O bond in the structure of danburite CaB$_{2}$Si$_{2}$O$_{8}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Danburite (CaB$_{2}$Si$_{2}$O$_{8}$, $S6_{3}$) Structure'
+_aflow_proto 'A2BC8D2_oP52_62_d_c_2c3d_d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '8.037,0.960781386089,1.09120318527,0.61445,0.38657,0.4863,0.664,0.8162,0.4282,0.7411,0.4206,0.4192,0.80709,-0.00324,0.06797,0.87368,-0.04233,0.36496,0.60035,0.0782,0.31351,-0.05333,-0.05574,0.1925'
+_aflow_Strukturbericht '$S6_{3}$'
+_aflow_Pearson 'oP52'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    8.03700
+_cell_length_b    7.72180
+_cell_length_c    8.77000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 4 c 0.61445 0.25000 0.38657 1.00000
+O1 O 4 c 0.48630 0.25000 0.66400 1.00000
+O2 O 4 c 0.81620 0.25000 0.42820 1.00000
+B1 B 8 d 0.74110 0.42060 0.41920 1.00000
+O3 O 8 d 0.80709 -0.00324 0.06797 1.00000
+O4 O 8 d 0.87368 -0.04233 0.36496 1.00000
+O5 O 8 d 0.60035 0.07820 0.31351 1.00000
+Si1 Si 8 d -0.05333 -0.05574 0.19250 1.00000

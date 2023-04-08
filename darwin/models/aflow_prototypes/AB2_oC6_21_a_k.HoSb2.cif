@@ -1,0 +1,65 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'HoSb2'
+_chemical_formula_sum 'Ho Sb2'
+
+loop_
+_publ_author_name
+ 'Q. Johnson'
+_journal_name_full_name
+;
+ Inorganic Chemistry
+;
+_journal_volume 10
+_journal_year 1971
+_journal_page_first 2089
+_journal_page_last 2090
+_publ_Section_title
+;
+ The Crystal Structure of High-Pressure Synthesized Holmium Diantimonde
+;
+
+# Found in The Ho-Sb Alloy System, 1984
+
+_aflow_title 'HoSb$_{2}$ Structure'
+_aflow_proto 'AB2_oC6_21_a_k'
+_aflow_params 'a,b/a,c/a,z_{2}'
+_aflow_params_values '3.343,1.73197726593,2.34519892312,0.34'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC6'
+
+_symmetry_space_group_name_H-M "C 2 2 2"
+_symmetry_Int_Tables_number 21
+ 
+_cell_length_a    3.34300
+_cell_length_b    5.79000
+_cell_length_c    7.84000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 x+1/2,y+1/2,z
+6 x+1/2,-y+1/2,-z
+7 -x+1/2,y+1/2,-z
+8 -x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ho1 Ho 2 a 0.00000 0.00000 0.00000 1.00000
+Sb1 Sb 4 k 0.25000 0.25000 0.34000 1.00000

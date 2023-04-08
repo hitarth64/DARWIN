@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'InS'
+_chemical_formula_sum 'In S'
+
+loop_
+_publ_author_name
+ 'K. Schubert'
+ 'E. D\"{o}rre'
+ 'E. G\"{u}nzel'
+_journal_name_full_name
+;
+ Naturwissenschaften
+;
+_journal_volume 41
+_journal_year 1954
+_journal_page_first 448
+_journal_page_last 448
+_publ_Section_title
+;
+ Kristallchemische Ergebnisse an Phasen aus B-Elementen
+;
+
+# Found in Pearson's Handbook of Crystallographic Data for Intermetallic Phases, 1991
+
+_aflow_title 'InS Structure'
+_aflow_proto 'AB_oP8_58_g_g'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},x_{2},y_{2}'
+_aflow_params_values '4.443,2.39522844925,0.886788206167,0.125,0.121,-0.005,0.355'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP8'
+
+_symmetry_space_group_name_H-M "P 21/n 21/n 2/m"
+_symmetry_Int_Tables_number 58
+ 
+_cell_length_a    4.44300
+_cell_length_b    10.64200
+_cell_length_c    3.94000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x+1/2,-y+1/2,z+1/2
+8 x,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In1 In 4 g 0.12500 0.12100 0.00000 1.00000
+S1 S 4 g -0.00500 0.35500 0.00000 1.00000

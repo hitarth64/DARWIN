@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Epididymite'
+_chemical_formula_sum 'Be H Na O8 Si3'
+
+loop_
+_publ_author_name
+ 'G. {Diego Gatta}'
+ 'N. Rotiroti'
+ 'G. J. {McIntyre}'
+ 'A. Guastoni'
+ 'F. Nestola'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 93
+_journal_year 2008
+_journal_page_first 1158
+_journal_page_last 1165
+_publ_Section_title
+;
+ New insights into the crystal chemistry of epididymite and eudidymite from Malosa, Malawi: A single-crystal neutron diffraction study
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Epididymite (BeHNaO$_{8}$Si$_{3}$, $S4_{7}$) Structure'
+_aflow_proto 'ABCD8E3_oP112_62_d_2c_d_4c6d_3d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17}'
+_aflow_params_values '12.7334,1.07039753719,0.576962947838,0.00647,0.58561,0.0134,0.38486,0.12005,1e-05,0.37761,0.76529,0.37,0.26883,0.05713,0.48974,0.49472,-0.00042,0.34273,0.10285,0.06934,0.50192,0.21704,0.1224,0.21004,0.06068,0.06612,0.00658,0.23777,0.11405,0.84938,0.43489,0.06457,0.78946,0.30497,0.1234,0.52074,0.41552,0.063,0.22624,0.15908,0.1378,0.01543,0.3426,0.13635,0.73115,0.33173,0.13741,0.30525'
+_aflow_Strukturbericht '$S4_{7}$'
+_aflow_Pearson 'oP112'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    12.73340
+_cell_length_b    13.62980
+_cell_length_c    7.34670
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 c 0.00647 0.25000 0.58561 1.00000
+H2 H 4 c 0.01340 0.25000 0.38486 1.00000
+O1 O 4 c 0.12005 0.25000 0.00001 1.00000
+O2 O 4 c 0.37761 0.25000 0.76529 1.00000
+O3 O 4 c 0.37000 0.25000 0.26883 1.00000
+O4 O 4 c 0.05713 0.25000 0.48974 1.00000
+Be1 Be 8 d 0.49472 -0.00042 0.34273 1.00000
+Na1 Na 8 d 0.10285 0.06934 0.50192 1.00000
+O5 O 8 d 0.21704 0.12240 0.21004 1.00000
+O6 O 8 d 0.06068 0.06612 0.00658 1.00000
+O7 O 8 d 0.23777 0.11405 0.84938 1.00000
+O8 O 8 d 0.43489 0.06457 0.78946 1.00000
+O9 O 8 d 0.30497 0.12340 0.52074 1.00000
+O10 O 8 d 0.41552 0.06300 0.22624 1.00000
+Si1 Si 8 d 0.15908 0.13780 0.01543 1.00000
+Si2 Si 8 d 0.34260 0.13635 0.73115 1.00000
+Si3 Si 8 d 0.33173 0.13741 0.30525 1.00000

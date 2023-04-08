@@ -1,0 +1,85 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Titanite'
+_chemical_formula_sum 'Ca O5 Si Ti'
+
+loop_
+_publ_author_name
+ 'F. C. Hawthorne'
+ 'L. A. Groat'
+ 'M. Raudsepp'
+ 'N. A. Ball'
+ 'M. Kimata'
+ 'F. D. Spike'
+ 'R. Gaba'
+ 'N. M. Halden'
+ 'G. R. Lumpkin'
+ 'R. C. Ewing'
+ 'R. B. Greegor'
+ 'F. W. Lytle'
+ 'T. {Scott Ercit}'
+ 'G. R. Rossman'
+ 'F. J. Wicks'
+ 'R. A. Ramik'
+ 'B. L. Sherriff'
+ 'M. E. Fleet'
+ 'C. {McCammon}'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 76
+_journal_year 1991
+_journal_page_first 370
+_journal_page_last 396
+_publ_Section_title
+;
+ Alpha-decay damage in titanite
+;
+
+_aflow_title 'Titanite (CaTiSiO$_{5}$, $S0_{6}$) Structure'
+_aflow_proto 'AB5CD_mC32_15_e_e2f_e_b'
+_aflow_params 'a,b/a,c/a,\beta,y_{2},y_{3},y_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '6.549,1.32768361582,1.07802717972,113.87,0.8323,0.5714,0.1828,0.1855,0.0663,0.4102,0.1025,0.2893,0.1185'
+_aflow_Strukturbericht '$S0_{6}$'
+_aflow_Pearson 'mC32'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    6.54900
+_cell_length_b    8.69500
+_cell_length_c    7.06000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  113.87000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 4 b 0.00000 0.50000 0.00000 1.00000
+Ca1 Ca 4 e 0.00000 0.83230 0.25000 1.00000
+O1 O 4 e 0.00000 0.57140 0.25000 1.00000
+Si1 Si 4 e 0.00000 0.18280 0.25000 1.00000
+O2 O 8 f 0.18550 0.06630 0.41020 1.00000
+O3 O 8 f 0.10250 0.28930 0.11850 1.00000

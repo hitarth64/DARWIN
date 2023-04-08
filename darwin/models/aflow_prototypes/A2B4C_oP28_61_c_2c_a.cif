@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ca2O4Ru'
+_chemical_formula_sum 'Ca2 O4 Ru'
+
+loop_
+_publ_author_name
+ 'O. Friedt'
+ 'M. Braden'
+ 'G. Andr\\'{e}'
+ 'P. Adelmann'
+ 'S. Nakatsuji'
+ 'Y. Maeno'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 63
+_journal_year 2001
+_journal_page_first 174432
+_journal_page_last 174432
+_publ_Section_title
+;
+ Structural and magnetic aspects of the metal-insulator transition in Ca$_{2-x}$Sr$_{x}$RuO$_{4}$
+;
+
+# Found in Unique Crystal Structure of Ca$_{2}$RuO$_{4}$ in the Current Stabilized Semimetallic State, 2019
+
+_aflow_title 'Ca$_{2}$RuO$_{4}$ Structure'
+_aflow_proto 'A2B4C_oP28_61_c_2c_a'
+_aflow_params 'a,b/a,c/a,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '5.3945,1.03807581796,2.18098062842,0.0042,0.0559,0.3524,0.1961,0.3018,0.0264,0.0673,0.4782,0.3355'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP28'
+
+_symmetry_space_group_name_H-M "P 21/b 21/c 21/a"
+_symmetry_Int_Tables_number 61
+ 
+_cell_length_a    5.39450
+_cell_length_b    5.59990
+_cell_length_c    11.76530
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y+1/2,z+1/2
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ru1 Ru 4 a 0.00000 0.00000 0.00000 1.00000
+Ca1 Ca 8 c 0.00420 0.05590 0.35240 1.00000
+O1 O 8 c 0.19610 0.30180 0.02640 1.00000
+O2 O 8 c 0.06730 0.47820 0.33550 1.00000

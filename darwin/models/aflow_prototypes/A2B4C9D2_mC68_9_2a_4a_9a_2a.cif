@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Nacrite'
+_chemical_formula_sum 'Al2 H4 O9 Si2'
+
+loop_
+_publ_author_name
+ 'A. P. Zhukhlistov'
+_journal_name_full_name
+;
+ Crystallography Reports
+;
+_journal_volume 53
+_journal_year 2008
+_journal_page_first 76
+_journal_page_last 82
+_publ_Section_title
+;
+ Crystal structure of nacrite from the electron diffraction data
+;
+
+_aflow_title 'Nacrite [Al$_{2}$Si$_{2}$O$_{5}$(OH)$_{4}$, $S5_{4}$] Structure'
+_aflow_proto 'A2B4C9D2_mC68_9_2a_4a_9a_2a'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17}'
+_aflow_params_values '8.91,0.577328843996,1.63782267116,100.5,0.8275,0.4297,-0.0002,0.1628,0.4245,0.0004,0.426,0.318,0.096,0.599,0.41,0.378,0.3,0.346,0.38,-0.001,0.386,0.38,0.1349,0.0011,0.2215,0.6809,0.0027,0.2362,-0.0881,0.3075,0.2371,0.0214,0.3111,0.0788,0.7143,0.238,0.0794,0.3271,0.2379,0.0748,0.164,0.1153,-0.066,0.7853,0.1207,-0.065,0.4772,0.0432,-0.0651,0.0632,0.2796,0.1897,0.7342,0.2656,0.1907'
+_aflow_Strukturbericht '$S5_{4}$'
+_aflow_Pearson 'mC68'
+
+_symmetry_space_group_name_H-M "C 1 c 1"
+_symmetry_Int_Tables_number 9
+ 
+_cell_length_a    8.91000
+_cell_length_b    5.14400
+_cell_length_c    14.59300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  100.50000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,z+1/2
+3 x+1/2,y+1/2,z
+4 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 4 a 0.82750 0.42970 -0.00020 1.00000
+Al2 Al 4 a 0.16280 0.42450 0.00040 1.00000
+H1 H 4 a 0.42600 0.31800 0.09600 1.00000
+H2 H 4 a 0.59900 0.41000 0.37800 1.00000
+H3 H 4 a 0.30000 0.34600 0.38000 1.00000
+H4 H 4 a -0.00100 0.38600 0.38000 1.00000
+O1 O 4 a 0.13490 0.00110 0.22150 1.00000
+O2 O 4 a 0.68090 0.00270 0.23620 1.00000
+O3 O 4 a -0.08810 0.30750 0.23710 1.00000
+O4 O 4 a 0.02140 0.31110 0.07880 1.00000
+O5 O 4 a 0.71430 0.23800 0.07940 1.00000
+O6 O 4 a 0.32710 0.23790 0.07480 1.00000
+O7 O 4 a 0.16400 0.11530 -0.06600 1.00000
+O8 O 4 a 0.78530 0.12070 -0.06500 1.00000
+O9 O 4 a 0.47720 0.04320 -0.06510 1.00000
+Si1 Si 4 a 0.06320 0.27960 0.18970 1.00000
+Si2 Si 4 a 0.73420 0.26560 0.19070 1.00000

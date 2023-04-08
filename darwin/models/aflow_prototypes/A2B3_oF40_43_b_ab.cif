@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ag2O3'
+_chemical_formula_sum 'Ag2 O3'
+
+loop_
+_publ_author_name
+ 'B. Standke'
+ 'M. Jansen'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 535
+_journal_year 1986
+_journal_page_first 39
+_journal_page_last 46
+_publ_Section_title
+;
+ Darstellung und Kristallstruktur von Ag$_{2}$O$_{3}$
+;
+
+_aflow_title 'Ag$_{2}$O$_{3}$ Structure'
+_aflow_proto 'A2B3_oF40_43_b_ab'
+_aflow_params 'a,b/a,c/a,z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '12.869,0.815137151294,0.284699665864,0.8402,-0.0467,0.1325,0.5,0.083,0.2333,0.6153'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oF40'
+
+_symmetry_space_group_name_H-M "F d d 2"
+_symmetry_Int_Tables_number 43
+ 
+_cell_length_a    12.86900
+_cell_length_b    10.49000
+_cell_length_c    3.66380
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x+1/4,y+1/4,z+1/4
+4 x+1/4,-y+1/4,z+1/4
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 -x+1/4,y+3/4,z+3/4
+8 x+1/4,-y+3/4,z+3/4
+9 x+1/2,y,z+1/2
+10 -x+1/2,-y,z+1/2
+11 -x+3/4,y+1/4,z+3/4
+12 x+3/4,-y+1/4,z+3/4
+13 x+1/2,y+1/2,z
+14 -x+1/2,-y+1/2,z
+15 -x+3/4,y+3/4,z+1/4
+16 x+3/4,-y+3/4,z+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 8 a 0.00000 0.00000 0.84020 1.00000
+Ag1 Ag 16 b -0.04670 0.13250 0.50000 1.00000
+O2 O 16 b 0.08300 0.23330 0.61530 1.00000

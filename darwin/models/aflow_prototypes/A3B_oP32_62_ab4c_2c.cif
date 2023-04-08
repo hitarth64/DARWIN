@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O3W'
+_chemical_formula_sum 'O3 W'
+
+loop_
+_publ_author_name
+ 'P. M. Woodward'
+ 'A. W. Sleight'
+ 'T. Vogt'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 131
+_journal_year 1997
+_journal_page_first 9
+_journal_page_last 17
+_publ_Section_title
+;
+ Ferroelectric Tungsten Trioxide
+;
+
+_aflow_title 'Original $\beta$-WO$_{3}$ ({\em obsolete}) Structure'
+_aflow_proto 'A3B_oP32_62_ab4c_2c'
+_aflow_params 'a,b/a,c/a,x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8}'
+_aflow_params_values '7.57,0.969749009247,1.02430647292,0.231,0.473,0.222,0.029,0.496,0.238,0.485,0.724,0.471,0.469,0.47,-0.032'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP32'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    7.57000
+_cell_length_b    7.34100
+_cell_length_c    7.75400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 a 0.00000 0.00000 0.00000 1.00000
+O2 O 4 b 0.00000 0.00000 0.50000 1.00000
+O3 O 4 c 0.23100 0.25000 0.47300 1.00000
+O4 O 4 c 0.22200 0.25000 0.02900 1.00000
+O5 O 4 c 0.49600 0.25000 0.23800 1.00000
+O6 O 4 c 0.48500 0.25000 0.72400 1.00000
+W1 W 4 c 0.47100 0.25000 0.46900 1.00000
+W2 W 4 c 0.47000 0.25000 -0.03200 1.00000

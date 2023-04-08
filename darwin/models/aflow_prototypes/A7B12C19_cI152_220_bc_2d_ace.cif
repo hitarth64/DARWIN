@@ -1,0 +1,113 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mayenite'
+_chemical_formula_sum 'Al7 Ca12 O19'
+
+loop_
+_publ_author_name
+ 'H. Boysen'
+ 'M. Lerch'
+ 'A. Stys'
+ 'A. Senyshyn'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 63
+_journal_year 2007
+_journal_page_first 675
+_journal_page_last 682
+_publ_Section_title
+;
+ Structure and oxygen mobility in mayenite (Ca$_{12}$Al$_{14}$O$_{33}$): a high-temperature neutron powder diffraction study
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Mayenite (12CaO$\cdot$7Al$_{2}$O$_{3}$, $K7_{4}$, C12A7) Structure'
+_aflow_proto 'A7B12C19_cI152_220_bc_2d_ace'
+_aflow_params 'a,x_{3},x_{4},x_{5},x_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '11.9794,0.0188,0.43519,0.1432,0.1867,0.78672,0.09946,0.30708'
+_aflow_Strukturbericht '$K7_{4}$'
+_aflow_Pearson 'cI152'
+
+_symmetry_space_group_name_H-M "I -4 3 d"
+_symmetry_Int_Tables_number 220
+ 
+_cell_length_a    11.97940
+_cell_length_b    11.97940
+_cell_length_c    11.97940
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z+1/2
+3 -x+1/2,y,-z
+4 -x,-y+1/2,z
+5 y,z,x
+6 y,-z,-x+1/2
+7 -y+1/2,z,-x
+8 -y,-z+1/2,x
+9 z,x,y
+10 z,-x,-y+1/2
+11 -z+1/2,x,-y
+12 -z,-x+1/2,y
+13 y+1/4,x+1/4,z+1/4
+14 y+1/4,-x+3/4,-z+1/4
+15 -y+1/4,x+1/4,-z+3/4
+16 -y+3/4,-x+1/4,z+1/4
+17 x+1/4,z+1/4,y+1/4
+18 x+1/4,-z+3/4,-y+1/4
+19 -x+1/4,z+1/4,-y+3/4
+20 -x+3/4,-z+1/4,y+1/4
+21 z+1/4,y+1/4,x+1/4
+22 z+1/4,-y+3/4,-x+1/4
+23 -z+1/4,y+1/4,-x+3/4
+24 -z+3/4,-y+1/4,x+1/4
+25 x+1/2,y+1/2,z+1/2
+26 x+1/2,-y+1/2,-z
+27 -x,y+1/2,-z+1/2
+28 -x+1/2,-y,z+1/2
+29 y+1/2,z+1/2,x+1/2
+30 y+1/2,-z+1/2,-x
+31 -y,z+1/2,-x+1/2
+32 -y+1/2,-z,x+1/2
+33 z+1/2,x+1/2,y+1/2
+34 z+1/2,-x+1/2,-y
+35 -z,x+1/2,-y+1/2
+36 -z+1/2,-x,y+1/2
+37 y+3/4,x+3/4,z+3/4
+38 y+3/4,-x+1/4,-z+3/4
+39 -y+3/4,x+3/4,-z+1/4
+40 -y+1/4,-x+3/4,z+3/4
+41 x+3/4,z+3/4,y+3/4
+42 x+3/4,-z+1/4,-y+3/4
+43 -x+3/4,z+3/4,-y+1/4
+44 -x+1/4,-z+3/4,y+3/4
+45 z+3/4,y+3/4,x+3/4
+46 z+3/4,-y+1/4,-x+3/4
+47 -z+3/4,y+3/4,-x+1/4
+48 -z+1/4,-y+3/4,x+3/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 12 a 0.37500 0.00000 0.25000 0.16667
+Al1 Al 12 b 0.87500 0.00000 0.25000 1.00000
+Al2 Al 16 c 0.01880 0.01880 0.01880 1.00000
+O2 O 16 c 0.43519 0.43519 0.43519 1.00000
+Ca1 Ca 24 d 0.14320 0.00000 0.25000 0.87500
+Ca2 Ca 24 d 0.18670 0.00000 0.25000 0.12500
+O3 O 48 e 0.78672 0.09946 0.30708 1.00000

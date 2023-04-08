@@ -1,0 +1,75 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'KNO3'
+_chemical_formula_sum 'K N O3'
+
+loop_
+_publ_author_name
+ 'G. Adiwidjaja'
+ 'D. Pohl'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 59
+_journal_year 2003
+_journal_page_first i139
+_journal_page_last i140
+_publ_Section_title
+;
+ Superstructure of $\alpha$-phase potassium nitrate
+;
+
+_aflow_title '$\alpha$-Potassium Nitrate (KNO$_{3}$) II Structure'
+_aflow_proto 'ABC3_oC80_36_2ab_2ab_2a5b'
+_aflow_params 'a,b/a,c/a,y_{1},z_{1},y_{2},z_{2},y_{3},z_{3},y_{4},z_{4},y_{5},z_{5},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13}'
+_aflow_params_values '10.825,1.69524249423,0.594457274827,0.41703,0.2604,-0.08321,0.2614,0.2483,0.4215,0.7469,0.4208,0.1807,0.414,0.6788,0.4138,0.2498,0.1667,0.25104,0.2497,0.4979,0.0911,0.0999,0.283,0.4206,0.3987,0.2809,0.4248,0.6506,0.0313,0.0984,0.8479,0.0321,0.0896,0.2478,0.4296,0.0937'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC80'
+
+_symmetry_space_group_name_H-M "C m c 21"
+_symmetry_Int_Tables_number 36
+ 
+_cell_length_a    10.82500
+_cell_length_b    18.35100
+_cell_length_c    6.43500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x,y,z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,-y+1/2,z+1/2
+7 -x+1/2,y+1/2,z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 4 a 0.00000 0.41703 0.26040 1.00000
+K2 K 4 a 0.00000 -0.08321 0.26140 1.00000
+N1 N 4 a 0.00000 0.24830 0.42150 1.00000
+N2 N 4 a 0.00000 0.74690 0.42080 1.00000
+O1 O 4 a 0.00000 0.18070 0.41400 1.00000
+O2 O 4 a 0.00000 0.67880 0.41380 1.00000
+K3 K 8 b 0.24980 0.16670 0.25104 1.00000
+N3 N 8 b 0.24970 0.49790 0.09110 1.00000
+O3 O 8 b 0.09990 0.28300 0.42060 1.00000
+O4 O 8 b 0.39870 0.28090 0.42480 1.00000
+O5 O 8 b 0.65060 0.03130 0.09840 1.00000
+O6 O 8 b 0.84790 0.03210 0.08960 1.00000
+O7 O 8 b 0.24780 0.42960 0.09370 1.00000

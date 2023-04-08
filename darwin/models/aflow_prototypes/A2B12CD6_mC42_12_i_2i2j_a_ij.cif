@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Bischofite'
+_chemical_formula_sum 'Cl2 H12 Mg O6'
+
+loop_
+_publ_author_name
+ 'P. A. Agron'
+ 'W. R. Busing'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 41
+_journal_year 1985
+_journal_page_first 8
+_journal_page_last 10
+_publ_Section_title
+;
+ Magnesium dichloride hexahydrate, MgCl$_{2}$$\cdot$6H$_{2}$O, by neutron diffraction
+;
+
+_aflow_title 'Bischofite (MgCl$_{2}$$\cdot$6H$_{2}$O, $J1_{7}$) Structure'
+_aflow_proto 'A2B12CD6_mC42_12_i_2i2j_a_ij'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '9.8607,0.720750048171,0.615950186092,93.758,0.3176,0.6122,0.2372,0.2583,0.2693,0.0083,0.2019,0.1095,0.0209,0.2997,0.2784,0.8839,0.1984,0.3151,-0.0429,0.2067,0.2233'
+_aflow_Strukturbericht '$J1_{7}$'
+_aflow_Pearson 'mC42'
+
+_symmetry_space_group_name_H-M "C 1 2/m 1"
+_symmetry_Int_Tables_number 12
+ 
+_cell_length_a    9.86070
+_cell_length_b    7.10710
+_cell_length_c    6.07370
+_cell_angle_alpha 90.00000
+_cell_angle_beta  93.75800
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 -x,-y,-z
+4 x,-y,z
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 2 a 0.00000 0.00000 0.00000 1.00000
+Cl1 Cl 4 i 0.31760 0.00000 0.61220 1.00000
+H1 H 4 i 0.23720 0.00000 0.25830 1.00000
+H2 H 4 i 0.26930 0.00000 0.00830 1.00000
+O1 O 4 i 0.20190 0.00000 0.10950 1.00000
+H3 H 8 j 0.02090 0.29970 0.27840 1.00000
+H4 H 8 j 0.88390 0.19840 0.31510 1.00000
+O2 O 8 j -0.04290 0.20670 0.22330 1.00000

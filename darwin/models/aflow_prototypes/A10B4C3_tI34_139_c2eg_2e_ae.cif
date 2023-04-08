@@ -1,0 +1,96 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O10Sr4Ti3'
+_chemical_formula_sum 'O10 Sr4 Ti3'
+
+loop_
+_publ_author_name
+ 'S. N. Ruddlesden'
+ 'P. Popper'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 11
+_journal_year 1958
+_journal_page_first 54
+_journal_page_last 55
+_publ_Section_title
+;
+ The compound Sr$_{3}$Ti$_{2}$O$_{7}$ and its structure
+;
+
+# Found in Ruddlesden-Popper phase, {A$_{3}$B$_{2}$X$_{7}$ series},
+
+_aflow_title 'Sr$_{4}$Ti$_{3}$O$_{10}$ Structure'
+_aflow_proto 'A10B4C3_tI34_139_c2eg_2e_ae'
+_aflow_params 'a,c/a,z_{3},z_{4},z_{5},z_{6},z_{7},z_{8}'
+_aflow_params_values '3.9,7.20512820513,0.068,0.204,0.432,0.296,0.136,0.136'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI34'
+
+_symmetry_space_group_name_H-M "I 4/m 2/m 2/m"
+_symmetry_Int_Tables_number 139
+ 
+_cell_length_a    3.90000
+_cell_length_b    3.90000
+_cell_length_c    28.10000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -y,-x,-z
+6 -y,x,z
+7 y,-x,z
+8 y,x,-z
+9 -x,-y,-z
+10 -x,y,z
+11 x,-y,z
+12 x,y,-z
+13 y,x,z
+14 y,-x,-z
+15 -y,x,-z
+16 -y,-x,z
+17 x+1/2,y+1/2,z+1/2
+18 x+1/2,-y+1/2,-z+1/2
+19 -x+1/2,y+1/2,-z+1/2
+20 -x+1/2,-y+1/2,z+1/2
+21 -y+1/2,-x+1/2,-z+1/2
+22 -y+1/2,x+1/2,z+1/2
+23 y+1/2,-x+1/2,z+1/2
+24 y+1/2,x+1/2,-z+1/2
+25 -x+1/2,-y+1/2,-z+1/2
+26 -x+1/2,y+1/2,z+1/2
+27 x+1/2,-y+1/2,z+1/2
+28 x+1/2,y+1/2,-z+1/2
+29 y+1/2,x+1/2,z+1/2
+30 y+1/2,-x+1/2,-z+1/2
+31 -y+1/2,x+1/2,-z+1/2
+32 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 2 a 0.00000 0.00000 0.00000 1.00000
+O1 O 4 c 0.00000 0.50000 0.00000 1.00000
+O2 O 4 e 0.00000 0.00000 0.06800 1.00000
+O3 O 4 e 0.00000 0.00000 0.20400 1.00000
+Sr1 Sr 4 e 0.00000 0.00000 0.43200 1.00000
+Sr2 Sr 4 e 0.00000 0.00000 0.29600 1.00000
+Ti2 Ti 4 e 0.00000 0.00000 0.13600 1.00000
+O4 O 8 g 0.00000 0.50000 0.13600 1.00000

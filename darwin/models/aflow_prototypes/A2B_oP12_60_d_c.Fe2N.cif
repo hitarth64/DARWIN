@@ -1,0 +1,64 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Fe2N'
+_chemical_formula_sum 'Fe2 N'
+
+loop_
+_publ_author_name
+ 'D. Rechenbach'
+ 'H. Jacobs'
+_journal_name_full_name
+;
+ Journal of Alloys and Compounds
+;
+_journal_volume 235
+_journal_year 1996
+_journal_page_first 15
+_journal_page_last 22
+_publ_Section_title
+;
+ Structure determination of $\zeta$-Fe$_{2}$N by neutron and synchrotron powder diffraction
+;
+
+_aflow_title '$\zeta$-Fe$_{2}$N Structure'
+_aflow_proto 'A2B_oP12_60_d_c'
+_aflow_params 'a,b/a,c/a,y_{1},x_{2},y_{2},z_{2}'
+_aflow_params_values '4.4373,1.24879994591,1.09140693665,0.364,0.249,0.128,0.0827'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP12'
+
+_symmetry_space_group_name_H-M "P 21/b 2/c 21/n"
+_symmetry_Int_Tables_number 60
+ 
+_cell_length_a    4.43730
+_cell_length_b    5.54130
+_cell_length_c    4.84290
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y,-z+1/2
+4 -x+1/2,-y+1/2,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y,z+1/2
+8 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 4 c 0.00000 0.36400 0.25000 1.00000
+Fe1 Fe 8 d 0.24900 0.12800 0.08270 1.00000

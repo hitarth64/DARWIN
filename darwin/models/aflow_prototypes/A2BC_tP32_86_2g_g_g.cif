@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl2NP'
+_chemical_formula_sum 'Cl2 N P'
+
+loop_
+_publ_author_name
+ 'J. A. A. Ketelaar'
+ 'T. A. {de Vries}'
+_journal_name_full_name
+;
+ Recueil des Travaux Chimiques des Pays-Bas
+;
+_journal_volume 58
+_journal_year 1939
+_journal_page_first 1081
+_journal_page_last 1099
+_publ_Section_title
+;
+ The crystal structure of tetra phosphonitrile chloride, P$_{4}$N$_{4}$Cl$_{8}$
+;
+
+_aflow_title 'PNCl$_{2}$ ($E1_{4}$) Structure'
+_aflow_proto 'A2BC_tP32_86_2g_g_g'
+_aflow_params 'a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '10.82,0.549907578558,0.551,0.852,0.86,0.594,0.198,0.69,0.625,0.645,0.14,0.574,0.791,0.17'
+_aflow_Strukturbericht '$E1_{4}$'
+_aflow_Pearson 'tP32'
+
+_symmetry_space_group_name_H-M "P 42/n (origin choice 2)"
+_symmetry_Int_Tables_number 86
+ 
+_cell_length_a    10.82000
+_cell_length_b    10.82000
+_cell_length_c    5.95000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,-y+1/2,z
+3 -y,x+1/2,z+1/2
+4 y+1/2,-x,z+1/2
+5 -x,-y,-z
+6 x+1/2,y+1/2,-z
+7 y,-x+1/2,-z+1/2
+8 -y+1/2,x,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 8 g 0.55100 0.85200 0.86000 1.00000
+Cl2 Cl 8 g 0.59400 0.19800 0.69000 1.00000
+N1 N 8 g 0.62500 0.64500 0.14000 1.00000
+P1 P 8 g 0.57400 0.79100 0.17000 1.00000

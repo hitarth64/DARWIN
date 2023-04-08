@@ -1,0 +1,79 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ge9Na4O20'
+_chemical_formula_sum 'Ge9 Na4 O20'
+
+loop_
+_publ_author_name
+ 'N. Ingri'
+ 'G. Lundgren'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 17
+_journal_year 1963
+_journal_page_first 617
+_journal_page_last 633
+_publ_Section_title
+;
+ The Crystal Structure of Na$_{4}$Ge$_{9}$O$_{20}$
+;
+
+_aflow_title 'Na$_{4}$Ge$_{9}$O$_{20}$ Structure'
+_aflow_proto 'A9B4C20_tI132_88_a2f_f_5f'
+_aflow_params 'a,c/a,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '14.97999,0.492924227586,0.1366,0.046,0.7009,0.0956,0.218,0.4912,0.0878,0.0544,0.1702,0.0928,0.2127,0.2448,0.0824,0.2227,0.7476,0.1889,0.0739,-0.0926,0.0253,0.0446,0.7555,0.1554,0.1088,0.507'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI132'
+
+_symmetry_space_group_name_H-M "I 41/a (origin choice 2)"
+_symmetry_Int_Tables_number 88
+ 
+_cell_length_a    14.97999
+_cell_length_b    14.97999
+_cell_length_c    7.38400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y+1/2,z
+3 -y+3/4,x+1/4,z+1/4
+4 y+1/4,-x+1/4,z+1/4
+5 -x,-y,-z
+6 x,y+1/2,-z
+7 y+1/4,-x+3/4,-z+3/4
+8 -y+3/4,x+3/4,-z+3/4
+9 x+1/2,y+1/2,z+1/2
+10 -x+1/2,-y,z+1/2
+11 -y+1/4,x+3/4,z+3/4
+12 y+3/4,-x+3/4,z+3/4
+13 -x+1/2,-y+1/2,-z+1/2
+14 x+1/2,y,-z+1/2
+15 y+3/4,-x+1/4,-z+1/4
+16 -y+1/4,x+1/4,-z+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ge1 Ge 4 a 0.00000 0.25000 0.12500 1.00000
+Ge2 Ge 16 f 0.13660 0.04600 0.70090 1.00000
+Ge3 Ge 16 f 0.09560 0.21800 0.49120 1.00000
+Na1 Na 16 f 0.08780 0.05440 0.17020 1.00000
+O1 O 16 f 0.09280 0.21270 0.24480 1.00000
+O2 O 16 f 0.08240 0.22270 0.74760 1.00000
+O3 O 16 f 0.18890 0.07390 -0.09260 1.00000
+O4 O 16 f 0.02530 0.04460 0.75550 1.00000
+O5 O 16 f 0.15540 0.10880 0.50700 1.00000

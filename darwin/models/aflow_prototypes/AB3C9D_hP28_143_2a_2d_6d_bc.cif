@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'BaLi3O9W'
+_chemical_formula_sum 'B La3 O9 W'
+
+loop_
+_publ_author_name
+ 'J. Han'
+ 'F. Pan'
+ 'M. S. Molokeev'
+ 'J. Dai'
+ 'M. Peng'
+ 'W. Zhou'
+ 'J. Wang'
+_journal_name_full_name
+;
+ ACS Applied Materials and Interfaces
+;
+_journal_volume 10
+_journal_year 2018
+_journal_page_first 13660
+_journal_page_last 13668
+_publ_Section_title
+;
+ Redefinition of Crystal Structure and Bi$^{3+}$ Yellow Luminescence with Strong Near-Ultraviolet Excitation in La$_{3}$BWO$_{9}$:Bi$^{3+}$ Phosphor for White Light-Emitting Diodes
+;
+
+_aflow_title 'La$_{3}$BWO$_{9}$ ($P3$) Structure'
+_aflow_proto 'AB3C9D_hP28_143_2a_2d_6d_bc'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12}'
+_aflow_params_values '8.84326,0.630483554707,0.36,0.84,0.25,0.77,0.363,0.084,0.229,0.278,0.365,0.737,0.172,0.056,0.839,0.138,0.169,0.418,0.181,0.498,-0.017,0.728,0.198,0.594,0.134,0.502,0.427,0.617,0.143,-0.004'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP28'
+
+_symmetry_space_group_name_H-M "P 3"
+_symmetry_Int_Tables_number 143
+ 
+_cell_length_a    8.84326
+_cell_length_b    8.84326
+_cell_length_c    5.57553
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 1 a 0.00000 0.00000 0.36000 1.00000
+B2 B 1 a 0.00000 0.00000 0.84000 1.00000
+W1 W 1 b 0.33333 0.66667 0.25000 1.00000
+W2 W 1 c 0.66667 0.33333 0.77000 1.00000
+La1 La 3 d 0.36300 0.08400 0.22900 1.00000
+La2 La 3 d 0.27800 0.36500 0.73700 1.00000
+O1 O 3 d 0.17200 0.05600 0.83900 1.00000
+O2 O 3 d 0.13800 0.16900 0.41800 1.00000
+O3 O 3 d 0.18100 0.49800 -0.01700 1.00000
+O4 O 3 d 0.72800 0.19800 0.59400 1.00000
+O5 O 3 d 0.13400 0.50200 0.42700 1.00000
+O6 O 3 d 0.61700 0.14300 -0.00400 1.00000

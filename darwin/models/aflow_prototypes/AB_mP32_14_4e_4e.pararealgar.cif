@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Pararealgar'
+_chemical_formula_sum 'As S'
+
+loop_
+_publ_author_name
+ 'P. Bonazzi'
+ 'S. Menchetti'
+ 'G. Pratesi'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 80
+_journal_year 1995
+_journal_page_first 400
+_journal_page_last 403
+_publ_Section_title
+;
+ The crystal structure of pararealgar, As$_{4}$S$_{4}$
+;
+
+_aflow_title 'Pararealgar (AsS) Structure'
+_aflow_proto 'AB_mP32_14_4e_4e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '9.909,0.97436673731,0.858007871632,97.29,0.3187,0.6355,0.0432,0.0819,0.5427,0.3252,0.3698,0.3607,0.3431,0.1455,0.3439,0.1643,0.1645,0.7187,0.1923,0.2537,0.4782,0.5099,0.4703,0.5276,0.2192,0.1964,0.4483,-0.0492'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP32'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    9.90900
+_cell_length_b    9.65500
+_cell_length_c    8.50200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  97.29000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+As1 As 4 e 0.31870 0.63550 0.04320 1.00000
+As2 As 4 e 0.08190 0.54270 0.32520 1.00000
+As3 As 4 e 0.36980 0.36070 0.34310 1.00000
+As4 As 4 e 0.14550 0.34390 0.16430 1.00000
+S1 S 4 e 0.16450 0.71870 0.19230 1.00000
+S2 S 4 e 0.25370 0.47820 0.50990 1.00000
+S3 S 4 e 0.47030 0.52760 0.21920 1.00000
+S4 S 4 e 0.19640 0.44830 -0.04920 1.00000

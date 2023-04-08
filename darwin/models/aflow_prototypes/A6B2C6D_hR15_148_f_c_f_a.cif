@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H6K2O6Sn'
+_chemical_formula_sum 'H6 K2 O6 Sn'
+
+loop_
+_publ_author_name
+ 'H. Jacobs'
+ 'R. Stahl'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 626
+_journal_year 2000
+_journal_page_first 1863
+_journal_page_last 1866
+_publ_Section_title
+;
+ Neubestimmung der Kristallstrukturen der Hexahydroxometallate Na$_{2}$Sn(OH)$_{6}$, K$_{2}$Sn(OH)$_{6}$ und K$_{2}$Pb(OH)$_{6}$
+;
+
+# Found in K$_{2}$Sn(OH)$_{6}$ (K$_{2}$Sn[OH]$_{6}$) Crystal Structure, {PAULING FILE in: Inorganic Solid Phases, SpringerMaterials (online database), Springer, Heidelberg (ed.) Springer Materials}, 2016
+
+_aflow_title 'K$_{2}$Sn(OH)$_{6}$ ($H6_{2}$) Structure'
+_aflow_proto 'A6B2C6D_hR15_148_f_c_f_a'
+_aflow_params 'a,c/a,x_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.541,1.95887478979,0.28715,0.248,-0.202,0.326,0.296,-0.2014,0.1778'
+_aflow_Strukturbericht '$H6_{2}$'
+_aflow_Pearson 'hR15'
+
+_symmetry_space_group_name_H-M "R -3 (hexagonal axes)"
+_symmetry_Int_Tables_number 148
+ 
+_cell_length_a    6.54100
+_cell_length_b    6.54100
+_cell_length_c    12.81300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,-z
+5 y,-x+y,-z
+6 x-y,x,-z
+7 x+1/3,y+2/3,z+2/3
+8 -y+1/3,x-y+2/3,z+2/3
+9 -x+y+1/3,-x+2/3,z+2/3
+10 -x+1/3,-y+2/3,-z+2/3
+11 y+1/3,-x+y+2/3,-z+2/3
+12 x-y+1/3,x+2/3,-z+2/3
+13 x+2/3,y+1/3,z+1/3
+14 -y+2/3,x-y+1/3,z+1/3
+15 -x+y+2/3,-x+1/3,z+1/3
+16 -x+2/3,-y+1/3,-z+1/3
+17 y+2/3,-x+y+1/3,-z+1/3
+18 x-y+2/3,x+1/3,-z+1/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sn1 Sn 3 a 0.00000 0.00000 0.00000 1.00000
+K1 K 6 c 0.00000 0.00000 0.28715 1.00000
+H1 H 18 f 0.12400 0.32600 0.12400 1.00000
+O1 O 18 f 0.20520 0.29220 0.09080 1.00000

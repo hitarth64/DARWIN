@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O6Se2V'
+_chemical_formula_sum 'O6 Se2 V'
+
+loop_
+_publ_author_name
+ 'G. Meunier'
+ 'M. Bertaud'
+ 'J. Galy'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 30
+_journal_year 1974
+_journal_page_first 2834
+_journal_page_last 2839
+_publ_Section_title
+;
+ Cristallochimie du s\\'{e}l\\'{e}nium(+IV). I. VSe$_{2}$O$_{6}$, une structure \`{a} trois cha\^{i}nes parall\`{e}les (VO$_{5}$)$^{6n-}_{n}$ ind\\'{e}pendantes pont\\'{e}es par des groupements (Se$_{2}$O)$^{6+}$
+;
+
+_aflow_title 'VSe$_{2}$O$_{6}$ Structure'
+_aflow_proto 'A6B2C_tP72_103_abc5d_2d_abc'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},z_{4},z_{5},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13}'
+_aflow_params_values '11.22,0.700534759358,0.377,0.1715,0.223,0.4274,0.391,0.0972,0.1233,0.12,0.13,0.2546,0.255,0.44,0.0919,0.3511,0.146,0.3271,0.4759,0.468,0.4059,0.1432,0.15,0.1033,0.2405,0.0,0.3671,0.2818,0.1031'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP72'
+
+_symmetry_space_group_name_H-M "P 4 c c"
+_symmetry_Int_Tables_number 103
+ 
+_cell_length_a    11.22000
+_cell_length_b    11.22000
+_cell_length_c    7.86000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,y,z+1/2
+6 x,-y,z+1/2
+7 y,x,z+1/2
+8 -y,-x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 a 0.00000 0.00000 0.37700 1.00000
+V1 V 2 a 0.00000 0.00000 0.17150 1.00000
+O2 O 2 b 0.50000 0.50000 0.22300 1.00000
+V2 V 2 b 0.50000 0.50000 0.42740 1.00000
+O3 O 4 c 0.00000 0.50000 0.39100 1.00000
+V3 V 4 c 0.00000 0.50000 0.09720 1.00000
+O4 O 8 d 0.12330 0.12000 0.13000 1.00000
+O5 O 8 d 0.25460 0.25500 0.44000 1.00000
+O6 O 8 d 0.09190 0.35110 0.14600 1.00000
+O7 O 8 d 0.32710 0.47590 0.46800 1.00000
+O8 O 8 d 0.40590 0.14320 0.15000 1.00000
+Se1 Se 8 d 0.10330 0.24050 0.00000 1.00000
+Se2 Se 8 d 0.36710 0.28180 0.10310 1.00000

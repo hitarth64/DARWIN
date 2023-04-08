@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Atacamite'
+_chemical_formula_sum 'Cl Cu2 H3 O3'
+
+loop_
+_publ_author_name
+ 'J. B. Parise'
+ 'B. G. Hyde'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 42
+_journal_year 1986
+_journal_page_first 1277
+_journal_page_last 1280
+_publ_Section_title
+;
+ The structure of atacamite and its relationship to spinel
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Atacamite (Cu$_{2}$(OH)$_{3}$Cl) Structure'
+_aflow_proto 'AB2C3D3_oP36_62_c_ac_cd_cd'
+_aflow_params 'a,b/a,c/a,x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '6.03,1.13847429519,1.51243781095,0.8518,0.5556,0.3094,0.2447,0.1951,0.5148,0.3502,0.5018,-0.0669,0.4666,0.7279,-0.0594,0.5651,0.7879'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP36'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    6.03000
+_cell_length_b    6.86500
+_cell_length_c    9.12000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 4 a 0.00000 0.00000 0.00000 1.00000
+Cl1 Cl 4 c 0.85180 0.25000 0.55560 1.00000
+Cu2 Cu 4 c 0.30940 0.25000 0.24470 1.00000
+H1 H 4 c 0.19510 0.25000 0.51480 1.00000
+O1 O 4 c 0.35020 0.25000 0.50180 1.00000
+H2 H 8 d -0.06690 0.46660 0.72790 1.00000
+O2 O 8 d -0.05940 0.56510 0.78790 1.00000

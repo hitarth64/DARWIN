@@ -1,0 +1,63 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl2O5Sb4'
+_chemical_formula_sum 'Cl2 O5 Sb4'
+
+loop_
+_publ_author_name
+ 'C. S\"{a}rnstrand'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 2402
+_journal_page_last 2407
+_publ_Section_title
+;
+ The crystal structure of antimony(III) chloride oxide Sb$_{4}$O$_{5}$Cl$_{2}$
+;
+
+_aflow_title 'Sb$_{4}$O$_{5}$Cl$_{2}$ Structure'
+_aflow_proto 'A2B5C4_mP22_14_e_c2e_2e'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '6.238,0.819365181148,2.170246874,97.217,0.51,0.703,0.115,0.13,0.35,0.185,0.07,0.05,-0.085,0.186,0.225,0.049,0.796,0.113,0.203'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP22'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    6.23800
+_cell_length_b    5.11120
+_cell_length_c    13.53800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  97.21700
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 c 0.00000 0.00000 0.50000 1.00000
+Cl1 Cl 4 e 0.51000 0.70300 0.11500 1.00000
+O2 O 4 e 0.13000 0.35000 0.18500 1.00000
+O3 O 4 e 0.07000 0.05000 -0.08500 1.00000
+Sb1 Sb 4 e 0.18600 0.22500 0.04900 1.00000
+Sb2 Sb 4 e 0.79600 0.11300 0.20300 1.00000

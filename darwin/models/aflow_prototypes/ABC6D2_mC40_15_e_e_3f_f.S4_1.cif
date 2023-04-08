@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Diopside'
+_chemical_formula_sum 'Ca Mg O6 Si2'
+
+loop_
+_publ_author_name
+ 'L. W. Finger'
+ 'Y. Ohashi'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 61
+_journal_year 1976
+_journal_page_first 303
+_journal_page_last 310
+_publ_Section_title
+;
+ The thermal expansion of diopside to 800$^{\circ}$C and a refinement of the crystal structure at 700$^{\circ}$C
+;
+
+_aflow_title 'Diopside [CaMg(SiO$_{3}$)$_{2}$, $S4_{1}$] Structure'
+_aflow_proto 'ABC6D2_mC40_15_e_e_3f_f'
+_aflow_params 'a,b/a,c/a,\beta,y_{1},y_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '9.804,0.921052631579,0.538249694002,106.02,-0.0933,0.3003,0.1167,0.0872,0.1417,0.3617,0.246,0.3166,0.3493,0.0155,-0.0022,0.2864,0.0923,0.2299'
+_aflow_Strukturbericht '$S4_{1}$'
+_aflow_Pearson 'mC40'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    9.80400
+_cell_length_b    9.03000
+_cell_length_c    5.27700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  106.02000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 4 e 0.00000 -0.09330 0.25000 1.00000
+Mg1 Mg 4 e 0.00000 0.30030 0.25000 1.00000
+O1 O 8 f 0.11670 0.08720 0.14170 1.00000
+O2 O 8 f 0.36170 0.24600 0.31660 1.00000
+O3 O 8 f 0.34930 0.01550 -0.00220 1.00000
+Si1 Si 8 f 0.28640 0.09230 0.22990 1.00000

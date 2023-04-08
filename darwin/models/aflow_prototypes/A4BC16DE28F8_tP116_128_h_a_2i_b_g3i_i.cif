@@ -1,0 +1,79 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Apophyllite'
+_chemical_formula_sum 'Ca4 F H16 K O28 Si8'
+
+loop_
+_publ_author_name
+ 'G. Y. Chao'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 56
+_journal_year 1971
+_journal_page_first 1234
+_journal_page_last 1242
+_publ_Section_title
+;
+ The refinement of the crystal structure of apophyllite: II. Determination of the hydrogen positions by X-ray diffraction
+;
+
+_aflow_title 'Apophyllite (KCa$_{4}$Si$_{8}$O$_{20}$F$\cdot$8H$_{2}$O, $S5_{2}$) Structure'
+_aflow_proto 'A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i'
+_aflow_params 'a,c/a,x_{3},x_{4},y_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10}'
+_aflow_params_values '8.965,1.75872838818,0.1369,0.1094,0.2466,0.4515,0.177,0.0775,0.2362,0.4706,0.1198,0.0846,0.1891,0.2178,0.2636,0.1026,0.0923,0.2131,0.4491,0.0898,0.2256,0.0865,0.19'
+_aflow_Strukturbericht '$S5_{2}$'
+_aflow_Pearson 'tP116'
+
+_symmetry_space_group_name_H-M "P 4/m 21/n 2/c"
+_symmetry_Int_Tables_number 128
+ 
+_cell_length_a    8.96500
+_cell_length_b    8.96500
+_cell_length_c    15.76700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -y+1/2,-x+1/2,-z+1/2
+6 -y,x,z
+7 y,-x,z
+8 y+1/2,x+1/2,-z+1/2
+9 -x,-y,-z
+10 -x+1/2,y+1/2,z+1/2
+11 x+1/2,-y+1/2,z+1/2
+12 x,y,-z
+13 y+1/2,x+1/2,z+1/2
+14 y,-x,-z
+15 -y,x,-z
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F1 F 2 a 0.00000 0.00000 0.00000 1.00000
+K1 K 2 b 0.00000 0.00000 0.50000 1.00000
+O1 O 8 g 0.13690 0.63690 0.25000 1.00000
+Ca1 Ca 8 h 0.10940 0.24660 0.00000 1.00000
+H1 H 16 i 0.45150 0.17700 0.07750 1.00000
+H2 H 16 i 0.23620 0.47060 0.11980 1.00000
+O2 O 16 i 0.08460 0.18910 0.21780 1.00000
+O3 O 16 i 0.26360 0.10260 0.09230 1.00000
+O4 O 16 i 0.21310 0.44910 0.08980 1.00000
+Si1 Si 16 i 0.22560 0.08650 0.19000 1.00000

@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Nb2O17Zr6'
+_chemical_formula_sum 'Nb2 O17 Zr6'
+
+loop_
+_publ_author_name
+ 'J. Galy'
+ 'R. S. Roth'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 7
+_journal_year 1973
+_journal_page_first 277
+_journal_page_last 285
+_publ_Section_title
+;
+ The Crystal Structure of Nb$_{2}$Zr$_{6}$O$_{17}$
+;
+
+# Found in Crystal structure solution for the $A_{6}$$B_{2}$O$_{17}$ ($A$ = Zr, Hf; $B$ = Nb, Ta) superstructure, 2019
+
+_aflow_title 'Nb$_{2}$Zr$_{6}$O$_{17}$ Structure'
+_aflow_proto 'A2B17C6_oI100_46_ab_b8c_3c'
+_aflow_params 'a,b/a,c/a,z_{1},y_{2},z_{2},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14}'
+_aflow_params_values '40.92,0.120478983382,0.128787878788,0.0,0.5151,0.5087,0.3564,0.1537,0.1976,0.3485,0.4426,0.2195,0.8082,0.311,0.1589,0.7925,0.3251,0.0956,0.7915,0.2785,0.0362,0.7505,0.3797,0.0827,0.2994,0.4251,0.0249,0.2973,0.1839,0.1419,0.3421,0.1826,0.065,-0.0152,0.5894,0.1278,0.5138,0.5136,0.18965,-0.0151,0.5861'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oI100'
+
+_symmetry_space_group_name_H-M "I m a 2"
+_symmetry_Int_Tables_number 46
+ 
+_cell_length_a    40.92000
+_cell_length_b    4.93000
+_cell_length_c    5.27000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x+1/2,y,z
+4 x+1/2,-y,z
+5 x+1/2,y+1/2,z+1/2
+6 -x+1/2,-y+1/2,z+1/2
+7 -x,y+1/2,z+1/2
+8 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Nb1 Nb 4 a 0.00000 0.00000 0.00000 1.00000
+Nb2 Nb 4 b 0.25000 0.51510 0.50870 1.00000
+O1 O 4 b 0.25000 0.35640 0.15370 1.00000
+O2 O 8 c 0.19760 0.34850 0.44260 1.00000
+O3 O 8 c 0.21950 0.80820 0.31100 1.00000
+O4 O 8 c 0.15890 0.79250 0.32510 1.00000
+O5 O 8 c 0.09560 0.79150 0.27850 1.00000
+O6 O 8 c 0.03620 0.75050 0.37970 1.00000
+O7 O 8 c 0.08270 0.29940 0.42510 1.00000
+O8 O 8 c 0.02490 0.29730 0.18390 1.00000
+O9 O 8 c 0.14190 0.34210 0.18260 1.00000
+Zr1 Zr 8 c 0.06500 -0.01520 0.58940 1.00000
+Zr2 Zr 8 c 0.12780 0.51380 0.51360 1.00000
+Zr3 Zr 8 c 0.18965 -0.01510 0.58610 1.00000

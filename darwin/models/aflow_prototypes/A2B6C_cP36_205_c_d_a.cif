@@ -1,0 +1,81 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'N2O6Pb'
+_chemical_formula_sum 'N2 O6 Pb'
+
+loop_
+_publ_author_name
+ 'H. Nowotny'
+ 'G. Heger'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 42
+_journal_year 1986
+_journal_page_first 133
+_journal_page_last 135
+_publ_Section_title
+;
+ Structure Refinement of Lead Nitrate
+;
+
+_aflow_title 'Pb(NO$_{3}$)$_{2}$ ($G2_{1}$) Structure'
+_aflow_proto 'A2B6C_cP36_205_c_d_a'
+_aflow_params 'a,x_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '7.8586,0.34865,0.27772,0.28869,0.4773'
+_aflow_Strukturbericht '$G2_{1}$'
+_aflow_Pearson 'cP36'
+
+_symmetry_space_group_name_H-M "P 21/a -3"
+_symmetry_Int_Tables_number 205
+ 
+_cell_length_a    7.85860
+_cell_length_b    7.85860
+_cell_length_c    7.85860
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -x,-y,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+17 -y,-z,-x
+18 -y+1/2,z+1/2,x
+19 y,-z+1/2,x+1/2
+20 y+1/2,z,-x+1/2
+21 -z,-x,-y
+22 -z+1/2,x+1/2,y
+23 z,-x+1/2,y+1/2
+24 z+1/2,x,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 4 a 0.00000 0.00000 0.00000 1.00000
+N1 N 8 c 0.34865 0.34865 0.34865 1.00000
+O1 O 24 d 0.27772 0.28869 0.47730 1.00000

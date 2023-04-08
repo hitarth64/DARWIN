@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Al2BaO4'
+_chemical_formula_sum 'Al2 Ba O6'
+
+loop_
+_publ_author_name
+ 'A. J. Perrotta'
+ 'J. V. Smith'
+_journal_name_full_name
+;
+ Bulletin de la Societ{\'e} fran{\c{c}}aise de Mineralogie et de Crystallographie
+;
+_journal_volume 91
+_journal_year 1968
+_journal_page_first 85
+_journal_page_last 87
+_publ_Section_title
+;
+ The Crystal Structure of BaAl$_{2}$O$_{4}$
+;
+
+_aflow_title 'BaAl$_{2}$O$_{4}$ ($H2_{8}$) Structure'
+_aflow_proto 'A2BC6_hP18_182_f_b_gh'
+_aflow_params 'a,c/a,z_{2},x_{3},x_{4}'
+_aflow_params_values '5.218,1.68282866999,0.054,0.36,0.371'
+_aflow_Strukturbericht '$H2_{8}$'
+_aflow_Pearson 'hP18'
+
+_symmetry_space_group_name_H-M "P 63 2 2"
+_symmetry_Int_Tables_number 182
+ 
+_cell_length_a    5.21800
+_cell_length_b    5.21800
+_cell_length_c    8.78100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 x-y,-y,-z
+8 x,x-y,-z+1/2
+9 y,x,-z
+10 -x+y,y,-z+1/2
+11 -x,-x+y,-z
+12 -y,-x,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1 Ba 2 b 0.00000 0.00000 0.25000 1.00000
+Al1 Al 4 f 0.33333 0.66667 0.05400 1.00000
+O1 O 6 g 0.36000 0.00000 0.00000 1.00000
+O2 O 6 h 0.37100 0.74200 0.25000 0.33333

@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'C9Fe2O9'
+_chemical_formula_sum 'C9 Fe2 O9'
+
+loop_
+_publ_author_name
+ 'F. A. Cotton'
+ 'J. M. Troup'
+_journal_name_full_name
+;
+ Journal of the Chemical Society, Dalton Transactions
+;
+_journal_volume 
+_journal_year 1974
+_journal_page_first 800
+_journal_page_last 802
+_publ_Section_title
+;
+ Accurate determination of a classic structure in the metal carbonyl field: nonacarbonyldi-iron
+;
+
+# Found in Examining the structural changes in Fe$_{2}$(CO)$_{9}$ under high external pressures by Raman spectroscopy, 2007
+
+_aflow_title 'Fe$_{2}$(CO)$_{9}$ ($F4_{1}$) Structure'
+_aflow_proto 'A9B2C9_hP40_176_hi_f_hi'
+_aflow_params 'a,c/a,z_{1},x_{2},y_{2},x_{3},y_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5}'
+_aflow_params_values '6.436,2.50512740833,0.17175,0.332,0.9098,0.331,0.0895,0.338,0.4243,0.1133,0.3441,0.2817,0.0747'
+_aflow_Strukturbericht '$F4_{1}$'
+_aflow_Pearson 'hP40'
+
+_symmetry_space_group_name_H-M "P 63/m"
+_symmetry_Int_Tables_number 176
+ 
+_cell_length_a    6.43600
+_cell_length_b    6.43600
+_cell_length_c    16.12300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x,-y,-z
+8 -x+y,-x,-z+1/2
+9 y,-x+y,-z
+10 x,y,-z+1/2
+11 x-y,x,-z
+12 -y,x-y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 4 f 0.33333 0.66667 0.17175 1.00000
+C1 C 6 h 0.33200 0.90980 0.25000 1.00000
+O1 O 6 h 0.33100 0.08950 0.25000 1.00000
+C2 C 12 i 0.33800 0.42430 0.11330 1.00000
+O2 O 12 i 0.34410 0.28170 0.07470 1.00000

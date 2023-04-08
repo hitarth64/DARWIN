@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CrNa2O4'
+_chemical_formula_sum 'Cr Na2 O4'
+
+loop_
+_publ_author_name
+ 'A. Niggli'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 7
+_journal_year 1954
+_journal_page_first 776
+_journal_page_last 776
+_publ_Section_title
+;
+ Die Raumgruppe von Na$_{2}$CrO$_{4}$
+;
+
+_aflow_title 'Na$_{2}$CrO$_{4}$ ($H1_{8}$) Structure'
+_aflow_proto 'AB2C4_oC28_63_c_bc_fg'
+_aflow_params 'a,b/a,c/a,y_{2},y_{3},y_{4},z_{4},x_{5},y_{5}'
+_aflow_params_values '5.91,1.56175972927,1.21827411168,0.8472,0.2,0.75,0.0694,0.2778,0.45'
+_aflow_Strukturbericht '$H1_{8}$'
+_aflow_Pearson 'oC28'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/m"
+_symmetry_Int_Tables_number 63
+ 
+_cell_length_a    5.91000
+_cell_length_b    9.23000
+_cell_length_c    7.20000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z+1/2
+8 x,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z+1/2
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 4 b 0.00000 0.50000 0.00000 1.00000
+Cr1 Cr 4 c 0.00000 0.84720 0.25000 1.00000
+Na2 Na 4 c 0.00000 0.20000 0.25000 1.00000
+O1 O 8 f 0.00000 0.75000 0.06940 1.00000
+O2 O 8 g 0.27780 0.45000 0.25000 1.00000

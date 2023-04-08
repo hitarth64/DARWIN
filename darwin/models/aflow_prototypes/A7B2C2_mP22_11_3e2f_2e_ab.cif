@@ -1,0 +1,69 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O7Si2Y2'
+_chemical_formula_sum 'O7 Si2 Y2'
+
+loop_
+_publ_author_name
+ 'N. G. Batalieva'
+ 'Y. A. Pyatenko'
+_journal_name_full_name
+;
+ Soviet Physics Crystallography
+;
+_journal_volume 16
+_journal_year 1972
+_journal_page_first 786
+_journal_page_last 789
+_publ_Section_title
+;
+ Artificial yttrialite (\'\'y-phase\'\') - a representative of a  new structure type in the rare earth diorthosilicate series
+;
+
+# Found in Revision of the crystallographic data of polymorphic Y$_{2}$Si$_{2}$O$_{7}$ and Y$_{2}$SiO$_{5}$ compounds, 2004
+
+_aflow_title '$y$-Y$_{2}$Si$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A7B2C2_mP22_11_3e2f_2e_ab'
+_aflow_params 'a,b/a,c/a,\beta,x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '7.5,1.07466666667,0.669333333333,112.0,0.19,0.31,0.508,0.264,0.88,0.43,0.12,0.588,0.709,0.548,0.19,0.09,0.8,0.688,0.09,0.736'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP22'
+
+_symmetry_space_group_name_H-M "P 1 21/m 1"
+_symmetry_Int_Tables_number 11
+ 
+_cell_length_a    7.50
+_cell_length_b    8.06000
+_cell_length_c    5.02
+_cell_angle_alpha 90.00000
+_cell_angle_beta  112.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+3 -x,-y,-z
+4 x,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Y1 Y 2 a 0.00000 0.00000 0.00000 1.00000
+Y2 Y 2 b 0.50000 0.00000 0.00000 1.00000
+O1 O 2 e 0.19000 0.25000 0.31000 1.00000
+O2 O 2 e 0.50800 0.25000 0.26400 1.00000
+O3 O 2 e 0.88000 0.25000 0.43000 1.00000
+Si1 Si 2 e 0.12000 0.25000 0.58800 1.00000
+Si2 Si 2 e 0.70900 0.25000 0.54800 1.00000
+O4 O 4 f 0.19000 0.09000 0.80000 1.00000
+O5 O 4 f 0.68800 0.09000 0.73600 1.00000

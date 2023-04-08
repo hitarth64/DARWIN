@@ -1,0 +1,95 @@
+# AFLOW.org Repositories
+# TaTi/AB7_hR16_166_c_c2h-001.AB params=9.2519726786,1.22474487138,0.875,0.625,1.625,0.1250000001,1.125,1.6249999999 SG=166 [ANRL doi: 10.1016/j.commatsci.2017.01.017 (part 1), doi: 10.1016/j.commatsci.2018.10.043 (part 2)]
+data_TaTi
+_pd_phase_name AB7_hR16_166_c_c2h-001.AB
+
+_chemical_name_mineral 'TaTi7'
+_chemical_formula_sum 'Ta Ti7'
+
+loop_
+_publ_author_name
+ 'T. Chakraborty'
+ 'J. Rogal'
+ 'R. Drautz'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 94
+_journal_year 2016
+_journal_page_first 224104
+_journal_page_last 224104
+_publ_Section_title
+;
+ Unraveling the composition dependence of the martensitic transformation temperature: A first-principles study of Ti-Ta alloys
+;
+
+_aflow_title 'TaTi$_{7}$ (BCC SQS-16) Structure'
+_aflow_proto 'AB7_hR16_166_c_c2h'
+_aflow_params 'a,c/a,x_{1},x_{2},x_{3},z_{3},x_{4},z_{4}'
+_aflow_params_values '9.2519726786,1.22474487138,0.375,0.125,1.125,1.6250000002,1.625,0.1249999998'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hR16'
+
+_cell_length_a  9.2519726786
+_cell_length_b  9.2519726786
+_cell_length_c  11.3313060883
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'R-3m'
+_symmetry_Int_Tables_Number  166
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  y,x,-z
+  5  x-y,-y,-z
+  6  -x,-x+y,-z
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  -y,-x,z
+  11  -x+y,y,z
+  12  x,x-y,z
+  13  x+2/3,y+1/3,z+1/3
+  14  -y+2/3,x-y+1/3,z+1/3
+  15  -x+y+2/3,-x+1/3,z+1/3
+  16  y+2/3,x+1/3,-z+1/3
+  17  x-y+2/3,-y+1/3,-z+1/3
+  18  -x+2/3,-x+y+1/3,-z+1/3
+  19  -x+2/3,-y+1/3,-z+1/3
+  20  y+2/3,-x+y+1/3,-z+1/3
+  21  x-y+2/3,x+1/3,-z+1/3
+  22  -y+2/3,-x+1/3,z+1/3
+  23  -x+y+2/3,y+1/3,z+1/3
+  24  x+2/3,x-y+1/3,z+1/3
+  25  x+1/3,y+2/3,z+2/3
+  26  -y+1/3,x-y+2/3,z+2/3
+  27  -x+y+1/3,-x+2/3,z+2/3
+  28  y+1/3,x+2/3,-z+2/3
+  29  x-y+1/3,-y+2/3,-z+2/3
+  30  -x+1/3,-x+y+2/3,-z+2/3
+  31  -x+1/3,-y+2/3,-z+2/3
+  32  y+1/3,-x+y+2/3,-z+2/3
+  33  x-y+1/3,x+2/3,-z+2/3
+  34  -y+1/3,-x+2/3,z+2/3
+  35  -x+y+1/3,y+2/3,z+2/3
+  36  x+1/3,x-y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ta1 1.0000000000 0.0000000000 -0.0000000000 0.3750000000 Biso 1.0 Ta 6 c
+Ti1 1.0000000000 0.0000000000 -0.0000000000 0.1250000000 Biso 1.0 Ti 6 c
+Ti2 1.0000000000 0.1666666666 0.8333333334 0.9583333334 Biso 1.0 Ti 18 h
+Ti3 1.0000000000 0.8333333334 0.1666666666 0.7916666666 Biso 1.0 Ti 18 h

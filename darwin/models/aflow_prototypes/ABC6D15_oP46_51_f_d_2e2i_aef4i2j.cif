@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'FLiNb6O15'
+_chemical_formula_sum 'F Li Nb6 O15'
+
+loop_
+_publ_author_name
+ 'M. Lundberg'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 19
+_journal_year 1965
+_journal_page_first 2274
+_journal_page_last 2284
+_publ_Section_title
+;
+ The Crystal Structure of LiNb$_{6}$O$_{15}$F
+;
+
+_aflow_title 'LiNb$_{6}$O$_{15}$F Structure'
+_aflow_proto 'ABC6D15_oP46_51_f_d_2e2i_aef4i2j'
+_aflow_params 'a,b/a,c/a,z_{3},z_{4},z_{5},z_{6},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11},x_{12},z_{12},x_{13},z_{13},x_{14},z_{14},x_{15},z_{15}'
+_aflow_params_values '16.635,0.238292756237,0.534295160806,0.0578,0.6874,0.4582,0.6922,0.0524,0.1305,0.3973,0.0593,0.8146,0.1309,0.6149,0.1744,0.8823,0.1636,0.1963,0.0206,0.3386,0.1286,0.3998,0.0583,0.817'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP46'
+
+_symmetry_space_group_name_H-M "P 21/m 2/m 2/a"
+_symmetry_Int_Tables_number 51
+ 
+_cell_length_a    16.63500
+_cell_length_b    3.96400
+_cell_length_c    8.88800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y,-z
+3 -x,y,-z
+4 -x+1/2,-y,z
+5 -x,-y,-z
+6 -x+1/2,y,z
+7 x,-y,z
+8 x+1/2,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 a 0.00000 0.00000 0.00000 1.00000
+Li1 Li 2 d 0.00000 0.50000 0.50000 1.00000
+Nb1 Nb 2 e 0.25000 0.00000 0.05780 1.00000
+Nb2 Nb 2 e 0.25000 0.00000 0.68740 1.00000
+O2 O 2 e 0.25000 0.00000 0.45820 1.00000
+F1 F 2 f 0.25000 0.50000 0.69220 1.00000
+O3 O 2 f 0.25000 0.50000 0.05240 1.00000
+Nb3 Nb 4 i 0.13050 0.00000 0.39730 1.00000
+Nb4 Nb 4 i 0.05930 0.00000 0.81460 1.00000
+O4 O 4 i 0.13090 0.00000 0.61490 1.00000
+O5 O 4 i 0.17440 0.00000 0.88230 1.00000
+O6 O 4 i 0.16360 0.00000 0.19630 1.00000
+O7 O 4 i 0.02060 0.00000 0.33860 1.00000
+O8 O 4 j 0.12860 0.50000 0.39980 1.00000
+O9 O 4 j 0.05830 0.50000 0.81700 1.00000

@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Bi2GeO5'
+_chemical_formula_sum 'Bi2 Ge O5'
+
+loop_
+_publ_author_name
+ 'B. Aurivillius'
+ 'C.-I. Lindblom'
+ 'P. St\\'{e}nson'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 18
+_journal_year 1964
+_journal_page_first 1555
+_journal_page_last 1557
+_publ_Section_title
+;
+ The Crystal Structure of Bi$_{2}$GeO$_{5}$
+;
+
+_aflow_title 'Bi$_{2}$GeO$_{5}$ Structure'
+_aflow_proto 'A2BC5_oC32_36_b_a_a2b'
+_aflow_params 'a,b/a,c/a,y_{1},z_{1},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5}'
+_aflow_params_values '15.69,0.350031867431,0.343084767368,0.68572,0.20003,0.5803,0.4908,0.16758,0.21738,0.25,0.0949,0.1368,0.6482,0.2541,0.4777,0.4621'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC32'
+
+_symmetry_space_group_name_H-M "C m c 21"
+_symmetry_Int_Tables_number 36
+ 
+_cell_length_a    15.69000
+_cell_length_b    5.49200
+_cell_length_c    5.38300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x,y,z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,-y+1/2,z+1/2
+7 -x+1/2,y+1/2,z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ge1 Ge 4 a 0.00000 0.68572 0.20003 1.00000
+O1 O 4 a 0.00000 0.58030 0.49080 1.00000
+Bi1 Bi 8 b 0.16758 0.21738 0.25000 1.00000
+O2 O 8 b 0.09490 0.13680 0.64820 1.00000
+O3 O 8 b 0.25410 0.47770 0.46210 1.00000

@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'FNb3O7'
+_chemical_formula_sum 'Nb3 O8'
+
+loop_
+_publ_author_name
+ 'S. Andersson'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 18
+_journal_year 1964
+_journal_page_first 2339
+_journal_page_last 2344
+_publ_Section_title
+;
+ The Crystal Structure of Nb$_{3}$O$_{7}$F
+;
+
+_aflow_title 'Nb$_{3}$O$_{7}$F Structure'
+_aflow_proto 'A3B8_oC22_65_ag_bd2gh'
+_aflow_params 'a,b/a,c/a,x_{4},x_{5},x_{6},x_{7}'
+_aflow_params_values '20.66999,0.185437922321,0.189985578126,0.1836,0.094,0.71,0.189'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC22'
+
+_symmetry_space_group_name_H-M "C 2/m 2/m 2/m"
+_symmetry_Int_Tables_number 65
+ 
+_cell_length_a    20.66999
+_cell_length_b    3.83300
+_cell_length_c    3.92700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z
+8 x,y,-z
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z
+12 -x+1/2,-y+1/2,z
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z
+16 x+1/2,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Nb1 Nb 2 a 0.00000 0.00000 0.00000 1.00000
+O1 O 2 b 0.50000 0.00000 0.00000 1.00000
+O2 O 2 d 0.00000 0.00000 0.50000 1.00000
+Nb2 Nb 4 g 0.18360 0.00000 0.00000 1.00000
+O3 O 4 g 0.09400 0.00000 0.00000 1.00000
+O4 O 4 g 0.71000 0.00000 0.00000 1.00000
+O5 O 4 h 0.18900 0.00000 0.50000 1.00000

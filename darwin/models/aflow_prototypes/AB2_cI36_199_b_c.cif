@@ -1,0 +1,81 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'NO2'
+_chemical_formula_sum 'N O2'
+
+loop_
+_publ_author_name
+ 'L. Vegard'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Physik
+;
+_journal_volume 68
+_journal_year 1931
+_journal_page_first 184
+_journal_page_last 203
+_publ_Section_title
+;
+ Die Struktur von festem N$_{2}$O$_{4}$ bei der Temperatur von fl\"{u}ssiger Luft
+;
+
+# Found in Strukturbericht Band II 1928-1932, 1937
+
+_aflow_title '$C26_{a}$ (NO$_{2}$) ({\em{obsolete}}) Structure'
+_aflow_proto 'AB2_cI36_199_b_c'
+_aflow_params 'a,x_{1},x_{2},y_{2},z_{2}'
+_aflow_params_values '7.77,0.4,0.178,0.25,0.403'
+_aflow_Strukturbericht '$C26_{a}$'
+_aflow_Pearson 'cI36'
+
+_symmetry_space_group_name_H-M "I 21 3"
+_symmetry_Int_Tables_number 199
+ 
+_cell_length_a    7.77000
+_cell_length_b    7.77000
+_cell_length_c    7.77000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z+1/2
+3 -x+1/2,y,-z
+4 -x,-y+1/2,z
+5 y,z,x
+6 y,-z,-x+1/2
+7 -y+1/2,z,-x
+8 -y,-z+1/2,x
+9 z,x,y
+10 z,-x,-y+1/2
+11 -z+1/2,x,-y
+12 -z,-x+1/2,y
+13 x+1/2,y+1/2,z+1/2
+14 x+1/2,-y+1/2,-z
+15 -x,y+1/2,-z+1/2
+16 -x+1/2,-y,z+1/2
+17 y+1/2,z+1/2,x+1/2
+18 y+1/2,-z+1/2,-x
+19 -y,z+1/2,-x+1/2
+20 -y+1/2,-z,x+1/2
+21 z+1/2,x+1/2,y+1/2
+22 z+1/2,-x+1/2,-y
+23 -z,x+1/2,-y+1/2
+24 -z+1/2,-x,y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 12 b 0.40000 0.00000 0.25000 1.00000
+O1 O 24 c 0.17800 0.25000 0.40300 1.00000

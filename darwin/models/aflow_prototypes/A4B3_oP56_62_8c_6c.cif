@@ -1,0 +1,75 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mo4P3'
+_chemical_formula_sum 'Mo4 P3'
+
+loop_
+_publ_author_name
+ 'S. Rundqvist'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 19
+_journal_year 1965
+_journal_page_first 393
+_journal_page_last 400
+_publ_Section_title
+;
+ The Crystal Structure of Mo$_{4}$P$_{3}$
+;
+
+_aflow_title 'Mo$_{4}$P$_{3}$ Structure'
+_aflow_proto 'A4B3_oP56_62_8c_6c'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11},x_{12},z_{12},x_{13},z_{13},x_{14},z_{14}'
+_aflow_params_values '12.428,0.254103636949,1.64467331831,0.1939,0.2262,0.3843,0.8518,0.1218,0.6891,0.298,0.0835,0.4007,0.5269,0.0952,0.4665,0.2977,0.3863,0.0095,0.8272,0.2464,-0.027,0.4824,0.4186,0.3206,0.6371,0.0382,0.5805,0.0155,0.2745,0.1994,0.7941'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP56'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    12.42800
+_cell_length_b    3.15800
+_cell_length_c    20.44000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mo1 Mo 4 c 0.19390 0.25000 0.22620 1.00000
+Mo2 Mo 4 c 0.38430 0.25000 0.85180 1.00000
+Mo3 Mo 4 c 0.12180 0.25000 0.68910 1.00000
+Mo4 Mo 4 c 0.29800 0.25000 0.08350 1.00000
+Mo5 Mo 4 c 0.40070 0.25000 0.52690 1.00000
+Mo6 Mo 4 c 0.09520 0.25000 0.46650 1.00000
+Mo7 Mo 4 c 0.29770 0.25000 0.38630 1.00000
+Mo8 Mo 4 c 0.00950 0.25000 0.82720 1.00000
+P1 P 4 c 0.24640 0.25000 -0.02700 1.00000
+P2 P 4 c 0.48240 0.25000 0.41860 1.00000
+P3 P 4 c 0.32060 0.25000 0.63710 1.00000
+P4 P 4 c 0.03820 0.25000 0.58050 1.00000
+P5 P 4 c 0.01550 0.25000 0.27450 1.00000
+P6 P 4 c 0.19940 0.25000 0.79410 1.00000

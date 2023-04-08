@@ -1,0 +1,87 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Bi3O11Ru3'
+_chemical_formula_sum 'Bi3 O11 Ru3'
+
+loop_
+_publ_author_name
+ 'F. Abraham'
+ 'D. Thomas'
+ 'G. Nowogrocki'
+_journal_name_full_name
+;
+ Bulletin de la Societ{\'e} fran{\c{c}}aise de Mineralogie et de Crystallographie
+;
+_journal_volume 98
+_journal_year 1975
+_journal_page_first 25
+_journal_page_last 29
+_publ_Section_title
+;
+ Structure cristalline de Bi$_{3}$Ru$_{3}$O$_{11}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Bi$_{3}$Ru$_{3}$O$_{11}$ Structure'
+_aflow_proto 'A3B11C3_cP68_201_be_efh_g'
+_aflow_params 'a,x_{2},x_{3},x_{4},x_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '9.302,0.38379,0.152,0.59,0.3897,0.599,0.247,0.547'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'cP68'
+
+_symmetry_space_group_name_H-M "P 2/n -3 (origin choice 2)"
+_symmetry_Int_Tables_number 201
+ 
+_cell_length_a    9.30200
+_cell_length_b    9.30200
+_cell_length_c    9.30200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y+1/2,-z+1/2
+3 -x+1/2,y,-z+1/2
+4 -x+1/2,-y+1/2,z
+5 y,z,x
+6 y,-z+1/2,-x+1/2
+7 -y+1/2,z,-x+1/2
+8 -y+1/2,-z+1/2,x
+9 z,x,y
+10 z,-x+1/2,-y+1/2
+11 -z+1/2,x,-y+1/2
+12 -z+1/2,-x+1/2,y
+13 -x,-y,-z
+14 -x,y+1/2,z+1/2
+15 x+1/2,-y,z+1/2
+16 x+1/2,y+1/2,-z
+17 -y,-z,-x
+18 -y,z+1/2,x+1/2
+19 y+1/2,-z,x+1/2
+20 y+1/2,z+1/2,-x
+21 -z,-x,-y
+22 -z,x+1/2,y+1/2
+23 z+1/2,-x,y+1/2
+24 z+1/2,x+1/2,-y
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Bi1 Bi 4 b 0.00000 0.00000 0.00000 1.00000
+Bi2 Bi 8 e 0.38379 0.38379 0.38379 1.00000
+O1 O 8 e 0.15200 0.15200 0.15200 1.00000
+O2 O 12 f 0.59000 0.25000 0.25000 1.00000
+Ru1 Ru 12 g 0.38970 0.75000 0.25000 1.00000
+O3 O 24 h 0.59900 0.24700 0.54700 1.00000

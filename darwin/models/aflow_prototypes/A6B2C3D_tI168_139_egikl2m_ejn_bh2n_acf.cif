@@ -1,0 +1,103 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl6(H2O)2K3Tl'
+_chemical_formula_sum 'Cl6 (H2O)2 K3 Tl'
+
+loop_
+_publ_author_name
+ 'J. L. Hoard'
+ 'L. Goldstein'
+_journal_name_full_name
+;
+ Journal of Chemical Physics
+;
+_journal_volume 3
+_journal_year 1935
+_journal_page_first 645
+_journal_page_last 649
+_publ_Section_title
+;
+ The Structure of Potassium Hexachlorothalliate Dihydrate
+;
+
+_aflow_title 'K$_{3}$TlCl$_{6}$$\cdot$2H$_{2}$O ($J3_{1}$) Structure'
+_aflow_proto 'A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf'
+_aflow_params 'a,c/a,z_{4},z_{5},z_{7},x_{8},x_{9},x_{10},x_{11},x_{12},y_{12},x_{13},z_{13},x_{14},z_{14},y_{15},z_{15},y_{16},z_{16},y_{17},z_{17}'
+_aflow_params_values '15.841,1.1366075374,0.142,0.347,0.142,0.214,0.161,0.673,0.364,0.386,0.114,0.181,0.362,0.16,0.163,0.157,0.276,0.295,0.132,0.293,0.376'
+_aflow_Strukturbericht '$J3_{1}$'
+_aflow_Pearson 'tI168'
+
+_symmetry_space_group_name_H-M "I 4/m 2/m 2/m"
+_symmetry_Int_Tables_number 139
+ 
+_cell_length_a    15.84100
+_cell_length_b    15.84100
+_cell_length_c    18.00500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -y,-x,-z
+6 -y,x,z
+7 y,-x,z
+8 y,x,-z
+9 -x,-y,-z
+10 -x,y,z
+11 x,-y,z
+12 x,y,-z
+13 y,x,z
+14 y,-x,-z
+15 -y,x,-z
+16 -y,-x,z
+17 x+1/2,y+1/2,z+1/2
+18 x+1/2,-y+1/2,-z+1/2
+19 -x+1/2,y+1/2,-z+1/2
+20 -x+1/2,-y+1/2,z+1/2
+21 -y+1/2,-x+1/2,-z+1/2
+22 -y+1/2,x+1/2,z+1/2
+23 y+1/2,-x+1/2,z+1/2
+24 y+1/2,x+1/2,-z+1/2
+25 -x+1/2,-y+1/2,-z+1/2
+26 -x+1/2,y+1/2,z+1/2
+27 x+1/2,-y+1/2,z+1/2
+28 x+1/2,y+1/2,-z+1/2
+29 y+1/2,x+1/2,z+1/2
+30 y+1/2,-x+1/2,-z+1/2
+31 -y+1/2,x+1/2,-z+1/2
+32 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Tl1 Tl 2 a 0.00000 0.00000 0.00000 1.00000
+K1 K 2 b 0.00000 0.00000 0.50000 1.00000
+Tl2 Tl 4 c 0.00000 0.50000 0.00000 1.00000
+Cl1 Cl 4 e 0.00000 0.00000 0.14200 1.00000
+H2O1 H2O 4 e 0.00000 0.00000 0.34700 1.00000
+Tl3 Tl 8 f 0.25000 0.25000 0.25000 1.00000
+Cl2 Cl 8 g 0.00000 0.50000 0.14200 1.00000
+K2 K 8 h 0.21400 0.21400 0.00000 1.00000
+Cl3 Cl 8 i 0.16100 0.00000 0.00000 1.00000
+H2O2 H2O 8 j 0.67300 0.50000 0.00000 1.00000
+Cl4 Cl 16 k 0.36400 0.86400 0.25000 1.00000
+Cl5 Cl 16 l 0.38600 0.11400 0.00000 1.00000
+Cl6 Cl 16 m 0.18100 0.18100 0.36200 1.00000
+Cl7 Cl 16 m 0.16000 0.16000 0.16300 1.00000
+H2O3 H2O 16 n 0.00000 0.15700 0.27600 1.00000
+K3 K 16 n 0.00000 0.29500 0.13200 1.00000
+K4 K 16 n 0.00000 0.29300 0.37600 1.00000

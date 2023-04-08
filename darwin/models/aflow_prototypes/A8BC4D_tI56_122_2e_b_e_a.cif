@@ -1,0 +1,77 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H6NO4P'
+_chemical_formula_sum 'H8 N O4 P'
+
+loop_
+_publ_author_name
+ 'A. A. Khan'
+ 'W. H. Baur'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 29
+_journal_year 1973
+_journal_page_first 2721
+_journal_page_last 2726
+_publ_Section_title
+;
+ Refinement of the crystal structures of ammonium dihydrogen phosphate and ammonium dihydrogen arsenate
+;
+
+# Found in Refinement of the Crystal Structure of NH$_{4}$H$_{2}$PO$_{4}$ above and below Antiferroelectric Phase Transition Temperature, 1987
+
+_aflow_title 'NH$_{4}$H$_{2}$PO$_{4}$ Structure'
+_aflow_proto 'A8BC4D_tI56_122_2e_b_e_a'
+_aflow_params 'a,c/a,x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5}'
+_aflow_params_values '7.4997,1.00662693174,0.25,0.15,0.125,0.498,0.589,0.063,0.0843,0.1466,0.1151'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI56'
+
+_symmetry_space_group_name_H-M "I -4 2 d"
+_symmetry_Int_Tables_number 122
+ 
+_cell_length_a    7.49970
+_cell_length_b    7.49970
+_cell_length_c    7.54940
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y+1/2,-z+1/4
+3 -x,y+1/2,-z+1/4
+4 -x,-y,z
+5 y,x+1/2,z+1/4
+6 y,-x,-z
+7 -y,x,-z
+8 -y,-x+1/2,z+1/4
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y,-z+3/4
+11 -x+1/2,y,-z+3/4
+12 -x+1/2,-y+1/2,z+1/2
+13 y+1/2,x,z+3/4
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x,z+3/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 4 a 0.00000 0.00000 0.00000 1.00000
+N1 N 4 b 0.00000 0.00000 0.50000 1.00000
+H1 H 16 e 0.25000 0.15000 0.12500 0.50000
+H2 H 16 e 0.49800 0.58900 0.06300 1.00000
+O1 O 16 e 0.08430 0.14660 0.11510 1.00000

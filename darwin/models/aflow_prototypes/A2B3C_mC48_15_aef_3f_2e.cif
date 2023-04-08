@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Na2O3Pr'
+_chemical_formula_sum 'Na2 O3 Pr'
+
+loop_
+_publ_author_name
+ 'Y. Hinatsu'
+ 'Y. Doi'
+_journal_name_full_name
+;
+ Journal of Alloys and Compounds
+;
+_journal_volume 418
+_journal_year 2006
+_journal_page_first 155
+_journal_page_last 160
+_publ_Section_title
+;
+ Crystal structures and magnetic properties of alkali-metal lanthanide oxides $A_{2}$$Ln$O$_{3}$ ($A$ = Li, Na; $Ln$ = Ce, Pr, Tb)
+;
+
+_aflow_title 'Na$_{2}$PrO$_{3}$ Structure'
+_aflow_proto 'A2B3C_mC48_15_aef_3f_2e'
+_aflow_params 'a,b/a,c/a,\beta,y_{2},y_{3},y_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '5.9649,1.72911532465,1.96968934936,110.09,0.8146,0.1681,0.4994,-0.04,0.325,-0.004,0.241,0.501,0.141,0.251,0.135,0.144,0.301,0.861,0.143'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC48'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    5.96490
+_cell_length_b    10.31400
+_cell_length_c    11.74900
+_cell_angle_alpha 90.00000
+_cell_angle_beta  110.09000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 4 a 0.00000 0.00000 0.00000 1.00000
+Na2 Na 4 e 0.00000 0.81460 0.25000 1.00000
+Pr1 Pr 4 e 0.00000 0.16810 0.25000 1.00000
+Pr2 Pr 4 e 0.00000 0.49940 0.25000 1.00000
+Na3 Na 8 f -0.04000 0.32500 -0.00400 1.00000
+O1 O 8 f 0.24100 0.50100 0.14100 1.00000
+O2 O 8 f 0.25100 0.13500 0.14400 1.00000
+O3 O 8 f 0.30100 0.86100 0.14300 1.00000

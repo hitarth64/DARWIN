@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cs11O3'
+_chemical_formula_sum 'Cs11 O3'
+
+loop_
+_publ_author_name
+ 'A. Simon'
+ 'E. Westerbeck'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 428
+_journal_year 1977
+_journal_page_first 187
+_journal_page_last 198
+_publ_Section_title
+;
+ \"{U}ber Suboxide der Alkalimetalle. 10. Das ``komplexe Metall\'\' Cs$_{11}$O$_{3}$
+;
+
+# Found in Binary Alloy Phase Diagrams, 1990 Found in Binary Alloy Phase Diagrams, {Cd-Ce to Hf-Rb}}
+
+_aflow_title 'Cs$_{11}$O$_{3}$ Structure'
+_aflow_proto 'A11B3_mP56_14_11e_3e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14}'
+_aflow_params_values '17.61,0.523452583759,1.36553094832,100.14,0.3796,0.7206,0.2438,0.092,-0.058,0.2834,0.2204,0.6157,0.3231,0.303,-0.0205,0.3408,0.4356,0.4309,0.3821,0.5254,0.8324,0.4013,0.0663,0.6974,0.4316,0.1617,0.1037,0.4538,0.3158,0.7371,0.4684,0.1517,0.6716,0.1514,0.2388,0.4198,0.6692,0.2234,0.8414,0.2354,0.1795,0.8554,0.3955,0.3835,0.7036,0.3654'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP56'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    17.61000
+_cell_length_b    9.21800
+_cell_length_c    24.04700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  100.14000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cs1 Cs 4 e 0.37960 0.72060 0.24380 1.00000
+Cs2 Cs 4 e 0.09200 -0.05800 0.28340 1.00000
+Cs3 Cs 4 e 0.22040 0.61570 0.32310 1.00000
+Cs4 Cs 4 e 0.30300 -0.02050 0.34080 1.00000
+Cs5 Cs 4 e 0.43560 0.43090 0.38210 1.00000
+Cs6 Cs 4 e 0.52540 0.83240 0.40130 1.00000
+Cs7 Cs 4 e 0.06630 0.69740 0.43160 1.00000
+Cs8 Cs 4 e 0.16170 0.10370 0.45380 1.00000
+Cs9 Cs 4 e 0.31580 0.73710 0.46840 1.00000
+Cs10 Cs 4 e 0.15170 0.67160 0.15140 1.00000
+Cs11 Cs 4 e 0.23880 0.41980 0.66920 1.00000
+O1 O 4 e 0.22340 0.84140 0.23540 1.00000
+O2 O 4 e 0.17950 0.85540 0.39550 1.00000
+O3 O 4 e 0.38350 0.70360 0.36540 1.00000

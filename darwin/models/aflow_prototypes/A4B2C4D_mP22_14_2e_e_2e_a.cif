@@ -1,0 +1,63 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'C4K2N4Ni'
+_chemical_formula_sum 'C4 K2 N4 Ni'
+
+loop_
+_publ_author_name
+ 'N.-G. Vannerberg'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 18
+_journal_year 1964
+_journal_page_first 2385
+_journal_page_last 2391
+_publ_Section_title
+;
+ The Crystal Structure of K$_{2}$Ni(CN)$_{4}$
+;
+
+_aflow_title 'K$_{2}$Ni(CN)$_{4}$ Structure'
+_aflow_proto 'A4B2C4D_mP22_14_2e_e_2e_a'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '4.294,1.78854215184,3.03446669772,87.26667,0.167,0.207,0.055,0.849,0.382,0.39,0.281,0.046,0.341,0.261,0.338,0.082,0.764,0.3,0.327'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP22'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.29400
+_cell_length_b    7.68000
+_cell_length_c    13.03000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  87.26667
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 2 a 0.00000 0.00000 0.00000 1.00000
+C1 C 4 e 0.16700 0.20700 0.05500 1.00000
+C2 C 4 e 0.84900 0.38200 0.39000 1.00000
+K1 K 4 e 0.28100 0.04600 0.34100 1.00000
+N1 N 4 e 0.26100 0.33800 0.08200 1.00000
+N2 N 4 e 0.76400 0.30000 0.32700 1.00000

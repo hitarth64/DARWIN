@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Low cristobalite type'
+_chemical_formula_sum 'Al O4 P'
+
+loop_
+_publ_author_name
+ 'R. C. L. Mooney'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 9
+_journal_year 1956
+_journal_page_first 728
+_journal_page_last 734
+_publ_Section_title
+;
+ The crystal structure of aluminium phosphate and gallium phosphate, low-cristobalite type
+;
+
+# Found in The $\alpha-\beta$ phase transition in AlPO$_{4}$ cristobalite: Symmetry analysis, domain structure and transition dynamics, 1994
+
+_aflow_title 'AlPO$_{4}$ ``low cristobalite type\'\' Structure'
+_aflow_proto 'AB4C_oC24_20_b_2c_a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '7.009,1.0,0.999571978884,0.306,0.198,0.179,0.058,0.172,0.433,0.17,0.941'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC24'
+
+_symmetry_space_group_name_H-M "C 2 2 21"
+_symmetry_Int_Tables_number 20
+ 
+_cell_length_a    7.00900
+_cell_length_b    7.00900
+_cell_length_c    7.00600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 x+1/2,-y+1/2,-z
+7 -x+1/2,y+1/2,-z+1/2
+8 -x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 4 a 0.30600 0.00000 0.00000 1.00000
+Al1 Al 4 b 0.00000 0.19800 0.25000 1.00000
+O1 O 8 c 0.17900 0.05800 0.17200 1.00000
+O2 O 8 c 0.43300 0.17000 0.94100 1.00000

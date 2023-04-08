@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Eriochalcite'
+_chemical_formula_sum 'Cl2 Cu H4 O2'
+
+loop_
+_publ_author_name
+ 'S. Brownstein'
+ 'N. F. Han'
+ 'E. Gabe'
+ 'Y. {LePage}'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 189
+_journal_year 1989
+_journal_page_first 13
+_journal_page_last 15
+_publ_Section_title
+;
+ A redetermination of the crystal structure of cupric chloride dihydrate
+;
+
+_aflow_title 'Eriochalcite (CuCl$_{2} \cdot 2$H$_{2}$O, $C45$) Structure'
+_aflow_proto 'A2BC4D2_oP18_53_h_a_i_e'
+_aflow_params 'a,b/a,c/a,x_{2},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '8.0886,0.46309620948,0.916611032812,0.2402,0.3798,0.23998,0.275,0.064,0.099'
+_aflow_Strukturbericht '$C45$'
+_aflow_Pearson 'oP18'
+
+_symmetry_space_group_name_H-M "P 2/m 2/n 21/a"
+_symmetry_Int_Tables_number 53
+ 
+_cell_length_a    8.08860
+_cell_length_b    3.74580
+_cell_length_c    7.41410
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x+1/2,y,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x+1/2,-y,z+1/2
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 2 a 0.00000 0.00000 0.00000 1.00000
+O1 O 4 e 0.24020 0.00000 0.00000 1.00000
+Cl1 Cl 4 h 0.00000 0.37980 0.23998 1.00000
+H1 H 8 i 0.27500 0.06400 0.09900 1.00000

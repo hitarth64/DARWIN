@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Parawollastonite'
+_chemical_formula_sum 'Ca O3 Si'
+
+loop_
+_publ_author_name
+ 'F. J. Trojer'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 127
+_journal_year 1968
+_journal_page_first 291
+_journal_page_last 308
+_publ_Section_title
+;
+ The crystal structure of parawollastonite
+;
+
+_aflow_title 'Parawollastonite (CaSiO$_{3}$, $S3_{3}$ (II)) Structure'
+_aflow_proto 'AB3C_mP60_14_3e_9e_3e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15}'
+_aflow_params_values '7.066,1.03594678743,2.18313048401,95.40417,-0.0288,0.6242,0.2482,0.7397,0.3735,0.4011,0.7364,0.8791,0.3987,0.6685,0.6253,0.3,0.3031,0.6241,0.2156,0.0328,0.8603,0.349,0.0348,0.3843,0.3473,0.2388,0.8774,0.5086,0.2347,0.3824,0.5078,0.406,0.8038,0.3642,0.4067,0.4467,0.3633,0.2767,0.1245,0.3906,0.2313,-0.0907,0.4076,0.2313,0.3402,0.4075,0.4432,0.6239,0.3016'
+_aflow_Strukturbericht '$S3_{3}$ (II)'
+_aflow_Pearson 'mP60'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    7.06600
+_cell_length_b    7.32000
+_cell_length_c    15.42600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  95.40417
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 4 e -0.02880 0.62420 0.24820 1.00000
+Ca2 Ca 4 e 0.73970 0.37350 0.40110 1.00000
+Ca3 Ca 4 e 0.73640 0.87910 0.39870 1.00000
+O1 O 4 e 0.66850 0.62530 0.30000 1.00000
+O2 O 4 e 0.30310 0.62410 0.21560 1.00000
+O3 O 4 e 0.03280 0.86030 0.34900 1.00000
+O4 O 4 e 0.03480 0.38430 0.34730 1.00000
+O5 O 4 e 0.23880 0.87740 0.50860 1.00000
+O6 O 4 e 0.23470 0.38240 0.50780 1.00000
+O7 O 4 e 0.40600 0.80380 0.36420 1.00000
+O8 O 4 e 0.40670 0.44670 0.36330 1.00000
+O9 O 4 e 0.27670 0.12450 0.39060 1.00000
+Si1 Si 4 e 0.23130 -0.09070 0.40760 1.00000
+Si2 Si 4 e 0.23130 0.34020 0.40750 1.00000
+Si3 Si 4 e 0.44320 0.62390 0.30160 1.00000

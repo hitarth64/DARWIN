@@ -1,0 +1,85 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Manganese-leonite'
+_chemical_formula_sum 'H8 K2 Mn O12 S2'
+
+loop_
+_publ_author_name
+ 'B. Hertweck'
+ 'G. Giester'
+ 'E. Libowitzky'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 86
+_journal_year 2001
+_journal_page_first 1282
+_journal_page_last 1292
+_publ_Section_title
+;
+ The crystal structures of the low-temperature phases of leonite-type compounds, K$_{2}$$Me$(SO$_{4}$)$_{2}$$\cdot$4H$_{2}$O ($Me^{2+}$ = Mg, Mn, Fe)
+;
+
+_aflow_title 'Manganese-leonite 110~K [K$_{2}$Mn(SO$_{4}$)$_{2}$$\cdot$4H$_{2}$O] Structure'
+_aflow_proto 'A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e'
+_aflow_params 'a,b/a,c/a,\beta,x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21},x_{22},y_{22},z_{22},x_{23},y_{23},z_{23},x_{24},y_{24},z_{24},x_{25},y_{25},z_{25},x_{26},y_{26},z_{26}'
+_aflow_params_values '9.902,0.962532821652,1.21500706928,95.02,0.387,0.729,-0.07,0.275,0.649,-0.074,0.62,0.735,0.074,0.721,0.648,0.081,0.025,0.72,-0.049,-0.037,0.726,0.043,0.733,-0.008,0.06,0.729,0.014,-0.044,0.29373,0.73232,0.16965,0.25852,0.25782,0.16992,0.1163,0.6276,0.8466,0.8888,0.6261,0.1633,0.5998,-0.0908,0.1493,0.5455,0.1528,0.1791,0.0611,-0.0127,0.1725,0.0973,0.4938,0.1853,0.4342,0.4911,0.1674,0.3741,-0.0227,0.1931,0.3537,0.6684,-0.0342,0.6484,0.6653,0.0431,-0.0131,0.7721,-0.0051,0.7802,0.0103,0.0111,-0.04519,0.49523,0.20732,0.51973,0.00747,0.21252'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP100'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    9.90200
+_cell_length_b    9.53100
+_cell_length_c    12.03100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  95.02000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 2 a 0.00000 0.00000 0.00000 1.00000
+Mn2 Mn 2 d 0.50000 0.00000 0.50000 1.00000
+H1 H 4 e 0.38700 0.72900 -0.07000 1.00000
+H2 H 4 e 0.27500 0.64900 -0.07400 1.00000
+H3 H 4 e 0.62000 0.73500 0.07400 1.00000
+H4 H 4 e 0.72100 0.64800 0.08100 1.00000
+H5 H 4 e 0.02500 0.72000 -0.04900 1.00000
+H6 H 4 e -0.03700 0.72600 0.04300 1.00000
+H7 H 4 e 0.73300 -0.00800 0.06000 1.00000
+H8 H 4 e 0.72900 0.01400 -0.04400 1.00000
+K1 K 4 e 0.29373 0.73232 0.16965 1.00000
+K2 K 4 e 0.25852 0.25782 0.16992 1.00000
+O1 O 4 e 0.11630 0.62760 0.84660 1.00000
+O2 O 4 e 0.88880 0.62610 0.16330 1.00000
+O3 O 4 e 0.59980 -0.09080 0.14930 1.00000
+O4 O 4 e 0.54550 0.15280 0.17910 1.00000
+O5 O 4 e 0.06110 -0.01270 0.17250 1.00000
+O6 O 4 e 0.09730 0.49380 0.18530 1.00000
+O7 O 4 e 0.43420 0.49110 0.16740 1.00000
+O8 O 4 e 0.37410 -0.02270 0.19310 1.00000
+O9 O 4 e 0.35370 0.66840 -0.03420 1.00000
+O10 O 4 e 0.64840 0.66530 0.04310 1.00000
+O11 O 4 e -0.01310 0.77210 -0.00510 1.00000
+O12 O 4 e 0.78020 0.01030 0.01110 1.00000
+S1 S 4 e -0.04519 0.49523 0.20732 1.00000
+S2 S 4 e 0.51973 0.00747 0.21252 1.00000

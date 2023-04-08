@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Neodymium bromate enneahydrate'
+_chemical_formula_sum 'Br3 (H2O)9 Nd O9'
+
+loop_
+_publ_author_name
+ 'L. Helmholz'
+_journal_name_full_name
+;
+ Journal of the American Chemical Society
+;
+_journal_volume 61
+_journal_year 1939
+_journal_page_first 1544
+_journal_page_last 1550
+_publ_Section_title
+;
+ The Crystal Structure of Neodymium Bromate Enneahydrate, Nd(BrO$_{3}$)$_{3}$$\cdot$9H$_{2}$O
+;
+
+# Found in Strukturbericht Band VII 1939, 1943
+
+_aflow_title 'Nd(BrO$_{3}$)$_{3}$$\cdot$9H$_{2}$O ($G2_{2}$) Structure'
+_aflow_proto 'A3B9CD9_hP44_186_c_3c_b_cd'
+_aflow_params 'a,c/a,z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '11.73,0.576300085251,0.25,0.13,0.73,0.425,0.49,0.425,0.01,0.215,0.25,0.105,0.53,0.065,0.365,0.75'
+_aflow_Strukturbericht '$G2_{2}$'
+_aflow_Pearson 'hP44'
+
+_symmetry_space_group_name_H-M "P 63 m c"
+_symmetry_Int_Tables_number 186
+ 
+_cell_length_a    11.73000
+_cell_length_b    11.73000
+_cell_length_c    6.76000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x+y,y,z
+8 -x,-x+y,z+1/2
+9 -y,-x,z
+10 x-y,-y,z+1/2
+11 x,x-y,z
+12 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Nd1 Nd 2 b 0.33333 0.66667 0.25000 1.00000
+Br1 Br 6 c 0.13000 0.87000 0.73000 1.00000
+H2O1 H2O 6 c 0.42500 0.57500 0.49000 1.00000
+H2O2 H2O 6 c 0.42500 0.57500 0.01000 1.00000
+H2O3 H2O 6 c 0.21500 0.78500 0.25000 1.00000
+O1 O 6 c 0.10500 0.89500 0.53000 1.00000
+O2 O 12 d 0.06500 0.36500 0.75000 1.00000

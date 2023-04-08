@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'MoO5P'
+_chemical_formula_sum 'Mo O5 P'
+
+loop_
+_publ_author_name
+ 'P. Kierkegaard'
+ 'M. Westerlund'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 18
+_journal_year 1964
+_journal_page_first 2217
+_journal_page_last 2225
+_publ_Section_title
+;
+ The Crystal Structure of MoOPO$_{4}$
+;
+
+_aflow_title 'MoPO$_{5}$ Structure'
+_aflow_proto 'AB5C_tP14_85_c_cg_b'
+_aflow_params 'a,c/a,z_{2},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.1768,0.695052454345,0.1975,0.8102,0.3125,-0.0554,0.2994'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP14'
+
+_symmetry_space_group_name_H-M "P 4/n (origin choice 2)"
+_symmetry_Int_Tables_number 85
+ 
+_cell_length_a    6.17680
+_cell_length_b    6.17680
+_cell_length_c    4.29320
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,-y+1/2,z
+3 -y+1/2,x,z
+4 y,-x+1/2,z
+5 -x,-y,-z
+6 x+1/2,y+1/2,-z
+7 y+1/2,-x,-z
+8 -y,x+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 2 b 0.25000 0.75000 0.50000 1.00000
+Mo1 Mo 2 c 0.25000 0.25000 0.19750 1.00000
+O1 O 2 c 0.25000 0.25000 0.81020 1.00000
+O2 O 8 g 0.31250 -0.05540 0.29940 1.00000

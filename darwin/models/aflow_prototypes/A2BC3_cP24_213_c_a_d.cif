@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Al2CMo3'
+_chemical_formula_sum 'Al2 C Mo3'
+
+loop_
+_publ_author_name
+ 'W. Jeitschko'
+ 'H. Nowotny'
+ 'F. Benesovsky'
+_journal_name_full_name
+;
+ Monatshefte f{\"u}r Chemie und verwandte Teile anderer Wissenschaften
+;
+_journal_volume 94
+_journal_year 1963
+_journal_page_first 247
+_journal_page_last 251
+_publ_Section_title
+;
+ Ein Beitrag zum Dreistoff: Molybd\"{a}n-Aluminium-Kohlenstoff
+;
+
+# Found in A. Iyo et al., Superconductivity induced by Mg deficiency in noncentrosymmetric phosphide Mg$_{2}$Rh$_{3}$P, Phys Rev. Mater. 3, 124802 (2019)
+
+_aflow_title 'Al$_{2}$Mo$_{3}$C Structure'
+_aflow_proto 'A2BC3_cP24_213_c_a_d'
+_aflow_params 'a,x_{2},y_{3}'
+_aflow_params_values '6.84,0.061,0.206'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'cP24'
+
+_symmetry_space_group_name_H-M "P 41 3 2"
+_symmetry_Int_Tables_number 213
+ 
+_cell_length_a    6.84000
+_cell_length_b    6.84000
+_cell_length_c    6.84000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -y+3/4,-x+3/4,-z+3/4
+14 -y+1/4,x+3/4,z+1/4
+15 y+1/4,-x+1/4,z+3/4
+16 y+3/4,x+1/4,-z+1/4
+17 -x+3/4,-z+3/4,-y+3/4
+18 -x+1/4,z+3/4,y+1/4
+19 x+1/4,-z+1/4,y+3/4
+20 x+3/4,z+1/4,-y+1/4
+21 -z+3/4,-y+3/4,-x+3/4
+22 -z+1/4,y+3/4,x+1/4
+23 z+1/4,-y+1/4,x+3/4
+24 z+3/4,y+1/4,-x+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 4 a 0.37500 0.37500 0.37500 1.00000
+Al1 Al 8 c 0.06100 0.06100 0.06100 1.00000
+Mo1 Mo 12 d 0.12500 0.20600 0.45600 1.00000

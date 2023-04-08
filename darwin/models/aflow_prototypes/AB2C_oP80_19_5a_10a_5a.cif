@@ -1,0 +1,77 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CH2O'
+_chemical_formula_sum 'C H2 O'
+
+loop_
+_publ_author_name
+ 'A. Hordvik'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 15
+_journal_year 1961
+_journal_page_first 16
+_journal_page_last 30
+_publ_Section_title
+;
+ Refinement of the Crystal Structure of $\beta$-Arabinose
+;
+
+_aflow_title '$\beta$-Arabinose [(CH$_{2}$O)$_{20}$] Structure'
+_aflow_proto 'AB2C_oP80_19_5a_10a_5a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20}'
+_aflow_params_values '6.535,2.97888293803,0.74078041316,0.493,-0.0828,0.688,0.431,0.8469,0.7985,0.251,0.8198,0.631,0.0695,0.8712,0.649,0.15,-0.0586,0.553,0.628,-0.058,0.79,0.376,0.847,0.0,0.303,0.811,0.422,-0.043,0.843,0.507,0.024,-0.028,0.564,0.22,-0.061,0.351,0.6,-0.046,0.38,0.539,0.767,0.892,0.173,0.737,0.567,0.875,0.852,-0.056,0.5625,-0.0901,0.42,0.6075,0.8019,0.771,0.191,0.7545,0.737,-0.004,0.8781,-0.074,0.325,-0.0368,0.711'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP80'
+
+_symmetry_space_group_name_H-M "P 21 21 21"
+_symmetry_Int_Tables_number 19
+ 
+_cell_length_a    6.53500
+_cell_length_b    19.46700
+_cell_length_c    4.84100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 4 a 0.49300 -0.08280 0.68800 1.00000
+C2 C 4 a 0.43100 0.84690 0.79850 1.00000
+C3 C 4 a 0.25100 0.81980 0.63100 1.00000
+C4 C 4 a 0.06950 0.87120 0.64900 1.00000
+C5 C 4 a 0.15000 -0.05860 0.55300 1.00000
+H1 H 4 a 0.62800 -0.05800 0.79000 1.00000
+H2 H 4 a 0.37600 0.84700 0.00000 1.00000
+H3 H 4 a 0.30300 0.81100 0.42200 1.00000
+H4 H 4 a -0.04300 0.84300 0.50700 1.00000
+H5 H 4 a 0.02400 -0.02800 0.56400 1.00000
+H6 H 4 a 0.22000 -0.06100 0.35100 1.00000
+H7 H 4 a 0.60000 -0.04600 0.38000 1.00000
+H8 H 4 a 0.53900 0.76700 0.89200 1.00000
+H9 H 4 a 0.17300 0.73700 0.56700 1.00000
+H10 H 4 a 0.87500 0.85200 -0.05600 1.00000
+O1 O 4 a 0.56250 -0.09010 0.42000 1.00000
+O2 O 4 a 0.60750 0.80190 0.77100 1.00000
+O3 O 4 a 0.19100 0.75450 0.73700 1.00000
+O4 O 4 a -0.00400 0.87810 -0.07400 1.00000
+O5 O 4 a 0.32500 -0.03680 0.71100 1.00000

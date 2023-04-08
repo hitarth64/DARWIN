@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'P2O7Zr'
+_chemical_formula_sum 'O7 P2 Zr'
+
+loop_
+_publ_author_name
+ 'G. R. Levi'
+ 'G. Peyronel'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 92
+_journal_year 1935
+_journal_page_first 190
+_journal_page_last 209
+_publ_Section_title
+;
+ Struttura Cristallografica del Gruppo Isomorfo (Si$^{4+}$, Ti$^{4+}$, Zr$^{4+}$, Sn$^{4+}$, Hf$^{4+}$) P$_{2}$O$_{7}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'ZrP$_{2}$O$_{7}$ High-Temperature ($K6_{1}$) Structure'
+_aflow_proto 'A7B2C_cP40_205_bd_c_a'
+_aflow_params 'a,x_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '8.2,0.39,0.394,0.218,0.458'
+_aflow_Strukturbericht '$K6_{1}$'
+_aflow_Pearson 'cP40'
+
+_symmetry_space_group_name_H-M "P 21/a -3"
+_symmetry_Int_Tables_number 205
+ 
+_cell_length_a    8.20000
+_cell_length_b    8.20000
+_cell_length_c    8.20000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -x,-y,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+17 -y,-z,-x
+18 -y+1/2,z+1/2,x
+19 y,-z+1/2,x+1/2
+20 y+1/2,z,-x+1/2
+21 -z,-x,-y
+22 -z+1/2,x+1/2,y
+23 z,-x+1/2,y+1/2
+24 z+1/2,x,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zr1 Zr 4 a 0.00000 0.00000 0.00000 1.00000
+O1 O 4 b 0.50000 0.50000 0.50000 1.00000
+P1 P 8 c 0.39000 0.39000 0.39000 1.00000
+O2 O 24 d 0.39400 0.21800 0.45800 1.00000

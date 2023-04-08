@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O7Si2Y2'
+_chemical_formula_sum 'O7 Si2 Y2'
+
+loop_
+_publ_author_name
+ 'H. W. Dias'
+ 'F. P. Glasser'
+ 'R. P. Gunwardane'
+ 'R. A. Howie'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 191
+_journal_year 1990
+_journal_page_first 117
+_journal_page_last 124
+_publ_Section_title
+;
+ The crystal structure of $\delta$-yttrium pyrosilicate, $\delta$-Y$_{2}$Si$_{2}$O$_{7}$
+;
+
+# Found in Revision of the crystallographic data of polymorphic Y$_{2}$Si$_{2}$O$_{7}$ and Y$_{2}$SiO$_{5}$ compounds, 2004
+
+_aflow_title 'Possible $\delta$-Y$_{2}$Si$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A7B2C2_oP44_62_3c2d_2c_d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '13.655,0.596045404614,0.367337971439,0.1524,0.0613,0.0782,0.5588,0.8969,0.3386,0.1821,0.3711,-0.041,0.6214,0.2329,0.0861,0.4875,-0.0477,0.0817,0.7994,0.3745,-0.0096,0.3395'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP44'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    13.65500
+_cell_length_b    8.13900
+_cell_length_c    5.01600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 c 0.15240 0.25000 0.06130 1.00000
+O2 O 4 c 0.07820 0.25000 0.55880 1.00000
+O3 O 4 c 0.89690 0.25000 0.33860 1.00000
+Si1 Si 4 c 0.18210 0.25000 0.37110 1.00000
+Si2 Si 4 c -0.04100 0.25000 0.62140 1.00000
+O4 O 8 d 0.23290 0.08610 0.48750 1.00000
+O5 O 8 d -0.04770 0.08170 0.79940 1.00000
+Y1 Y 8 d 0.37450 -0.00960 0.33950 1.00000

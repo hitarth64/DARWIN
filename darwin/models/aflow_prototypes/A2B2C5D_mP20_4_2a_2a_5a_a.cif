@@ -1,0 +1,69 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H2Li2O5S'
+_chemical_formula_sum 'H2 Li2 O5 S'
+
+loop_
+_publ_author_name
+ 'J.-O. Lundgren'
+ '{\AA}. Kvick'
+ 'M. Karppinen'
+ 'R. Liminga'
+ 'S. C. Abrahams'
+_journal_name_full_name
+;
+ Journal of Chemical Physics
+;
+_journal_volume 80
+_journal_year 1984
+_journal_page_first 423
+_journal_page_last 430
+_publ_Section_title
+;
+ Neutron diffraction structural study of pyroelectric Li$_{2}$SO$_{4}$$\cdot$H$_{2}$O at 293, 80, and 20 K
+;
+
+_aflow_title 'Li$_{2}$SO$_{4}$$\cdot$H$_{2}$O ($H4_{8}$) Structure'
+_aflow_proto 'A2B2C5D_mP20_4_2a_2a_5a_a'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10}'
+_aflow_params_values '5.449,0.886768214351,1.49330152322,107.19,-0.02933,0.38995,0.31142,0.00673,0.63149,0.44573,0.3031,0.49638,-0.00741,0.56046,0.48968,0.39524,0.02087,0.07409,0.17122,0.43724,0.11111,0.37857,0.39807,0.12076,0.07634,0.32462,0.69627,0.20975,-0.08635,0.46436,0.40379,0.29229,0.0,0.20805'
+_aflow_Strukturbericht '$H4_{8}$'
+_aflow_Pearson 'mP20'
+
+_symmetry_space_group_name_H-M "P 1 21 1"
+_symmetry_Int_Tables_number 4
+ 
+_cell_length_a    5.44900
+_cell_length_b    4.83200
+_cell_length_c    8.13700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  107.19000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 2 a -0.02933 0.38995 0.31142 1.00000
+H2 H 2 a 0.00673 0.63149 0.44573 1.00000
+Li1 Li 2 a 0.30310 0.49638 -0.00741 1.00000
+Li2 Li 2 a 0.56046 0.48968 0.39524 1.00000
+O1 O 2 a 0.02087 0.07409 0.17122 1.00000
+O2 O 2 a 0.43724 0.11111 0.37857 1.00000
+O3 O 2 a 0.39807 0.12076 0.07634 1.00000
+O4 O 2 a 0.32462 0.69627 0.20975 1.00000
+O5 O 2 a -0.08635 0.46436 0.40379 1.00000
+S1 S 2 a 0.29229 0.00000 0.20805 1.00000

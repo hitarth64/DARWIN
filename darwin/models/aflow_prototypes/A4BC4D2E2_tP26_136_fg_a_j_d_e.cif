@@ -1,0 +1,80 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl4CuH4K2O2'
+_chemical_formula_sum 'Cl4 Cu H4 K2 O2'
+
+loop_
+_publ_author_name
+ 'R. Chidambaram'
+ 'Q. O. Navarro'
+ 'A. Garcia'
+ 'K. Linggoatmodjo'
+ 'L. {Shi-Chien}'
+ 'I.-H. Suh'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 26
+_journal_year 1970
+_journal_page_first 827
+_journal_page_last 830
+_publ_Section_title
+;
+ Neutron diffraction refinement of the crystal structure of potassium copper chloride dihydrate, K$_{2}$CuCl$_{4}$ $\cdot$ 2H$_{2}$O
+;
+
+_aflow_title 'K$_{2}$CuCl$_{4}$$\cdot$2H$_{2}$O ($H4_{1}$) Structure'
+_aflow_proto 'A4BC4D2E2_tP26_136_fg_a_j_d_e'
+_aflow_params 'a,c/a,z_{3},x_{4},x_{5},x_{6},z_{6}'
+_aflow_params_values '7.477,1.06125451384,0.2484,0.2161,0.7262,0.0739,0.3178'
+_aflow_Strukturbericht '$H4_{1}$'
+_aflow_Pearson 'tP26'
+
+_symmetry_space_group_name_H-M "P 42/m 21/n 2/m"
+_symmetry_Int_Tables_number 136
+ 
+_cell_length_a    7.47700
+_cell_length_b    7.47700
+_cell_length_c    7.93500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -y,-x,-z
+6 -y+1/2,x+1/2,z+1/2
+7 y+1/2,-x+1/2,z+1/2
+8 y,x,-z
+9 -x,-y,-z
+10 -x+1/2,y+1/2,z+1/2
+11 x+1/2,-y+1/2,z+1/2
+12 x,y,-z
+13 y,x,z
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y,-x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 2 a 0.00000 0.00000 0.00000 1.00000
+K1 K 4 d 0.00000 0.50000 0.25000 1.00000
+O1 O 4 e 0.00000 0.00000 0.24840 1.00000
+Cl1 Cl 4 f 0.21610 0.21610 0.00000 1.00000
+Cl2 Cl 4 g 0.72620 0.27380 0.00000 1.00000
+H1 H 8 j 0.07390 0.07390 0.31780 1.00000

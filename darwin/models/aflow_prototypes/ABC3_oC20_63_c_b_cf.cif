@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'AsCV3'
+_chemical_formula_sum 'As C V3'
+
+loop_
+_publ_author_name
+ 'H. Boller'
+ 'H. Nowotny'
+_journal_name_full_name
+;
+ Monatshefte f{\"u}r Chemie und verwandte Teile anderer Wissenschaften
+;
+_journal_volume 98
+_journal_year 1967
+_journal_page_first 2127
+_journal_page_last 2132
+_publ_Section_title
+;
+ Zum Dreistoff: Vanadin-Arsen-Kohlenstoff
+;
+
+# Found in Carbides with Filled Re$_{3}$B-Type Structure, 1994
+
+_aflow_title 'V$_{3}$AsC Structure'
+_aflow_proto 'ABC3_oC20_63_c_b_cf'
+_aflow_params 'a,b/a,c/a,y_{2},y_{3},y_{4},z_{4}'
+_aflow_params_values '3.128,3.24168797954,2.46131713555,0.756,0.452,0.1283,0.052'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC20'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/m"
+_symmetry_Int_Tables_number 63
+ 
+_cell_length_a    3.12800
+_cell_length_b    10.14000
+_cell_length_c    7.69900
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z+1/2
+8 x,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z+1/2
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 4 b 0.00000 0.50000 0.00000 1.00000
+As1 As 4 c 0.00000 0.75600 0.25000 1.00000
+V1 V 4 c 0.00000 0.45200 0.25000 1.00000
+V2 V 8 f 0.00000 0.12830 0.05200 1.00000

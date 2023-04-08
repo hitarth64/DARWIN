@@ -1,0 +1,65 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'K2O5S2'
+_chemical_formula_sum 'K2 O5 S2'
+
+loop_
+_publ_author_name
+ 'I-C. Chen'
+ 'Y. Wang'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 40
+_journal_year 1984
+_journal_page_first 1780
+_journal_page_last 1781
+_publ_Section_title
+;
+ Reinvestigation of potassium pyrosulfite, K$_{2}$S$_{2}$O$_{5}$
+;
+
+_aflow_title 'K$_{2}$S$_{2}$O$_{5}$ ($K0_{1}$) Structure'
+_aflow_proto 'A2B5C2_mP18_11_2e_e2f_2e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '6.921,0.890044791215,1.08900447912,102.79,0.231,-0.0647,0.6398,0.67278,0.6555,0.0407,0.0291,0.33,0.7014,0.2384,0.0741,0.0515,0.2343,0.635,0.053,0.3147'
+_aflow_Strukturbericht '$K0_{1}$'
+_aflow_Pearson 'mP18'
+
+_symmetry_space_group_name_H-M "P 1 21/m 1"
+_symmetry_Int_Tables_number 11
+ 
+_cell_length_a    6.92100
+_cell_length_b    6.16000
+_cell_length_c    7.53700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  102.79000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+3 -x,-y,-z
+4 x,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 2 e 0.23100 0.25000 -0.06470 1.00000
+K2 K 2 e 0.63980 0.25000 0.67278 1.00000
+O1 O 2 e 0.65550 0.25000 0.04070 1.00000
+S1 S 2 e 0.02910 0.25000 0.33000 1.00000
+S2 S 2 e 0.70140 0.25000 0.23840 1.00000
+O2 O 4 f 0.07410 0.05150 0.23430 1.00000
+O3 O 4 f 0.63500 0.05300 0.31470 1.00000

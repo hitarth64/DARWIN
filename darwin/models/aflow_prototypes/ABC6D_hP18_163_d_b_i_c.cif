@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Colquiriite'
+_chemical_formula_sum 'Al Ca F6 Li'
+
+loop_
+_publ_author_name
+ 'S. Kuze'
+ 'D. du Boulay'
+ 'N. Ishizawa'
+ 'N. Kodama'
+ 'M. Yamaga'
+ 'B. Henderson'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 177
+_journal_year 2004
+_journal_page_first 3505
+_journal_page_last 3513
+_publ_Section_title
+;
+ Structures of LiCaAlF$_{6}$ and LiSrAlF$_{6}$ at 120 and 300 K by synchrotron X-ray single-crystal diffraction
+;
+
+_aflow_title 'Colquiriite (LiCaAlF$_{6}$) Structure'
+_aflow_proto 'ABC6D_hP18_163_d_b_i_c'
+_aflow_params 'a,c/a,x_{4},y_{4},z_{4}'
+_aflow_params_values '5.0081,1.92554062419,0.3767,0.031,0.14336'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP18'
+
+_symmetry_space_group_name_H-M "P -3 1 2/c"
+_symmetry_Int_Tables_number 163
+ 
+_cell_length_a    5.00810
+_cell_length_b    5.00810
+_cell_length_c    9.64330
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x,x-y,-z+1/2
+5 -x+y,y,-z+1/2
+6 -y,-x,-z+1/2
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -x,-x+y,z+1/2
+11 x-y,-y,z+1/2
+12 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 2 b 0.00000 0.00000 0.00000 1.00000
+Li1 Li 2 c 0.33333 0.66667 0.25000 1.00000
+Al1 Al 2 d 0.66667 0.33333 0.25000 1.00000
+F1 F 12 i 0.37670 0.03100 0.14336 1.00000

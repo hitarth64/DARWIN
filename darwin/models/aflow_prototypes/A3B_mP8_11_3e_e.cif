@@ -1,0 +1,63 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Se3Zr'
+_chemical_formula_sum 'Se3 Zr'
+
+loop_
+_publ_author_name
+ 'S. Furuseth'
+ 'L. Bratt{\aa}s'
+ 'A. Kjekshus'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 29a
+_journal_year 1975
+_journal_page_first 623
+_journal_page_last 631
+_publ_Section_title
+;
+ On the Crystal Structures of TiS$_{3}$, ZrS$_{3}$, ZrSe$_{3}$, ZrTe$_{3}$, HfS$_{3}$, and HfSe$_{3}$
+;
+
+_aflow_title 'ZrSe$_{3}$ Structure'
+_aflow_proto 'A3B_mP8_11_3e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4}'
+_aflow_params_values '5.4109,0.692823744664,1.74536583563,97.48,0.762,0.554,0.456,0.174,0.888,0.169,0.285,0.656'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP8'
+
+_symmetry_space_group_name_H-M "P 1 21/m 1"
+_symmetry_Int_Tables_number 11
+ 
+_cell_length_a    5.41090
+_cell_length_b    3.74880
+_cell_length_c    9.44400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  97.48000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+3 -x,-y,-z
+4 x,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Se1 Se 2 e 0.76200 0.25000 0.55400 1.00000
+Se2 Se 2 e 0.45600 0.25000 0.17400 1.00000
+Se3 Se 2 e 0.88800 0.25000 0.16900 1.00000
+Zr1 Zr 2 e 0.28500 0.25000 0.65600 1.00000

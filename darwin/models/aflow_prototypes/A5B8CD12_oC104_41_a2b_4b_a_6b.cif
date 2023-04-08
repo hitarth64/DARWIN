@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Santite'
+_chemical_formula_sum 'B5 H8 K O12'
+
+loop_
+_publ_author_name
+ 'W. H. Zachariasen'
+ 'H. A. Plettinger'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 16
+_journal_year 1963
+_journal_page_first 376
+_journal_page_last 379
+_publ_Section_title
+;
+ Refinement of the structure of potassium pentaborate tetrahydrate
+;
+
+_aflow_title 'Santite (KB$_{5}$O$_{8}$$\cdot$4H$_{2}$O, $K3_{5}$) Structure'
+_aflow_proto 'A5B8CD12_oC104_41_a2b_4b_a_6b'
+_aflow_params 'a,b/a,c/a,z_{1},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14}'
+_aflow_params_values '11.062,1.01021605496,0.817302476948,0.4041,0.0,0.189,0.0943,0.3126,0.2042,0.9432,0.4952,0.978,0.247,0.804,0.967,0.111,0.649,0.161,0.159,0.741,0.251,0.316,0.193,0.0672,0.0843,0.3082,0.0832,0.9313,0.4991,0.2591,0.0254,0.4033,0.2448,0.1753,0.2235,0.2816,0.8801,0.5802,0.0151,0.1707,0.7588'
+_aflow_Strukturbericht '$K3_{5}$'
+_aflow_Pearson 'oC104'
+
+_symmetry_space_group_name_H-M "A b a 2"
+_symmetry_Int_Tables_number 41
+ 
+_cell_length_a    11.06200
+_cell_length_b    11.17501
+_cell_length_c    9.04100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 x+1/2,-y,z+1/2
+4 -x+1/2,y,z+1/2
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 x+1/2,-y+1/2,z
+8 -x+1/2,y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 4 a 0.00000 0.00000 0.40410 1.00000
+K1 K 4 a 0.00000 0.00000 0.00000 1.00000
+B2 B 8 b 0.18900 0.09430 0.31260 1.00000
+B3 B 8 b 0.20420 0.94320 0.49520 1.00000
+H1 H 8 b 0.97800 0.24700 0.80400 1.00000
+H2 H 8 b 0.96700 0.11100 0.64900 1.00000
+H3 H 8 b 0.16100 0.15900 0.74100 1.00000
+H4 H 8 b 0.25100 0.31600 0.19300 1.00000
+O1 O 8 b 0.06720 0.08430 0.30820 1.00000
+O2 O 8 b 0.08320 0.93130 0.49910 1.00000
+O3 O 8 b 0.25910 0.02540 0.40330 1.00000
+O4 O 8 b 0.24480 0.17530 0.22350 1.00000
+O5 O 8 b 0.28160 0.88010 0.58020 1.00000
+O6 O 8 b 0.01510 0.17070 0.75880 1.00000

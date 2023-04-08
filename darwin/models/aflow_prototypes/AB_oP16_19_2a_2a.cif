@@ -1,0 +1,64 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'NaP'
+_chemical_formula_sum 'Na P'
+
+loop_
+_publ_author_name
+ 'H. G. {von Schnering}'
+ 'W. H\"{o}nle'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 456
+_journal_year 1979
+_journal_page_first 194
+_journal_page_last 206
+_publ_Section_title
+;
+ Zur Chemie und Strukturchemie der Phosphide und Polyphosphide. 20. Darstellung, Struktur und Eigenschaften der Alkalimetallmonophosphide NaP und KP
+;
+
+# Found in NaP Crystal Structure, {PAULING FILE in: Inorganic Solid Phases, SpringerMaterials (online database)}, 2016
+
+_aflow_title 'NaP Structure'
+_aflow_proto 'AB_oP16_19_2a_2a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.038,0.934580987082,1.67969526333,0.4174,-0.0911,0.0318,0.1338,0.6367,0.3313,0.3086,0.1404,0.2838,0.4287,0.402,0.1341'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP16'
+
+_symmetry_space_group_name_H-M "P 21 21 21"
+_symmetry_Int_Tables_number 19
+ 
+_cell_length_a    6.03800
+_cell_length_b    5.64300
+_cell_length_c    10.14200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 4 a 0.41740 -0.09110 0.03180 1.00000
+Na2 Na 4 a 0.13380 0.63670 0.33130 1.00000
+P1 P 4 a 0.30860 0.14040 0.28380 1.00000
+P2 P 4 a 0.42870 0.40200 0.13410 1.00000

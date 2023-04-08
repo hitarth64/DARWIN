@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cr5O12'
+_chemical_formula_sum 'Cr5 O12'
+
+loop_
+_publ_author_name
+ 'K.-A. Wilhelmi'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 19
+_journal_year 1965
+_journal_page_first 165
+_journal_page_last 176
+_publ_Section_title
+;
+ The Crystal Structure of Cr$_{5}$O$_{12}$
+;
+
+_aflow_title 'Cr$_{5}$O$_{12}$ Structure'
+_aflow_proto 'A5B12_oP68_60_c2d_6d'
+_aflow_params 'a,b/a,c/a,y_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '12.044,0.681833277981,0.678927266689,0.3939,0.1719,0.8878,0.4768,0.0857,0.7517,0.1119,0.2454,0.7314,0.0906,0.075,0.7736,0.3535,0.1003,-0.0101,0.1032,0.0806,0.508,0.1356,0.0707,0.27,0.3741,0.2538,0.4894,0.3625'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP68'
+
+_symmetry_space_group_name_H-M "P 21/b 2/c 21/n"
+_symmetry_Int_Tables_number 60
+ 
+_cell_length_a    12.04400
+_cell_length_b    8.21200
+_cell_length_c    8.17700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y,-z+1/2
+4 -x+1/2,-y+1/2,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y,z+1/2
+8 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cr1 Cr 4 c 0.00000 0.39390 0.25000 1.00000
+Cr2 Cr 8 d 0.17190 0.88780 0.47680 1.00000
+Cr3 Cr 8 d 0.08570 0.75170 0.11190 1.00000
+O1 O 8 d 0.24540 0.73140 0.09060 1.00000
+O2 O 8 d 0.07500 0.77360 0.35350 1.00000
+O3 O 8 d 0.10030 -0.01010 0.10320 1.00000
+O4 O 8 d 0.08060 0.50800 0.13560 1.00000
+O5 O 8 d 0.07070 0.27000 0.37410 1.00000
+O6 O 8 d 0.25380 0.48940 0.36250 1.00000

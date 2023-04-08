@@ -1,0 +1,88 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Hauyne'
+_chemical_formula_sum 'Al3 Ca4 K4 Na4 O16 S4 Si3'
+
+loop_
+_publ_author_name
+ 'I. Hassan'
+ 'H. D. Grundy'
+_journal_name_full_name
+;
+ Canadian Mineralogist
+;
+_journal_volume 29
+_journal_year 1991
+_journal_page_first 123
+_journal_page_last 130
+_publ_Section_title
+;
+ The Crystal Structure of Hauyne at 293 and 153 K
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Hauyne [(Na$_{0.5}$Ca$_{0.3}$K$_{0.2}$)$_{8}$(Al$_{6}$Si$_{6}$O$_{24}$)(SO$_{4}$)$_{1.5}$, $S6_{9}$] Structure'
+_aflow_proto 'A3B4C4D4E16F4G3_cP76_218_c_e_e_e_ei_e_d'
+_aflow_params 'a,x_{3},x_{4},x_{5},x_{6},x_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '9.1097,0.2009,0.164,0.2392,0.0995,-0.0331,0.6443,0.6558,-0.0331'
+_aflow_Strukturbericht '$S6_{9}$'
+_aflow_Pearson 'cP76'
+
+_symmetry_space_group_name_H-M "P -4 3 n"
+_symmetry_Int_Tables_number 218
+ 
+_cell_length_a    9.10970
+_cell_length_b    9.10970
+_cell_length_c    9.10970
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,z,x
+6 y,-z,-x
+7 -y,z,-x
+8 -y,-z,x
+9 z,x,y
+10 z,-x,-y
+11 -z,x,-y
+12 -z,-x,y
+13 y+1/2,x+1/2,z+1/2
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x+1/2,z+1/2
+17 x+1/2,z+1/2,y+1/2
+18 x+1/2,-z+1/2,-y+1/2
+19 -x+1/2,z+1/2,-y+1/2
+20 -x+1/2,-z+1/2,y+1/2
+21 z+1/2,y+1/2,x+1/2
+22 z+1/2,-y+1/2,-x+1/2
+23 -z+1/2,y+1/2,-x+1/2
+24 -z+1/2,-y+1/2,x+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 6 c 0.25000 0.50000 0.00000 1.00000
+Si1 Si 6 d 0.25000 0.00000 0.50000 1.00000
+Ca1 Ca 8 e 0.20090 0.20090 0.20090 0.30000
+K1 K 8 e 0.16400 0.16400 0.16400 0.20000
+Na1 Na 8 e 0.23920 0.23920 0.23920 0.54000
+O1 O 8 e 0.09950 0.09950 0.09950 0.75000
+S1 S 8 e -0.03310 -0.03310 -0.03310 0.19000
+O2 O 24 i 0.64430 0.65580 -0.03310 1.00000

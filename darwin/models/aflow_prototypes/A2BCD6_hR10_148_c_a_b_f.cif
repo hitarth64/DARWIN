@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Dolomite'
+_chemical_formula_sum 'C2 Ca Mg O6'
+
+loop_
+_publ_author_name
+ 'R. J. Reeder'
+ 'S. A. Markgraf'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 71
+_journal_year 1986
+_journal_page_first 795
+_journal_page_last 804
+_publ_Section_title
+;
+ High-temperature crystal chemistry of dolomite
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Dolomite [MgCa(CO$_{3}$)$_{2}$, $G1_{1}$] Structure'
+_aflow_proto 'A2BCD6_hR10_148_c_a_b_f'
+_aflow_params 'a,c/a,x_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '4.8069,3.32896461337,0.24289,0.49193,0.27933,-0.03947'
+_aflow_Strukturbericht '$G1_{1}$'
+_aflow_Pearson 'hR10'
+
+_symmetry_space_group_name_H-M "R -3 (hexagonal axes)"
+_symmetry_Int_Tables_number 148
+ 
+_cell_length_a    4.80690
+_cell_length_b    4.80690
+_cell_length_c    16.00200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,-z
+5 y,-x+y,-z
+6 x-y,x,-z
+7 x+1/3,y+2/3,z+2/3
+8 -y+1/3,x-y+2/3,z+2/3
+9 -x+y+1/3,-x+2/3,z+2/3
+10 -x+1/3,-y+2/3,-z+2/3
+11 y+1/3,-x+y+2/3,-z+2/3
+12 x-y+1/3,x+2/3,-z+2/3
+13 x+2/3,y+1/3,z+1/3
+14 -y+2/3,x-y+1/3,z+1/3
+15 -x+y+2/3,-x+1/3,z+1/3
+16 -x+2/3,-y+1/3,-z+1/3
+17 y+2/3,-x+y+1/3,-z+1/3
+18 x-y+2/3,x+1/3,-z+1/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 3 a 0.00000 0.00000 0.00000 1.00000
+Mg1 Mg 3 b 0.00000 0.00000 0.50000 1.00000
+C1 C 6 c 0.00000 0.00000 0.24289 1.00000
+O1 O 18 f 0.24800 -0.0354 0.24393 1.00000

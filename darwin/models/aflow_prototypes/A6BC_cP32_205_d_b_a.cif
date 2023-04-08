@@ -1,0 +1,82 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'F6NaSb'
+_chemical_formula_sum 'F6 Na Sb'
+
+loop_
+_publ_author_name
+ 'N. Schrewelius'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 238
+_journal_year 1938
+_journal_page_first 241
+_journal_page_last 254
+_publ_Section_title
+;
+ R\"{o}ntgenuntersuchung der Verbindungen NaSb(OH)$_{6}$, NaSbF$_{6}$, NaSbO$_{3}$ und gleichartiger Stoffe
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'NaSbF$_{6}$ Structure'
+_aflow_proto 'A6BC_cP32_205_d_b_a'
+_aflow_params 'a,x_{3},y_{3},z_{3}'
+_aflow_params_values '8.18,-0.05,0.05,0.225'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'cP32'
+
+_symmetry_space_group_name_H-M "P 21/a -3"
+_symmetry_Int_Tables_number 205
+ 
+_cell_length_a    8.18000
+_cell_length_b    8.18000
+_cell_length_c    8.18000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -x,-y,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+17 -y,-z,-x
+18 -y+1/2,z+1/2,x
+19 y,-z+1/2,x+1/2
+20 y+1/2,z,-x+1/2
+21 -z,-x,-y
+22 -z+1/2,x+1/2,y
+23 z,-x+1/2,y+1/2
+24 z+1/2,x,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sb1 Sb 4 a 0.00000 0.00000 0.00000 1.00000
+Na1 Na 4 b 0.50000 0.50000 0.50000 1.00000
+F1 F 24 d -0.05000 0.05000 0.22500 1.00000

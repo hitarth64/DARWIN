@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'BaNiSn3'
+_chemical_formula_sum 'Ba Ni Sn3'
+
+loop_
+_publ_author_name
+ 'W. D\"{o}rrscheidt'
+ 'H. Sch\"{a}fer'
+_journal_name_full_name
+;
+ Journal of the Less-Common Metals
+;
+_journal_volume 58
+_journal_year 1978
+_journal_page_first 209
+_journal_page_last 216
+_publ_Section_title
+;
+ Die Struktur des BaPtSn$_{3}$, BaNiSn$_{3}$ und SrNiSn$_{3}$ und ihre Verwandtschaft zum ThCr$_{2}$Si$_{2}$-Strukturtyp
+;
+
+_aflow_title 'BaNiSn$_{3}$ Structure'
+_aflow_proto 'ABC3_tI10_107_a_a_ab'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},z_{4}'
+_aflow_params_values '4.82,2.26763692946,0.0,0.6554,0.4241,0.2516'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI10'
+
+_symmetry_space_group_name_H-M "I 4 m m"
+_symmetry_Int_Tables_number 107
+ 
+_cell_length_a    4.82000
+_cell_length_b    4.82000
+_cell_length_c    10.93001
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,y,z
+6 x,-y,z
+7 y,x,z
+8 -y,-x,z
+9 x+1/2,y+1/2,z+1/2
+10 -x+1/2,-y+1/2,z+1/2
+11 -y+1/2,x+1/2,z+1/2
+12 y+1/2,-x+1/2,z+1/2
+13 -x+1/2,y+1/2,z+1/2
+14 x+1/2,-y+1/2,z+1/2
+15 y+1/2,x+1/2,z+1/2
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1 Ba 2 a 0.00000 0.00000 0.00000 1.00000
+Ni1 Ni 2 a 0.00000 0.00000 0.65540 1.00000
+Sn1 Sn 2 a 0.00000 0.00000 0.42410 1.00000
+Sn2 Sn 4 b 0.00000 0.50000 0.25160 1.00000

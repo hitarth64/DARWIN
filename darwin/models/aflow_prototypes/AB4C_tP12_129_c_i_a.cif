@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'BrH4N'
+_chemical_formula_sum 'Br H4 N'
+
+loop_
+_publ_author_name
+ 'H. A. Levy'
+ 'S. W. Peterson'
+_journal_name_full_name
+;
+ Journal of the American Chemical Society
+;
+_journal_volume 75
+_journal_year 1953
+_journal_page_first 1536
+_journal_page_last 1542
+_publ_Section_title
+;
+ Neutron Diffraction Determination of the Crystal Structure of Ammonium Bromide in Four Phases
+;
+
+_aflow_title 'NH$_{4}$Br ($B25$) Structure'
+_aflow_proto 'AB4C_tP12_129_c_i_a'
+_aflow_params 'a,c/a,z_{2},y_{3},z_{3}'
+_aflow_params_values '5.82,0.710652920962,0.48,0.897,0.147'
+_aflow_Strukturbericht '$B25$'
+_aflow_Pearson 'tP12'
+
+_symmetry_space_group_name_H-M "P 4/n 21/m 2/m (origin choice 2)"
+_symmetry_Int_Tables_number 129
+ 
+_cell_length_a    5.82000
+_cell_length_b    5.82000
+_cell_length_c    4.13600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y,-z
+3 -x,y+1/2,-z
+4 -x+1/2,-y+1/2,z
+5 -y,-x,-z
+6 -y+1/2,x,z
+7 y,-x+1/2,z
+8 y+1/2,x+1/2,-z
+9 -x,-y,-z
+10 -x+1/2,y,z
+11 x,-y+1/2,z
+12 x+1/2,y+1/2,-z
+13 y,x,z
+14 y+1/2,-x,-z
+15 -y,x+1/2,-z
+16 -y+1/2,-x+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 2 a 0.25000 0.75000 0.00000 1.00000
+Br1 Br 2 c 0.25000 0.25000 0.48000 1.00000
+H1 H 8 i 0.25000 0.89700 0.14700 1.00000

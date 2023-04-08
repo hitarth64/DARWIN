@@ -1,0 +1,80 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Chiolite'
+_chemical_formula_sum 'Al3 F14 Na5'
+
+loop_
+_publ_author_name
+ 'C. Jacoboni'
+ 'A. Leble'
+ 'J. J. Rousseau'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 36
+_journal_year 1981
+_journal_page_first 297
+_journal_page_last 304
+_publ_Section_title
+;
+ D\\'{e}termination pr\\'{e}cise de la structure de la chiolite Na$_{5}$Al$_{3}$F$_{14}$ et \\'{e}tude par R.P.E. de Na$_{5}$Al$_{3}$F$_{14}$:Cr$^{3+}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Chiolite (Na$_{5}$Al$_{3}$F$_{14}$, $K7_{5}$) Structure'
+_aflow_proto 'A3B14C5_tP44_128_ac_ehi_bg'
+_aflow_params 'a,c/a,z_{4},x_{5},x_{6},y_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '7.0138,1.48307622116,0.1711,0.2768,0.0642,0.2477,0.1794,0.5364,0.1198'
+_aflow_Strukturbericht '$K7_{5}$'
+_aflow_Pearson 'tP44'
+
+_symmetry_space_group_name_H-M "P 4/m 21/n 2/c"
+_symmetry_Int_Tables_number 128
+ 
+_cell_length_a    7.01380
+_cell_length_b    7.01380
+_cell_length_c    10.40200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -y+1/2,-x+1/2,-z+1/2
+6 -y,x,z
+7 y,-x,z
+8 y+1/2,x+1/2,-z+1/2
+9 -x,-y,-z
+10 -x+1/2,y+1/2,z+1/2
+11 x+1/2,-y+1/2,z+1/2
+12 x,y,-z
+13 y+1/2,x+1/2,z+1/2
+14 y,-x,-z
+15 -y,x,-z
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 2 a 0.00000 0.00000 0.00000 1.00000
+Na1 Na 2 b 0.00000 0.00000 0.50000 1.00000
+Al2 Al 4 c 0.00000 0.50000 0.00000 1.00000
+F1 F 4 e 0.00000 0.00000 0.17110 1.00000
+Na2 Na 8 g 0.27680 0.77680 0.25000 1.00000
+F2 F 8 h 0.06420 0.24770 0.00000 1.00000
+F3 F 16 i 0.17940 0.53640 0.11980 1.00000

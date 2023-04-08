@@ -1,0 +1,96 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'As2Cd3'
+_chemical_formula_sum 'As2 Cd3'
+
+loop_
+_publ_author_name
+ 'M. N. Ali'
+ 'Q. Gibson'
+ 'S. Jeon'
+ 'B. B. Zhou'
+ 'A. Yazdani'
+ 'R. J. Cava'
+_journal_name_full_name
+;
+ Inorganic Chemistry
+;
+_journal_volume 53
+_journal_year 2014
+_journal_page_first 4062
+_journal_page_last 4067
+_publ_Section_title
+;
+ The Crystal and Electronic Structures of Cd$_{3}$As$_{2}$, the Three-Dimensional Electronic Analogue of Graphene
+;
+
+_aflow_title 'Cd$_{3}$As$_{2}$ Structure'
+_aflow_proto 'A2B3_tI160_142_deg_3g'
+_aflow_params 'a,c/a,z_{1},x_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '12.633,2.01274439959,-0.00073,0.73924,0.24597,0.25789,0.12315,0.13951,0.36959,0.05249,0.11169,0.64224,0.0725,0.11879,0.1061,0.06251'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI160'
+
+_symmetry_space_group_name_H-M "I 41/a 2/c 2/d (origin choice 2)"
+_symmetry_Int_Tables_number 142
+ 
+_cell_length_a    12.63300
+_cell_length_b    12.63300
+_cell_length_c    25.42700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x+1/2,y,-z
+4 -x,-y+1/2,z
+5 -y+1/4,-x+1/4,-z+1/4
+6 -y+1/4,x+3/4,z+1/4
+7 y+3/4,-x+3/4,z+1/4
+8 y+3/4,x+1/4,-z+1/4
+9 -x,-y,-z
+10 -x,y,z+1/2
+11 x,-y+1/2,z+1/2
+12 x,y+1/2,-z
+13 y+1/4,x+1/4,z+1/4
+14 y+3/4,-x+1/4,-z+3/4
+15 -y+1/4,x+1/4,-z+3/4
+16 -y+3/4,-x+1/4,z+1/4
+17 x+1/2,y+1/2,z+1/2
+18 x,-y,-z+1/2
+19 -x,y+1/2,-z+1/2
+20 -x+1/2,-y,z+1/2
+21 -y+3/4,-x+3/4,-z+3/4
+22 -y+3/4,x+1/4,z+3/4
+23 y+1/4,-x+1/4,z+3/4
+24 y+1/4,x+3/4,-z+3/4
+25 -x+1/2,-y+1/2,-z+1/2
+26 -x+1/2,y+1/2,z
+27 x+1/2,-y,z
+28 x+1/2,y,-z+1/2
+29 y+3/4,x+3/4,z+3/4
+30 y+1/4,-x+3/4,-z+1/4
+31 -y+3/4,x+3/4,-z+1/4
+32 -y+1/4,-x+3/4,z+3/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+As1 As 16 d 0.00000 0.25000 -0.00073 1.00000
+As2 As 16 e 0.73924 0.00000 0.25000 1.00000
+As3 As 32 g 0.24597 0.25789 0.12315 1.00000
+Cd1 Cd 32 g 0.13951 0.36959 0.05249 1.00000
+Cd2 Cd 32 g 0.11169 0.64224 0.07250 1.00000
+Cd3 Cd 32 g 0.11879 0.10610 0.06251 1.00000

@@ -1,0 +1,82 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mg3Ru2'
+_chemical_formula_sum 'Mg3 Ru2'
+
+loop_
+_publ_author_name
+ 'R. P\"{o}ttgen'
+ 'V. Hlukhyy'
+ 'A. Baranov'
+ 'Y. Grin'
+_journal_name_full_name
+;
+ Inorganic Chemistry
+;
+_journal_volume 47
+_journal_year 2008
+_journal_page_first 6051
+_journal_page_last 6055
+_publ_Section_title
+;
+ Crystal Structure and Chemical Bonding of Mg$_{3}$Ru$_{2}$
+;
+
+_aflow_title 'Mg$_{3}$Ru$_{2}$ Structure'
+_aflow_proto 'A3B2_cP20_213_d_c'
+_aflow_params 'a,x_{1},y_{2}'
+_aflow_params_values '6.9352,0.07378,0.2051'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'cP20'
+
+_symmetry_space_group_name_H-M "P 41 3 2"
+_symmetry_Int_Tables_number 213
+ 
+_cell_length_a    6.93520
+_cell_length_b    6.93520
+_cell_length_c    6.93520
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -y+3/4,-x+3/4,-z+3/4
+14 -y+1/4,x+3/4,z+1/4
+15 y+1/4,-x+1/4,z+3/4
+16 y+3/4,x+1/4,-z+1/4
+17 -x+3/4,-z+3/4,-y+3/4
+18 -x+1/4,z+3/4,y+1/4
+19 x+1/4,-z+1/4,y+3/4
+20 x+3/4,z+1/4,-y+1/4
+21 -z+3/4,-y+3/4,-x+3/4
+22 -z+1/4,y+3/4,x+1/4
+23 z+1/4,-y+1/4,x+3/4
+24 z+3/4,y+1/4,-x+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ru1 Ru 8 c 0.07378 0.07378 0.07378 1.00000
+Mg1 Mg 12 d 0.12500 0.20510 0.45510 1.00000

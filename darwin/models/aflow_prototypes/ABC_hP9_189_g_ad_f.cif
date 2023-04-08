@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'AlNiZr'
+_chemical_formula_sum 'Al Ni Zr'
+
+loop_
+_publ_author_name
+ 'O. Shved'
+ 'L. P. Salamakha'
+ 'S. Mudry'
+ 'O. Sologub'
+ 'P. F. Rogl'
+ 'E. Bauer'
+_journal_name_full_name
+;
+ Journal of Alloys and Compounds
+;
+_journal_volume 821
+_journal_year 2020
+_journal_page_first 153326
+_journal_page_last 153326
+_publ_Section_title
+;
+ Zr-based nickel aluminides: crystal structure and electronic properties
+;
+
+_aflow_title 'ZrNiAl Structure'
+_aflow_proto 'ABC_hP9_189_g_ad_f'
+_aflow_params 'a,c/a,x_{3},x_{4}'
+_aflow_params_values '6.91558,0.50180028284,0.59354,0.2491'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP9'
+
+_symmetry_space_group_name_H-M "P -6 2 m"
+_symmetry_Int_Tables_number 189
+ 
+_cell_length_a    6.91558
+_cell_length_b    6.91558
+_cell_length_c    3.47024
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,-z
+5 y,x,-z
+6 -x,-x+y,-z
+7 -x+y,-x,-z
+8 x,y,-z
+9 -y,x-y,-z
+10 -x,-x+y,z
+11 x-y,-y,z
+12 y,x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 1 a 0.00000 0.00000 0.00000 1.00000
+Ni2 Ni 2 d 0.33333 0.66667 0.50000 1.00000
+Zr1 Zr 3 f 0.59354 0.00000 0.00000 1.00000
+Al1 Al 3 g 0.24910 0.00000 0.50000 1.00000

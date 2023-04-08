@@ -1,0 +1,69 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'AlF5Tl2'
+_chemical_formula_sum 'Al F5 Tl2'
+
+loop_
+_publ_author_name
+ 'C. Brosset'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 235
+_journal_year 1937
+_journal_page_first 139
+_journal_page_last 147
+_publ_Section_title
+;
+ Herstellung und Kristallbau der Verbindungen TlAlF$_{4}$ und Tl$_{2}$AlF$_{5}$
+;
+
+# Found in A Structural Classification of Fluoaluminates, 1950
+
+_aflow_title 'Tl$_{2}$AlF$_{5}$ ($K3_{3}$) Structure'
+_aflow_proto 'AB5C2_oC32_20_b_a2bc_c'
+_aflow_params 'a,b/a,c/a,x_{1},y_{2},y_{3},y_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '10.06,0.819085487078,0.741550695825,0.033,0.0,0.23,0.78,0.19,0.0,0.29,0.29,0.2,0.0'
+_aflow_Strukturbericht '$K3_{3}$'
+_aflow_Pearson 'oC32'
+
+_symmetry_space_group_name_H-M "C 2 2 21"
+_symmetry_Int_Tables_number 20
+ 
+_cell_length_a    10.06000
+_cell_length_b    8.24000
+_cell_length_c    7.46000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 x+1/2,-y+1/2,-z
+7 -x+1/2,y+1/2,-z+1/2
+8 -x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F1 F 4 a 0.03300 0.00000 0.00000 1.00000
+Al1 Al 4 b 0.00000 0.00000 0.25000 1.00000
+F2 F 4 b 0.00000 0.23000 0.25000 1.00000
+F3 F 4 b 0.00000 0.78000 0.25000 1.00000
+F4 F 8 c 0.19000 0.00000 0.29000 1.00000
+Tl1 Tl 8 c 0.29000 0.20000 0.00000 1.00000

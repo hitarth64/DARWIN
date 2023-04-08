@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CeCu2'
+_chemical_formula_sum 'Ce Cu2'
+
+loop_
+_publ_author_name
+ 'A. C. Larson'
+ 'D. T. Cromer'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 14
+_journal_year 1961
+_journal_page_first 73
+_journal_page_last 74
+_publ_Section_title
+;
+ The crystal structure of CeCu$_{2}$
+;
+
+_aflow_title 'CeCu$_{2}$ Structure'
+_aflow_proto 'AB2_oI12_74_e_h'
+_aflow_params 'a,b/a,c/a,z_{1},y_{2},z_{2}'
+_aflow_params_values '4.43,1.5914221219,1.68171557562,0.5377,0.051,0.1648'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oI12'
+
+_symmetry_space_group_name_H-M "I 21/m 21/m 21/a"
+_symmetry_Int_Tables_number 74
+ 
+_cell_length_a    4.43000
+_cell_length_b    7.05000
+_cell_length_c    7.45000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y+1/2,-z
+4 -x,-y+1/2,z
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y+1/2,z
+8 x,y+1/2,-z
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y+1/2,-z+1/2
+11 -x+1/2,y,-z+1/2
+12 -x+1/2,-y,z+1/2
+13 -x+1/2,-y+1/2,-z+1/2
+14 -x+1/2,y+1/2,z+1/2
+15 x+1/2,-y,z+1/2
+16 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ce1 Ce 4 e 0.00000 0.25000 0.53770 1.00000
+Cu1 Cu 8 h 0.00000 0.05100 0.16480 1.00000

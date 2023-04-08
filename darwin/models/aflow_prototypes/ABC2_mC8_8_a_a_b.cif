@@ -1,0 +1,60 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Potassium nitrite'
+_chemical_formula_sum 'K N O2'
+
+loop_
+_publ_author_name
+ 'G. E. Ziegler'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 94
+_journal_year 1936
+_journal_page_first 491
+_journal_page_last 499
+_publ_Section_title
+;
+ The Crystal Structure of Potassium Nitrite, KNO$_{2}$
+;
+
+_aflow_title '$F5_{11}$ (KNO$_{2}$) ({\em{obsolete}}) Structure'
+_aflow_proto 'ABC2_mC8_8_a_a_b'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},z_{1},x_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '7.31,0.682626538988,0.608755129959,114.8333,0.0,0.0,0.486,0.5,-0.083,0.306,0.444'
+_aflow_Strukturbericht '$F5_{11}$'
+_aflow_Pearson 'mC8'
+
+_symmetry_space_group_name_H-M "C 1 m 1"
+_symmetry_Int_Tables_number 8
+ 
+_cell_length_a    7.31000
+_cell_length_b    4.99000
+_cell_length_c    4.45000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  114.83330
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,z
+3 x+1/2,y+1/2,z
+4 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 2 a 0.00000 0.00000 0.00000 1.00000
+N1 N 2 a 0.48600 0.00000 0.50000 1.00000
+O1 O 4 b -0.08300 0.30600 0.44400 1.00000

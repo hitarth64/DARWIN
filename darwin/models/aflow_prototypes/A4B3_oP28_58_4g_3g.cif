@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'In4Se3'
+_chemical_formula_sum 'In4 Se3'
+
+loop_
+_publ_author_name
+ 'J. H. C. Hogg'
+ 'H. H. Sutherland'
+ 'D. J. Williams'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 29
+_journal_year 1973
+_journal_page_first 1590
+_journal_page_last 1593
+_publ_Section_title
+;
+ The crystal structure of tetraindium triselenide
+;
+
+# Found in Structural and optical properties of In$_{4}$Se$_{3}$ thin films obtained by flash evaporation, 1995
+
+_aflow_title 'In$_{4}$Se$_{3}$ Structure'
+_aflow_proto 'A4B3_oP28_58_4g_3g'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},x_{2},y_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},x_{6},y_{6},x_{7},y_{7}'
+_aflow_params_values '15.297,0.804602209584,0.266784336798,0.7111,0.3393,0.8157,0.5236,-0.0325,0.6442,0.4238,0.3974,-0.0967,0.8493,0.7688,0.1386,0.4239,0.156'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP28'
+
+_symmetry_space_group_name_H-M "P 21/n 21/n 2/m"
+_symmetry_Int_Tables_number 58
+ 
+_cell_length_a    15.29700
+_cell_length_b    12.30800
+_cell_length_c    4.08100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x+1/2,-y+1/2,z+1/2
+8 x,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In1 In 4 g 0.71110 0.33930 0.00000 1.00000
+In2 In 4 g 0.81570 0.52360 0.00000 1.00000
+In3 In 4 g -0.03250 0.64420 0.00000 1.00000
+In4 In 4 g 0.42380 0.39740 0.00000 1.00000
+Se1 Se 4 g -0.09670 0.84930 0.00000 1.00000
+Se2 Se 4 g 0.76880 0.13860 0.00000 1.00000
+Se3 Se 4 g 0.42390 0.15600 0.00000 1.00000

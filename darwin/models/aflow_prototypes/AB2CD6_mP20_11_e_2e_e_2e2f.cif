@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Barytocalcite'
+_chemical_formula_sum 'Ba C2 Ca O6'
+
+loop_
+_publ_author_name
+ 'B. Dickens'
+ 'J. S. Bowen'
+_journal_name_full_name
+;
+ Journal of Research of the National Bureau of Standards, Section A: Physics and Chemistry
+;
+_journal_volume 75
+_journal_year 1971
+_journal_page_first 197
+_journal_page_last 203
+_publ_Section_title
+;
+ The Crystal Structure of BaCa(CO$_{3}$)$_{2}$ (barytocalcite)
+;
+
+# Found in A new BaCa(CO$_{3}$)$_{2}$ polymorph, 2019
+
+_aflow_title 'Barytocalcite (BaCa(CO$_{3}$)$_{2}$) Structure'
+_aflow_proto 'AB2CD6_mP20_11_e_2e_e_2e2f'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '5.2344,1.54592694483,1.25019104386,106.05,0.1474,0.28824,0.1028,0.7517,0.6149,0.7468,0.6232,0.19855,-0.0057,0.8607,0.6383,0.5644,0.8457,-0.038,0.3089,0.6066,0.4604,0.8474'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP20'
+
+_symmetry_space_group_name_H-M "P 1 21/m 1"
+_symmetry_Int_Tables_number 11
+ 
+_cell_length_a    5.23440
+_cell_length_b    8.09200
+_cell_length_c    6.54400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  106.05000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+3 -x,-y,-z
+4 x,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1 Ba 2 e 0.14740 0.25000 0.28824 1.00000
+C1 C 2 e 0.10280 0.25000 0.75170 1.00000
+C2 C 2 e 0.61490 0.25000 0.74680 1.00000
+Ca1 Ca 2 e 0.62320 0.25000 0.19855 1.00000
+O1 O 2 e -0.00570 0.25000 0.86070 1.00000
+O2 O 2 e 0.63830 0.25000 0.56440 1.00000
+O3 O 4 f 0.84570 -0.03800 0.30890 1.00000
+O4 O 4 f 0.60660 0.46040 0.84740 1.00000

@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cs2Sb'
+_chemical_formula_sum 'Cs2 Sb'
+
+loop_
+_publ_author_name
+ 'C. Hirschle'
+ 'C. R\"{o}hr'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 626
+_journal_year 2000
+_journal_page_first 1992
+_journal_page_last 1998
+_publ_Section_title
+;
+ Darstellung und Kristallstruktur der bekannten Zintl-Phasen Cs$_{3}$Sb$_{7}$ und Cs$_{4}$Sb$_{2}$
+;
+
+# Found in PAULING FILE in: Inorganic Solid Phases (online database), {Cs$_{4}$Sb$_{2}$ (Cs$_{2}$Sb) Crystal Structure}, 2016
+
+_aflow_title 'Cs$_{2}$Sb Structure'
+_aflow_proto 'A2B_oP24_62_4c_2c'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6}'
+_aflow_params_values '15.985,0.395308101345,0.687832342821,0.00065,0.6743,0.20442,0.40591,0.25609,0.73979,0.43929,0.41364,0.16182,0.06288,0.34361,0.09158'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP24'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    15.98500
+_cell_length_b    6.31900
+_cell_length_c    10.99500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cs1 Cs 4 c 0.00065 0.25000 0.67430 1.00000
+Cs2 Cs 4 c 0.20442 0.25000 0.40591 1.00000
+Cs3 Cs 4 c 0.25609 0.25000 0.73979 1.00000
+Cs4 Cs 4 c 0.43929 0.25000 0.41364 1.00000
+Sb1 Sb 4 c 0.16182 0.25000 0.06288 1.00000
+Sb2 Sb 4 c 0.34361 0.25000 0.09158 1.00000

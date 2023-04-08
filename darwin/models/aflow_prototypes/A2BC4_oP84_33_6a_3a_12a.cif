@@ -1,0 +1,80 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'B2CaO4'
+_chemical_formula_sum 'B2 Ca O4'
+
+loop_
+_publ_author_name
+ 'M. Marezio'
+ 'J. P. Remeika'
+ 'P. D. Dernier'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 25
+_journal_year 1969
+_journal_page_first 955
+_journal_page_last 964
+_publ_Section_title
+;
+ The crystal structure of the high-pressure phase CaB$_{2}$O$_{4}$(III)
+;
+
+_aflow_title 'CaB$_{2}$O$_{4}$ (III) Structure'
+_aflow_proto 'A2BC4_oP84_33_6a_3a_12a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21}'
+_aflow_params_values '11.38,0.554217926186,0.993321616872,0.1401,0.2529,0.539,0.251,0.4193,0.0515,0.2131,0.1191,0.7403,0.3222,0.1006,0.9442,0.4658,0.0183,0.48,0.4748,0.3758,0.2477,0.07351,0.05043,0.0,0.03257,0.65995,0.23386,0.25309,0.11288,0.27955,0.2657,0.1944,0.0459,0.2171,0.4704,0.1734,0.0717,0.0297,0.2009,0.4547,0.1715,0.2567,0.2009,0.375,0.4486,0.1456,0.0322,0.5116,0.0061,0.3009,0.5305,0.1734,0.2946,0.6635,0.1069,0.022,0.7981,0.287,0.2046,0.8336,0.4563,0.137,0.9458,0.1504,0.4768,0.9668'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP84'
+
+_symmetry_space_group_name_H-M "P n a 21"
+_symmetry_Int_Tables_number 33
+ 
+_cell_length_a    11.38000
+_cell_length_b    6.30700
+_cell_length_c    11.30400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x+1/2,y+1/2,z+1/2
+4 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 4 a 0.14010 0.25290 0.53900 1.00000
+B2 B 4 a 0.25100 0.41930 0.05150 1.00000
+B3 B 4 a 0.21310 0.11910 0.74030 1.00000
+B4 B 4 a 0.32220 0.10060 0.94420 1.00000
+B5 B 4 a 0.46580 0.01830 0.48000 1.00000
+B6 B 4 a 0.47480 0.37580 0.24770 1.00000
+Ca1 Ca 4 a 0.07351 0.05043 0.00000 1.00000
+Ca2 Ca 4 a 0.03257 0.65995 0.23386 1.00000
+Ca3 Ca 4 a 0.25309 0.11288 0.27955 1.00000
+O1 O 4 a 0.26570 0.19440 0.04590 1.00000
+O2 O 4 a 0.21710 0.47040 0.17340 1.00000
+O3 O 4 a 0.07170 0.02970 0.20090 1.00000
+O4 O 4 a 0.45470 0.17150 0.25670 1.00000
+O5 O 4 a 0.20090 0.37500 0.44860 1.00000
+O6 O 4 a 0.14560 0.03220 0.51160 1.00000
+O7 O 4 a 0.00610 0.30090 0.53050 1.00000
+O8 O 4 a 0.17340 0.29460 0.66350 1.00000
+O9 O 4 a 0.10690 0.02200 0.79810 1.00000
+O10 O 4 a 0.28700 0.20460 0.83360 1.00000
+O11 O 4 a 0.45630 0.13700 0.94580 1.00000
+O12 O 4 a 0.15040 0.47680 0.96680 1.00000

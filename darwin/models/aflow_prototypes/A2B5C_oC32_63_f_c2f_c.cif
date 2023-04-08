@@ -1,0 +1,77 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Pseudobrookite'
+_chemical_formula_sum 'Fe2 O5 Ti'
+
+loop_
+_publ_author_name
+ 'W. Q. Guo'
+ 'S. Malus'
+ 'D. H. Ryan'
+ 'Z. Altounian'
+_journal_name_full_name
+;
+ Journal of Physics: Condensed Matter
+;
+_journal_volume 11
+_journal_year 1999
+_journal_page_first 6337
+_journal_page_last 6346
+_publ_Section_title
+;
+ Crystal structure and cation distributions in the FeTi$_{2}$O$_{5}$-Fe$_{2}$TiO$_{5}$ solid solution series
+;
+
+_aflow_title 'Pseudobrookite (Fe$_{2}$TiO$_{5}$, $E4_{1}$) Structure'
+_aflow_proto 'A2B5C_oC32_63_f_c2f_c'
+_aflow_params 'a,b/a,c/a,y_{1},y_{2},y_{3},z_{3},y_{4},z_{4},y_{5},z_{5}'
+_aflow_params_values '3.7318,2.62428318774,2.67393751005,0.7617,0.18848,0.1367,0.5649,0.048,0.1167,0.3108,0.0709'
+_aflow_Strukturbericht '$E4_{1}$'
+_aflow_Pearson 'oC32'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/m"
+_symmetry_Int_Tables_number 63
+ 
+_cell_length_a    3.73180
+_cell_length_b    9.79330
+_cell_length_c    9.97860
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z+1/2
+8 x,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z+1/2
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 c 0.00000 0.76170 0.25000 1.00000
+Ti1 Ti 4 c 0.00000 0.18848 0.25000 1.00000
+Fe1 Fe 8 f 0.00000 0.13670 0.56490 1.00000
+O2 O 8 f 0.00000 0.04800 0.11670 1.00000
+O3 O 8 f 0.00000 0.31080 0.07090 1.00000

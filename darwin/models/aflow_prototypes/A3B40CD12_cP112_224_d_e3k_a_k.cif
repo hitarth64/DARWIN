@@ -1,0 +1,113 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral '(H3O)3O40PW12'
+_chemical_formula_sum '(H3O)3 O40 P W12'
+
+loop_
+_publ_author_name
+ 'L. Marosi'
+ 'E. E. Platero'
+ 'J. Cifre'
+ 'C. O. Are\\'{a}na'
+_journal_name_full_name
+;
+ Journal of Materials Chemistry
+;
+_journal_volume 10
+_journal_year 2000
+_journal_page_first 1949
+_journal_page_last 1955
+_publ_Section_title
+;
+ Thermal dehydration of H$_{3+x}$PV$_{x}$M${12-x}$O$_{40}$$\cdot$$y$H$_{2}$O Keggin type heteropolyacids; formation, thermal stability and structure of the anhydrous acids H$_{3}$PM$_{12}$O$_{40}$, of the corresponding anhydrides PM$_{12}$O$_{38.5}$ and of a novel trihydrate H$_{3}$PW$_{12}$O$_{40}$$\cdot$3H$_{2}$O
+;
+
+# Found in H$_{3}$PW$_{12}$O$_{40}$$\cdot$3H$_{2}$O Crystal Structure, 2016 Found in H$_{3}$PW$_{12}$O$_{40}$$\cdot$3H$_{2}$O Crystal Structure, {in: Inorganic Solid Phases, SpringerMaterials (online database)},
+
+_aflow_title 'H$_{3}$PW$_{12}$O$_{40}$$\cdot$3H$_{2}$O Structure'
+_aflow_proto 'A3B40CD12_cP112_224_d_e3k_a_k'
+_aflow_params 'a,x_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7}'
+_aflow_params_values '11.75,0.3226,0.6463,0.0133,0.3687,0.5462,0.5629,0.2412,0.4636,0.2579'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'cP112'
+
+_symmetry_space_group_name_H-M "P 42/n -3 2/m (origin choice 2)"
+_symmetry_Int_Tables_number 224
+ 
+_cell_length_a    11.75000
+_cell_length_b    11.75000
+_cell_length_c    11.75000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y+1/2,-z+1/2
+3 -x+1/2,y,-z+1/2
+4 -x+1/2,-y+1/2,z
+5 y,z,x
+6 y,-z+1/2,-x+1/2
+7 -y+1/2,z,-x+1/2
+8 -y+1/2,-z+1/2,x
+9 z,x,y
+10 z,-x+1/2,-y+1/2
+11 -z+1/2,x,-y+1/2
+12 -z+1/2,-x+1/2,y
+13 -y,-x,-z
+14 -y,x+1/2,z+1/2
+15 y+1/2,-x,z+1/2
+16 y+1/2,x+1/2,-z
+17 -x,-z,-y
+18 -x,z+1/2,y+1/2
+19 x+1/2,-z,y+1/2
+20 x+1/2,z+1/2,-y
+21 -z,-y,-x
+22 -z,y+1/2,x+1/2
+23 z+1/2,-y,x+1/2
+24 z+1/2,y+1/2,-x
+25 -x,-y,-z
+26 -x,y+1/2,z+1/2
+27 x+1/2,-y,z+1/2
+28 x+1/2,y+1/2,-z
+29 -y,-z,-x
+30 -y,z+1/2,x+1/2
+31 y+1/2,-z,x+1/2
+32 y+1/2,z+1/2,-x
+33 -z,-x,-y
+34 -z,x+1/2,y+1/2
+35 z+1/2,-x,y+1/2
+36 z+1/2,x+1/2,-y
+37 y,x,z
+38 y,-x+1/2,-z+1/2
+39 -y+1/2,x,-z+1/2
+40 -y+1/2,-x+1/2,z
+41 x,z,y
+42 x,-z+1/2,-y+1/2
+43 -x+1/2,z,-y+1/2
+44 -x+1/2,-z+1/2,y
+45 z,y,x
+46 z,-y+1/2,-x+1/2
+47 -z+1/2,y,-x+1/2
+48 -z+1/2,-y+1/2,x
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 2 a 0.25000 0.25000 0.25000 1.00000
+H3O1 H3O 6 d 0.25000 0.75000 0.75000 1.00000
+O1 O 8 e 0.32260 0.32260 0.32260 1.00000
+O2 O 24 k 0.64630 0.64630 0.01330 1.00000
+O3 O 24 k 0.36870 0.36870 0.54620 1.00000
+O4 O 24 k 0.56290 0.56290 0.24120 1.00000
+W1 W 24 k 0.46360 0.46360 0.25790 1.00000

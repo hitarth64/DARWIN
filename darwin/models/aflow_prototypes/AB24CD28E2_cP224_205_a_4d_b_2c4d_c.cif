@@ -1,0 +1,93 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral '$\alpha$-alum'
+_chemical_formula_sum 'Al H24 K O28 S2'
+
+loop_
+_publ_author_name
+ 'S. C. Nyburg'
+ 'J. W. Steed'
+ 'S. Aleksovska'
+ 'V. M. Petrusevski'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 56
+_journal_year 2000
+_journal_page_first 204
+_journal_page_last 209
+_publ_Section_title
+;
+ Structure of the alums. I. On the sulfate group disorder in the $\alpha$-alums
+;
+
+_aflow_title '$\alpha$-Alum [KAl(SO$_{4}$)$_{2}$ $\cdot$ 12H$_{2}$O, $H4_{13}$] Structure'
+_aflow_proto 'AB24CD28E2_cP224_205_a_4d_b_2c4d_c'
+_aflow_params 'a,x_{3},x_{4},x_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13}'
+_aflow_params_values '12.135,0.23606,0.3746,0.3061,0.175,0.0365,-0.07275,0.1982,0.0262,0.034,0.104,0.155,0.3,0.0009,0.1821,0.2914,0.26302,0.41979,0.30624,0.2808,0.2,0.3614,0.15173,0.028,-0.01985,0.04692,0.13071,0.30399'
+_aflow_Strukturbericht '$H4_{13}$'
+_aflow_Pearson 'cP224'
+
+_symmetry_space_group_name_H-M "P 21/a -3"
+_symmetry_Int_Tables_number 205
+ 
+_cell_length_a    12.13500
+_cell_length_b    12.13500
+_cell_length_c    12.13500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -x,-y,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+17 -y,-z,-x
+18 -y+1/2,z+1/2,x
+19 y,-z+1/2,x+1/2
+20 y+1/2,z,-x+1/2
+21 -z,-x,-y
+22 -z+1/2,x+1/2,y
+23 z,-x+1/2,y+1/2
+24 z+1/2,x,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 4 a 0.00000 0.00000 0.00000 1.00000
+K1 K 4 b 0.50000 0.50000 0.50000 1.00000
+O1 O 8 c 0.23606 0.23606 0.23606 0.78700
+O2 O 8 c 0.37460 0.37460 0.37460 0.21300
+S1 S 8 c 0.30610 0.30610 0.30610 1.00000
+H1 H 24 d 0.17500 0.03650 -0.07275 1.00000
+H2 H 24 d 0.19820 0.02620 0.03400 1.00000
+H3 H 24 d 0.10400 0.15500 0.30000 1.00000
+H4 H 24 d 0.00090 0.18210 0.29140 1.00000
+O3 O 24 d 0.26302 0.41979 0.30624 0.78700
+O4 O 24 d 0.28080 0.20000 0.36140 0.21300
+O5 O 24 d 0.15173 0.02800 -0.01985 1.00000
+O6 O 24 d 0.04692 0.13071 0.30399 1.00000

@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CdClHO'
+_chemical_formula_sum 'Cd Cl H O'
+
+loop_
+_publ_author_name
+ 'Y. Cudennec'
+ 'A. Riou'
+ 'Y. G\\'{e}rault'
+ 'A. Lecerf'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 151
+_journal_year 2000
+_journal_page_first 308
+_journal_page_last 312
+_publ_Section_title
+;
+ Synthesis and Crystal Structures of Cd(OH)Cl and Cu(OH)Cl and Relationship to Brucite Type
+;
+
+_aflow_title 'Cd(OH)Cl ($E0_{3}$) Structure'
+_aflow_proto 'ABCD_hP8_186_b_b_a_a'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},z_{4}'
+_aflow_params_values '3.6648,2.79155752019,0.18,0.0892,0.0079,0.3433'
+_aflow_Strukturbericht '$E0_{3}$'
+_aflow_Pearson 'hP8'
+
+_symmetry_space_group_name_H-M "P 63 m c"
+_symmetry_Int_Tables_number 186
+ 
+_cell_length_a    3.66480
+_cell_length_b    3.66480
+_cell_length_c    10.23050
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x+y,y,z
+8 -x,-x+y,z+1/2
+9 -y,-x,z
+10 x-y,-y,z+1/2
+11 x,x-y,z
+12 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 2 a 0.00000 0.00000 0.18000 1.00000
+O1 O 2 a 0.00000 0.00000 0.08920 1.00000
+Cd1 Cd 2 b 0.33333 0.66667 0.00790 1.00000
+Cl1 Cl 2 b 0.33333 0.66667 0.34330 1.00000

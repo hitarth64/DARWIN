@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CaNa2O4Si'
+_chemical_formula_sum 'Ca Na2 O4 Si'
+
+loop_
+_publ_author_name
+ 'T. F. W. Barth'
+ 'E. Posnjak'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 81
+_journal_year 1932
+_journal_page_first 370
+_journal_page_last 375
+_publ_Section_title
+;
+ Silicate structures of the cristobalite type: II. The crystal structure of Na$_{2}$CaSiO$_{4}$
+;
+
+_aflow_title 'Na$_{2}$CaSiO$_{4}$ ($S6_{6}$) Structure'
+_aflow_proto 'AB2C4D_cP32_198_a_2a_ab_a'
+_aflow_params 'a,x_{1},x_{2},x_{3},x_{4},x_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '7.48,-0.007,0.5,0.75,0.133,0.253,0.556,0.667,0.222'
+_aflow_Strukturbericht '$S6_{6}$'
+_aflow_Pearson 'cP32'
+
+_symmetry_space_group_name_H-M "P 21 3"
+_symmetry_Int_Tables_number 198
+ 
+_cell_length_a    7.48000
+_cell_length_b    7.48000
+_cell_length_c    7.48000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 4 a -0.00700 -0.00700 -0.00700 1.00000
+Na1 Na 4 a 0.50000 0.50000 0.50000 1.00000
+Na2 Na 4 a 0.75000 0.75000 0.75000 1.00000
+O1 O 4 a 0.13300 0.13300 0.13300 1.00000
+Si1 Si 4 a 0.25300 0.25300 0.25300 1.00000
+O2 O 12 b 0.55600 0.66700 0.22200 1.00000

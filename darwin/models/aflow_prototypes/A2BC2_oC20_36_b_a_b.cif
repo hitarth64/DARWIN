@@ -1,0 +1,65 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'N2OSi2'
+_chemical_formula_sum 'N2 O Si2'
+
+loop_
+_publ_author_name
+ 'I. Idrestedt'
+ 'C. Brosset'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 18
+_journal_year 1964
+_journal_page_first 1879
+_journal_page_last 1886
+_publ_Section_title
+;
+ Structure of Si$_{2}$N$_{2}$O
+;
+
+_aflow_title 'Si$_{2}$N$_{2}$O Structure'
+_aflow_proto 'A2BC2_oC20_36_b_a_b'
+_aflow_params 'a,b/a,c/a,y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '8.843,0.618907610539,0.546760149271,0.214,0.23,0.218,0.121,0.642,0.1763,0.1509,0.2898'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC20'
+
+_symmetry_space_group_name_H-M "C m c 21"
+_symmetry_Int_Tables_number 36
+ 
+_cell_length_a    8.84300
+_cell_length_b    5.47300
+_cell_length_c    4.83500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x,y,z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,-y+1/2,z+1/2
+7 -x+1/2,y+1/2,z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 a 0.00000 0.21400 0.23000 1.00000
+N1 N 8 b 0.21800 0.12100 0.64200 1.00000
+Si1 Si 8 b 0.17630 0.15090 0.28980 1.00000

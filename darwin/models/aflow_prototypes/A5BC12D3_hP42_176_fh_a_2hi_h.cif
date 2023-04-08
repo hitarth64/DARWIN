@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Fluorapatite'
+_chemical_formula_sum 'Ca5 F O12 P3'
+
+loop_
+_publ_author_name
+ 'J. M. Hughes'
+ 'J. Rakovan'
+_journal_name_full_name
+;
+ Reviews in Mineralogy and Geochemistry
+;
+_journal_volume 48
+_journal_year 2002
+_journal_page_first 1
+_journal_page_last 12
+_publ_Section_title
+;
+ The Crystal Structure of Apatite, Ca$_{5}$(PO$_{4}$)$_{3}$(F,OH,Cl)
+;
+
+_aflow_title 'Fluorapatite [Ca$_{5}$F(PO$_{4}$)$_{3}$, $H5_{7}$] Structure'
+_aflow_proto 'A5BC12D3_hP42_176_fh_a_2hi_h'
+_aflow_params 'a,c/a,z_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},x_{6},y_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '9.397,0.731935724167,-0.001,-0.00712,0.24227,0.4849,0.3273,0.4667,0.5875,0.36895,0.3985,0.2575,0.3421,0.0705'
+_aflow_Strukturbericht '$H5_{7}$'
+_aflow_Pearson 'hP42'
+
+_symmetry_space_group_name_H-M "P 63/m"
+_symmetry_Int_Tables_number 176
+ 
+_cell_length_a    9.39700
+_cell_length_b    9.39700
+_cell_length_c    6.87800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x,-y,-z
+8 -x+y,-x,-z+1/2
+9 y,-x+y,-z
+10 x,y,-z+1/2
+11 x-y,x,-z
+12 -y,x-y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F1 F 2 a 0.00000 0.00000 0.25000 1.00000
+Ca1 Ca 4 f 0.33333 0.66667 -0.00100 1.00000
+Ca2 Ca 6 h -0.00712 0.24227 0.25000 1.00000
+O1 O 6 h 0.48490 0.32730 0.25000 1.00000
+O2 O 6 h 0.46670 0.58750 0.25000 1.00000
+P1 P 6 h 0.36895 0.39850 0.25000 1.00000
+O3 O 12 i 0.25750 0.34210 0.07050 1.00000

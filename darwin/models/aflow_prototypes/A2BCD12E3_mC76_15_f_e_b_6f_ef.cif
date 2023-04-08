@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Alluaudite'
+_chemical_formula_sum 'Fe2 Mn Na O12 P3'
+
+loop_
+_publ_author_name
+ 'P. B. Moore'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 56
+_journal_year 1971
+_journal_page_first 1955
+_journal_page_last 1975
+_publ_Section_title
+;
+ Crystal Chemistry of the Alluaudite Structure Type: Contribution to the Paragenesis of Pegmatite Phosphate Giant Crystals
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Alluaudite [NaMnFe$_{2}$(PO$_{4}$)$_{3}$] Structure'
+_aflow_proto 'A2BCD12E3_mC76_15_f_e_b_6f_ef'
+_aflow_params 'a,b/a,c/a,\beta,y_{2},y_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11}'
+_aflow_params_values '12.004,1.04406864379,0.533488837054,114.4,0.2599,0.7145,0.2812,0.6525,0.3713,0.4533,0.7152,0.5342,0.0988,0.6375,0.2401,0.3272,0.6633,0.102,0.1213,0.3974,0.3119,0.2251,0.822,0.3172,0.3102,0.5021,0.3735,0.2424,0.8911,0.1325'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC76'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    12.00400
+_cell_length_b    12.53300
+_cell_length_c    6.40400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  114.40000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 4 b 0.00000 0.50000 0.00000 1.00000
+Mn1 Mn 4 e 0.00000 0.25990 0.25000 1.00000
+P1 P 4 e 0.00000 0.71450 0.25000 1.00000
+Fe1 Fe 8 f 0.28120 0.65250 0.37130 1.00000
+O1 O 8 f 0.45330 0.71520 0.53420 1.00000
+O2 O 8 f 0.09880 0.63750 0.24010 1.00000
+O3 O 8 f 0.32720 0.66330 0.10200 1.00000
+O4 O 8 f 0.12130 0.39740 0.31190 1.00000
+O5 O 8 f 0.22510 0.82200 0.31720 1.00000
+O6 O 8 f 0.31020 0.50210 0.37350 1.00000
+P2 P 8 f 0.24240 0.89110 0.13250 1.00000

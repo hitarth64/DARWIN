@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'NO3Rb'
+_chemical_formula_sum 'N O3 Rb'
+
+loop_
+_publ_author_name
+ 'M. Shamsuzzoha'
+ 'B. W. Lucas'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 2353
+_journal_page_last 2357
+_publ_Section_title
+;
+ Structure (neutron) of phase IV rubidium nitrate at 298 and 403~K
+;
+
+_aflow_title 'RbNO$_{3}$ (IV) Structure'
+_aflow_proto 'AB3C_hP45_144_3a_9a_3a'
+_aflow_params 'a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15}'
+_aflow_params_values '10.55,0.708056872038,0.4388,0.5668,0.1053,0.0962,0.2042,0.5318,0.742,0.2057,0.1168,0.3371,0.5582,0.0094,0.3964,0.4704,0.228,0.5646,0.6512,0.0664,-0.0011,0.1089,0.6245,0.2309,0.2495,0.5637,0.0581,0.2465,0.3949,0.6922,0.1208,0.2503,0.8721,0.2774,0.0897,0.6541,0.2174,0.014,0.4566,0.5691,0.6236,0.1184,0.2192,0.0,0.7772,0.2214,0.6381'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP45'
+
+_symmetry_space_group_name_H-M "P 31"
+_symmetry_Int_Tables_number 144
+ 
+_cell_length_a    10.55000
+_cell_length_b    10.55000
+_cell_length_c    7.47000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z+1/3
+3 -x+y,-x,z+2/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 3 a 0.43880 0.56680 0.10530 1.00000
+N2 N 3 a 0.09620 0.20420 0.53180 1.00000
+N3 N 3 a 0.74200 0.20570 0.11680 1.00000
+O1 O 3 a 0.33710 0.55820 0.00940 1.00000
+O2 O 3 a 0.39640 0.47040 0.22800 1.00000
+O3 O 3 a 0.56460 0.65120 0.06640 1.00000
+O4 O 3 a -0.00110 0.10890 0.62450 1.00000
+O5 O 3 a 0.23090 0.24950 0.56370 1.00000
+O6 O 3 a 0.05810 0.24650 0.39490 1.00000
+O7 O 3 a 0.69220 0.12080 0.25030 1.00000
+O8 O 3 a 0.87210 0.27740 0.08970 1.00000
+O9 O 3 a 0.65410 0.21740 0.01400 1.00000
+Rb1 Rb 3 a 0.45660 0.56910 0.62360 1.00000
+Rb2 Rb 3 a 0.11840 0.21920 0.00000 1.00000
+Rb3 Rb 3 a 0.77720 0.22140 0.63810 1.00000

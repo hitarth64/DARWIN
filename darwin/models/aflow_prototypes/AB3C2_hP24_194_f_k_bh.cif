@@ -1,0 +1,83 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CoGa3Lu2'
+_chemical_formula_sum 'Co Ga3 Lu2'
+
+loop_
+_publ_author_name
+ 'R. E. Gladyshevskii'
+ 'K. Cenzual'
+ 'E. Parth\\'{e}'
+_journal_name_full_name
+;
+ Journal of Alloys and Compounds
+;
+_journal_volume 189
+_journal_year 1992
+_journal_page_first 221
+_journal_page_last 228
+_publ_Section_title
+;
+ Er$_{2}$RhSi$_{3}$ and $R$$_{2}$CoGa$_{3}$ ($R$ = Y, Tb, Dy, Ho, Er, Tm, Yb) with Lu$_{2}$CoGa$_{3}$ type structure: new members of the AlB$_{2}$ structure family
+;
+
+_aflow_title 'Lu$_{2}$CoGa$_{3}$ Structure'
+_aflow_proto 'AB3C2_hP24_194_f_k_bh'
+_aflow_params 'a,c/a,z_{2},x_{3},x_{4},z_{4}'
+_aflow_params_values '8.659,0.787966277861,0.05,0.5231,0.1692,0.0432'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP24'
+
+_symmetry_space_group_name_H-M "P 63/m 2/m 2/c"
+_symmetry_Int_Tables_number 194
+ 
+_cell_length_a    8.65900
+_cell_length_b    8.65900
+_cell_length_c    6.82300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 x-y,-y,-z
+8 x,x-y,-z+1/2
+9 y,x,-z
+10 -x+y,y,-z+1/2
+11 -x,-x+y,-z
+12 -y,-x,-z+1/2
+13 -x,-y,-z
+14 -x+y,-x,-z+1/2
+15 y,-x+y,-z
+16 x,y,-z+1/2
+17 x-y,x,-z
+18 -y,x-y,-z+1/2
+19 -x+y,y,z
+20 -x,-x+y,z+1/2
+21 -y,-x,z
+22 x-y,-y,z+1/2
+23 x,x-y,z
+24 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Lu1 Lu 2 b 0.00000 0.00000 0.25000 1.00000
+Co1 Co 4 f 0.33333 0.66667 0.05000 1.00000
+Lu2 Lu 6 h 0.52310 0.04620 0.25000 1.00000
+Ga1 Ga 12 k 0.16920 0.33840 0.04320 1.00000

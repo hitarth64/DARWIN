@@ -1,0 +1,77 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'B2Cu2O6Sr'
+_chemical_formula_sum 'B2 Cu2 O6 Sr'
+
+loop_
+_publ_author_name
+ 'R. W. Smith'
+ 'D. A. Keszler'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 93
+_journal_year 1991
+_journal_page_first 430
+_journal_page_last 435
+_publ_Section_title
+;
+ Synthesis, structure, and properties of the orthoborate SrCu$_{2}$(BO$_{3}$)$_{2}$
+;
+
+# Found in Exact Dimer Ground State and Quantized Magnetization Plateaus in the Two-Dimensional Spin System SrCu$_{2}$(BO$_{3}$)$_{2}$, 1999
+
+_aflow_title 'SrCu$_{2}$(BO$_{3}$)$_{2}$ Structure'
+_aflow_proto 'A2B2C6D_tI44_121_i_i_ij_c'
+_aflow_params 'a,c/a,x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},y_{5},z_{5}'
+_aflow_params_values '8.995,0.739188438021,0.2953,0.243,0.11412,0.2783,0.4004,0.212,0.3276,0.1456,0.254'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI44'
+
+_symmetry_space_group_name_H-M "I -4 2 m"
+_symmetry_Int_Tables_number 121
+ 
+_cell_length_a    8.99500
+_cell_length_b    8.99500
+_cell_length_c    6.64900
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,x,z
+6 y,-x,-z
+7 -y,x,-z
+8 -y,-x,z
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y+1/2,-z+1/2
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 y+1/2,x+1/2,z+1/2
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 4 c 0.00000 0.50000 0.00000 1.00000
+B1 B 8 i 0.29530 0.29530 0.24300 1.00000
+Cu1 Cu 8 i 0.11412 0.11412 0.27830 1.00000
+O1 O 8 i 0.40040 0.40040 0.21200 1.00000
+O2 O 16 j 0.32760 0.14560 0.25400 1.00000

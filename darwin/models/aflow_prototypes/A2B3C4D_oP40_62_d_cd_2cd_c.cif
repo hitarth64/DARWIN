@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Norbergite'
+_chemical_formula_sum 'F2 Mg3 O4 Si'
+
+loop_
+_publ_author_name
+ 'G. V. Gibbs'
+ 'P. H. Ribbe'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 54
+_journal_year 1969
+_journal_page_first 376
+_journal_page_last 390
+_publ_Section_title
+;
+ The crystal structures of the humite minerals: I. Norbergite
+;
+
+# Found in The RRUFF$^\mathroman{TM}$ Project, {Norbergite, RRUFF ID: R050280},
+
+_aflow_title 'Norbergite [Mg(F,OH)$_{2}$ $\cdot$ Mg$_{2}$SiO$_{4}$, $S0_{7}$] Structure'
+_aflow_proto 'A2B3C4D_oP40_62_d_cd_2cd_c'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '10.2718,0.851613154462,0.458575906852,-0.0923,-0.0076,0.7204,0.7617,0.574,0.2793,0.7196,0.4195,-0.0318,0.0834,0.7295,0.633,0.4305,-0.011,0.7907,0.1034,0.269'
+_aflow_Strukturbericht '$S0_{7}$'
+_aflow_Pearson 'oP40'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    10.27180
+_cell_length_b    8.74760
+_cell_length_c    4.71040
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 4 c -0.09230 0.25000 -0.00760 1.00000
+O1 O 4 c 0.72040 0.25000 0.76170 1.00000
+O2 O 4 c 0.57400 0.25000 0.27930 1.00000
+Si1 Si 4 c 0.71960 0.25000 0.41950 1.00000
+F1 F 8 d -0.03180 0.08340 0.72950 1.00000
+Mg2 Mg 8 d 0.63300 0.43050 -0.01100 1.00000
+O3 O 8 d 0.79070 0.10340 0.26900 1.00000

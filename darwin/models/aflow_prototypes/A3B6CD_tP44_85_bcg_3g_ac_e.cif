@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Bromocarnallite'
+_chemical_formula_sum 'Br3 (H2O)6 K Mg'
+
+loop_
+_publ_author_name
+ 'K. R. Andre{\ss}'
+ 'O. Saffe'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 101
+_journal_year 1939
+_journal_page_first 451
+_journal_page_last 469
+_publ_Section_title
+;
+ R\"{o}ntgenographische Untersuchung der Mischkristallreihe Karnallit-Bromkarnallit
+;
+
+# Found in Strukturbericht Band VII 1939, 1943
+
+_aflow_title 'Bromocarnallite (KMg(H$_{2}$O)$_{6}$(Cl,Br)$_{3}$, $E2_{6}$) Structure'
+_aflow_proto 'A3B6CD_tP44_85_bcg_3g_ac_e'
+_aflow_params 'a,c/a,z_{3},z_{4},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '13.51,0.501110288675,0.58,0.08,0.25,0.0,0.008,0.55,0.05,0.78,0.54,0.85,0.58,0.34,-0.03,0.58'
+_aflow_Strukturbericht '$E2_{6}$'
+_aflow_Pearson 'tP44'
+
+_symmetry_space_group_name_H-M "P 4/n (origin choice 2)"
+_symmetry_Int_Tables_number 85
+ 
+_cell_length_a    13.51000
+_cell_length_b    13.51000
+_cell_length_c    6.77000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,-y+1/2,z
+3 -y+1/2,x,z
+4 y,-x+1/2,z
+5 -x,-y,-z
+6 x+1/2,y+1/2,-z
+7 y+1/2,-x,-z
+8 -y,x+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 2 a 0.25000 0.75000 0.00000 1.00000
+Br1 Br 2 b 0.25000 0.75000 0.50000 1.00000
+Br2 Br 2 c 0.25000 0.25000 0.58000 1.00000
+K2 K 2 c 0.25000 0.25000 0.08000 1.00000
+Mg1 Mg 4 e 0.00000 0.00000 0.50000 1.00000
+Br3 Br 8 g 0.25000 0.00000 0.00800 1.00000
+H2O1 H2O 8 g 0.55000 0.05000 0.78000 1.00000
+H2O2 H2O 8 g 0.54000 0.85000 0.58000 1.00000
+H2O3 H2O 8 g 0.34000 -0.03000 0.58000 1.00000

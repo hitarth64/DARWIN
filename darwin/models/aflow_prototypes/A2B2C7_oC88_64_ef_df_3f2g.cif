@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mo2Na2O7'
+_chemical_formula_sum 'Mo2 Na2 O7'
+
+loop_
+_publ_author_name
+ 'I. Lindqvist'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 4
+_journal_year 1950
+_journal_page_first 1066
+_journal_page_last 1074
+_publ_Section_title
+;
+ Crystal Structure Studies on Anhydrous Sodium Molybdates and Tungstates
+;
+
+_aflow_title 'Na$_{2}$Mo$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A2B2C7_oC88_64_ef_df_3f2g'
+_aflow_params 'a,b/a,c/a,x_{1},y_{2},y_{3},z_{3},y_{4},z_{4},y_{5},z_{5},y_{6},z_{6},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '7.17,1.64993026499,2.05020920502,0.25,0.08,0.25,0.08,0.36,0.3,0.08,0.27,0.41,0.13,0.35,0.49,0.21,0.21,0.16,0.21,0.49,0.34'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC88'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/a"
+_symmetry_Int_Tables_number 64
+ 
+_cell_length_a    7.17000
+_cell_length_b    11.83000
+_cell_length_c    14.70000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x+1/2,y,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x+1/2,-y,z+1/2
+8 x+1/2,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x,y+1/2,-z+1/2
+12 -x,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 8 d 0.25000 0.00000 0.00000 1.00000
+Mo1 Mo 8 e 0.25000 0.08000 0.25000 1.00000
+Mo2 Mo 8 f 0.00000 0.25000 0.08000 1.00000
+Na2 Na 8 f 0.00000 0.36000 0.30000 1.00000
+O1 O 8 f 0.00000 0.08000 0.27000 1.00000
+O2 O 8 f 0.00000 0.41000 0.13000 1.00000
+O3 O 8 f 0.00000 0.35000 0.49000 1.00000
+O4 O 16 g 0.21000 0.21000 0.16000 1.00000
+O5 O 16 g 0.21000 0.49000 0.34000 1.00000

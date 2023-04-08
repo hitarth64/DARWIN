@@ -1,0 +1,71 @@
+# AFLOW.org Repositories
+# TaTi/AB3_mC32_8_4a_4a4b-001.AB params=9.2519726786,1.0,0.707106781188,90.0,0.0,0.0,0.0,0.5,0.25,0.25,0.5,0.5,0.25,0.75,0.5,0.0,0.75,0.75,0.75,0.25,0.75,0.25,0.0,0.75,0.25,0.5,0.0,0.25,0.75,0.0,0.25,0.25 SG=8 [ANRL doi: 10.1016/j.commatsci.2017.01.017 (part 1), doi: 10.1016/j.commatsci.2018.10.043 (part 2)]
+data_TaTi
+_pd_phase_name AB3_mC32_8_4a_4a4b-001.AB
+
+_chemical_name_mineral 'TaTi3'
+_chemical_formula_sum 'Ta Ti3'
+
+loop_
+_publ_author_name
+ 'T. Chakraborty'
+ 'J. Rogal'
+ 'R. Drautz'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 94
+_journal_year 2016
+_journal_page_first 224104
+_journal_page_last 224104
+_publ_Section_title
+;
+ Unraveling the composition dependence of the martensitic transformation temperature: A first-principles study of Ti-Ta alloys
+;
+
+_aflow_title 'TaTi$_{3}$ (BCC SQS-16) Structure'
+_aflow_proto 'AB3_mC32_8_4a_4a4b'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12}'
+_aflow_params_values '9.2519726786,1.0,0.707106781188,90.0,-0.0,0.0,-0.0,0.5,0.75,0.75,0.5,0.5,0.75,0.25,0.5,0.0,0.25,0.25,0.25,0.75,0.75,0.75,0.0,0.75,0.75,0.5,0.5,0.75,0.25,0.5,0.75,0.75'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC32'
+
+_cell_length_a  9.2519726786
+_cell_length_b  9.2519726786
+_cell_length_c  6.5421326204
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cm'
+_symmetry_Int_Tables_Number  8
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  x,-y,z
+  3  x+1/2,y+1/2,z
+  4  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ta1 1.0000000000 -0.0000000000 0.0000000000 0.0000000000 Biso 1.0 Ta 2 a
+Ta2 1.0000000000 -0.0000000000 0.0000000000 0.5000000000 Biso 1.0 Ta 2 a
+Ta3 1.0000000000 0.7500000000 0.0000000000 0.7500000000 Biso 1.0 Ta 2 a
+Ta4 1.0000000000 0.5000000000 -0.0000000000 0.5000000000 Biso 1.0 Ta 2 a
+Ti1 1.0000000000 0.7500000000 -0.0000000000 0.2500000000 Biso 1.0 Ti 2 a
+Ti2 1.0000000000 0.5000000000 -0.0000000000 0.0000000000 Biso 1.0 Ti 2 a
+Ti3 1.0000000000 0.2500000000 -0.0000000000 0.2500000000 Biso 1.0 Ti 2 a
+Ti4 1.0000000000 0.2500000000 -0.0000000000 0.7500000000 Biso 1.0 Ti 2 a
+Ti5 1.0000000000 0.7500000000 0.7500000000 0.0000000000 Biso 1.0 Ti 4 b
+Ti6 1.0000000000 0.7500000000 0.7500000000 0.5000000000 Biso 1.0 Ti 4 b
+Ti7 1.0000000000 0.5000000000 0.7500000000 0.2500000000 Biso 1.0 Ti 4 b
+Ti8 1.0000000000 0.5000000000 0.7500000000 0.7500000000 Biso 1.0 Ti 4 b

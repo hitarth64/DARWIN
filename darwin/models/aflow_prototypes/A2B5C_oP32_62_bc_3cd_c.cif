@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Sillimanite'
+_chemical_formula_sum 'Al2 O5 Si'
+
+loop_
+_publ_author_name
+ 'H. Yang'
+ 'R. M. Hazen'
+ 'L. W. Finger'
+ 'C. T. Prewitt'
+ 'R. T. Downs'
+_journal_name_full_name
+;
+ Physics and Chemistry of Minerals
+;
+_journal_volume 25
+_journal_year 1997
+_journal_page_first 39
+_journal_page_last 47
+_publ_Section_title
+;
+ Compressibility and crystal structure of sillimanite, Al$_{2}$SiO$_{5}$, at high pressure
+;
+
+_aflow_title 'Sillimanite (Al$_{2}$SiO$_{5}$, $S0_{3}$) Structure'
+_aflow_proto 'A2B5C_oP32_62_bc_3cd_c'
+_aflow_params 'a,b/a,c/a,x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '7.675,0.752456026059,0.975335504886,0.1548,0.8583,-0.0911,0.3602,0.0661,0.6434,0.5009,0.4767,0.8404,0.1532,0.7232,0.0145,0.1255'
+_aflow_Strukturbericht '$S0_{3}$'
+_aflow_Pearson 'oP32'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    7.67500
+_cell_length_b    5.77510
+_cell_length_c    7.48570
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 4 b 0.00000 0.00000 0.50000 1.00000
+Al2 Al 4 c 0.15480 0.25000 0.85830 1.00000
+O1 O 4 c -0.09110 0.25000 0.36020 1.00000
+O2 O 4 c 0.06610 0.25000 0.64340 1.00000
+O3 O 4 c 0.50090 0.25000 0.47670 1.00000
+Si1 Si 4 c 0.84040 0.25000 0.15320 1.00000
+O4 O 8 d 0.72320 0.01450 0.12550 1.00000

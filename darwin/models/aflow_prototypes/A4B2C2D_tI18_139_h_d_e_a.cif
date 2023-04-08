@@ -1,0 +1,92 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl4K2O2Os'
+_chemical_formula_sum 'Cl4 K2 O2 Os'
+
+loop_
+_publ_author_name
+ 'J. L. Hoard'
+ 'J. D. Grenko'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 87
+_journal_year 1934
+_journal_page_first 100
+_journal_page_last 109
+_publ_Section_title
+;
+ The Crystal Structure of Potassium Osmyl Chloride, K$_{2}$OsO$_{2}$Cl$_{4}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'K$_{2}$OsO$_{2}$Cl$_{4}$ ($J1_{5}$) Structure'
+_aflow_proto 'A4B2C2D_tI18_139_h_d_e_a'
+_aflow_params 'a,c/a,z_{3},x_{4}'
+_aflow_params_values '6.99,1.25178826896,0.212,0.23'
+_aflow_Strukturbericht '$J1_{5}$'
+_aflow_Pearson 'tI18'
+
+_symmetry_space_group_name_H-M "I 4/m 2/m 2/m"
+_symmetry_Int_Tables_number 139
+ 
+_cell_length_a    6.99000
+_cell_length_b    6.99000
+_cell_length_c    8.75000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -y,-x,-z
+6 -y,x,z
+7 y,-x,z
+8 y,x,-z
+9 -x,-y,-z
+10 -x,y,z
+11 x,-y,z
+12 x,y,-z
+13 y,x,z
+14 y,-x,-z
+15 -y,x,-z
+16 -y,-x,z
+17 x+1/2,y+1/2,z+1/2
+18 x+1/2,-y+1/2,-z+1/2
+19 -x+1/2,y+1/2,-z+1/2
+20 -x+1/2,-y+1/2,z+1/2
+21 -y+1/2,-x+1/2,-z+1/2
+22 -y+1/2,x+1/2,z+1/2
+23 y+1/2,-x+1/2,z+1/2
+24 y+1/2,x+1/2,-z+1/2
+25 -x+1/2,-y+1/2,-z+1/2
+26 -x+1/2,y+1/2,z+1/2
+27 x+1/2,-y+1/2,z+1/2
+28 x+1/2,y+1/2,-z+1/2
+29 y+1/2,x+1/2,z+1/2
+30 y+1/2,-x+1/2,-z+1/2
+31 -y+1/2,x+1/2,-z+1/2
+32 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Os1 Os 2 a 0.00000 0.00000 0.00000 1.00000
+K1 K 4 d 0.00000 0.50000 0.25000 1.00000
+O1 O 4 e 0.00000 0.00000 0.21200 1.00000
+Cl1 Cl 8 h 0.23000 0.23000 0.00000 1.00000

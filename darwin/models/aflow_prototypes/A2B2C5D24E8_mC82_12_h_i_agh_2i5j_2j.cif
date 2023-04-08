@@ -1,0 +1,79 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Tremolite'
+_chemical_formula_sum 'Ca2 H2 Mg5 O24 Si8'
+
+loop_
+_publ_author_name
+ 'M. Merli'
+ 'L. Ungaretti'
+ 'R. Oberti'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 85
+_journal_year 2000
+_journal_page_first 532
+_journal_page_last 542
+_publ_Section_title
+;
+ Leverage analysis and structure refinement of minerals
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Tremolite (Ca$_{2}$Mg$_{5}$Si$_{8}$O$_{22}$(OH)$_{2}$, $S4_{2}$) Structure'
+_aflow_proto 'A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j'
+_aflow_params 'a,b/a,c/a,\beta,y_{2},y_{3},y_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14}'
+_aflow_params_values '9.8359,1.83460588253,0.536321028071,104.75,0.1765,0.278,0.0878,0.196,0.764,0.1085,0.7155,0.3377,0.2928,0.1119,0.0857,0.218,0.1187,0.1709,0.7244,0.1351,0.2519,0.2069,0.3466,0.1344,0.1005,0.344,0.1188,0.5891,0.2806,0.0839,0.2972,0.2884,0.1711,0.8047'
+_aflow_Strukturbericht '$S4_{2}$'
+_aflow_Pearson 'mC82'
+
+_symmetry_space_group_name_H-M "C 1 2/m 1"
+_symmetry_Int_Tables_number 12
+ 
+_cell_length_a    9.83590
+_cell_length_b    18.04500
+_cell_length_c    5.27520
+_cell_angle_alpha 90.00000
+_cell_angle_beta  104.75000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 -x,-y,-z
+4 x,-y,z
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 2 a 0.00000 0.00000 0.00000 1.00000
+Mg2 Mg 4 g 0.00000 0.17650 0.00000 1.00000
+Ca1 Ca 4 h 0.00000 0.27800 0.50000 1.00000
+Mg3 Mg 4 h 0.00000 0.08780 0.50000 1.00000
+H1 H 4 i 0.19600 0.00000 0.76400 1.00000
+O1 O 4 i 0.10850 0.00000 0.71550 1.00000
+O2 O 4 i 0.33770 0.00000 0.29280 1.00000
+O3 O 8 j 0.11190 0.08570 0.21800 1.00000
+O4 O 8 j 0.11870 0.17090 0.72440 1.00000
+O5 O 8 j 0.13510 0.25190 0.20690 1.00000
+O6 O 8 j 0.34660 0.13440 0.10050 1.00000
+O7 O 8 j 0.34400 0.11880 0.58910 1.00000
+Si1 Si 8 j 0.28060 0.08390 0.29720 1.00000
+Si2 Si 8 j 0.28840 0.17110 0.80470 1.00000

@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Rynersonite'
+_chemical_formula_sum 'Ca O6 Ta2'
+
+loop_
+_publ_author_name
+ 'L. Jahnberg'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 71
+_journal_year 1963
+_journal_page_first 2548
+_journal_page_last 2559
+_publ_Section_title
+;
+ Crystal Structure of Orthorhombic CaTa$_{2}$O$_{6}$
+;
+
+_aflow_title 'Rynersonite (Orthorhombic CaTa$_{2}$O$_{6}$) Structure'
+_aflow_proto 'AB6C2_oP36_62_c_2c2d_d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '11.068,0.678080954102,0.485905312613,0.042,0.54,0.146,-0.033,0.878,0.838,-0.024,0.035,0.225,0.213,0.049,0.383,0.1412,-0.0056,0.0376'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP36'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    11.06800
+_cell_length_b    7.50500
+_cell_length_c    5.37800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 4 c 0.04200 0.25000 0.54000 1.00000
+O1 O 4 c 0.14600 0.25000 -0.03300 1.00000
+O2 O 4 c 0.87800 0.25000 0.83800 1.00000
+O3 O 8 d -0.02400 0.03500 0.22500 1.00000
+O4 O 8 d 0.21300 0.04900 0.38300 1.00000
+Ta1 Ta 8 d 0.14120 -0.00560 0.03760 1.00000

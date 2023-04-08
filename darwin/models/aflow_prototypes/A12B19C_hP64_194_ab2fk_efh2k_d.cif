@@ -1,0 +1,90 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Magnetoplumbite'
+_chemical_formula_sum 'Fe12 O19 Pb'
+
+loop_
+_publ_author_name
+ 'R. Gerber'
+ 'Z. \v{S}im\v{s}a'
+ 'L. Jen\v{s}ovsk\\'{y}'
+_journal_name_full_name
+;
+ Czechoslovak Journal of Physics
+;
+_journal_volume 44
+_journal_year 1994
+_journal_page_first 937
+_journal_page_last 940
+_publ_Section_title
+;
+ A note on the magnetoplumbite crystal structure
+;
+
+_aflow_title 'Magnetoplumbite (PbFe$_{12}$O$_{19}$) Structure'
+_aflow_proto 'A12B19C_hP64_194_ab2fk_efh2k_d'
+_aflow_params 'a,c/a,z_{4},z_{5},z_{6},z_{7},x_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11}'
+_aflow_params_values '5.88,3.91496598639,0.15,0.028,0.19,-0.05,0.182,0.167,0.892,0.167,0.05,0.5,0.15'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP64'
+
+_symmetry_space_group_name_H-M "P 63/m 2/m 2/c"
+_symmetry_Int_Tables_number 194
+ 
+_cell_length_a    5.88000
+_cell_length_b    5.88000
+_cell_length_c    23.02000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 x-y,-y,-z
+8 x,x-y,-z+1/2
+9 y,x,-z
+10 -x+y,y,-z+1/2
+11 -x,-x+y,-z
+12 -y,-x,-z+1/2
+13 -x,-y,-z
+14 -x+y,-x,-z+1/2
+15 y,-x+y,-z
+16 x,y,-z+1/2
+17 x-y,x,-z
+18 -y,x-y,-z+1/2
+19 -x+y,y,z
+20 -x,-x+y,z+1/2
+21 -y,-x,z
+22 x-y,-y,z+1/2
+23 x,x-y,z
+24 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 2 a 0.00000 0.00000 0.00000 1.00000
+Fe2 Fe 2 b 0.00000 0.00000 0.25000 1.00000
+Pb1 Pb 2 d 0.33333 0.66667 0.75000 1.00000
+O1 O 4 e 0.00000 0.00000 0.15000 1.00000
+Fe3 Fe 4 f 0.33333 0.66667 0.02800 1.00000
+Fe4 Fe 4 f 0.33333 0.66667 0.19000 1.00000
+O2 O 4 f 0.33333 0.66667 -0.05000 1.00000
+O3 O 6 h 0.18200 0.36400 0.25000 1.00000
+Fe5 Fe 12 k 0.16700 0.33400 0.89200 1.00000
+O4 O 12 k 0.16700 0.33400 0.05000 1.00000
+O5 O 12 k 0.50000 0.00000 0.15000 1.00000

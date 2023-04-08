@@ -1,0 +1,75 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mercury cyanide'
+_chemical_formula_sum 'C2 Hg N2'
+
+loop_
+_publ_author_name
+ 'O. Reckeweg'
+ 'A. Simon'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Naturforschung B
+;
+_journal_volume 57
+_journal_year 2002
+_journal_page_first 895
+_journal_page_last 900
+_publ_Section_title
+;
+ X-Ray and Raman Investigations on Cyanides of Mono- and Divalent Metals and Synthesis, Crystal Structure and Raman Spectrum of Tl$_{5}$(CO$_{3}$)$_{2}$(CN)
+;
+
+# Found in Hg(CN)$_{2}$ (Hg[CN]$_{2}$) Crystal Structure, {PAULING FILE in: Inorganic Solid Phases, SpringerMaterials (online database)}, 2016
+
+_aflow_title 'Mercury Cyanide [Hg(CN)$_{2}$, $F1_{1}$] Structure'
+_aflow_proto 'A2BC2_tI40_122_e_d_e'
+_aflow_params 'a,c/a,x_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '9.6922,0.918418934814,0.21203,0.2035,-0.0729,0.1785,0.205,0.0464,0.1639'
+_aflow_Strukturbericht '$F1_{1}$'
+_aflow_Pearson 'tI40'
+
+_symmetry_space_group_name_H-M "I -4 2 d"
+_symmetry_Int_Tables_number 122
+ 
+_cell_length_a    9.69220
+_cell_length_b    9.69220
+_cell_length_c    8.90150
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y+1/2,-z+1/4
+3 -x,y+1/2,-z+1/4
+4 -x,-y,z
+5 y,x+1/2,z+1/4
+6 y,-x,-z
+7 -y,x,-z
+8 -y,-x+1/2,z+1/4
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y,-z+3/4
+11 -x+1/2,y,-z+3/4
+12 -x+1/2,-y+1/2,z+1/2
+13 y+1/2,x,z+3/4
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x,z+3/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hg1 Hg 8 d 0.21203 0.25000 0.12500 1.00000
+C1 C 16 e 0.20350 -0.07290 0.17850 1.00000
+N1 N 16 e 0.20500 0.04640 0.16390 1.00000

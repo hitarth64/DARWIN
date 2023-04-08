@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'MgZn5'
+_chemical_formula_sum 'Mg Zn5'
+
+loop_
+_publ_author_name
+ 'C. Hermann'
+ 'O. Lohrmann'
+ 'H. Philipp'
+_journal_year 1937
+_publ_Section_title
+;
+ Strukturbericht Band II 1928-1932
+;
+
+_aflow_title '$D2_{2}$ (MgZn$_{5}$?) ({\em{problematic}}) Structure'
+_aflow_proto 'AB5_mC48_12_2i_ac5i2j'
+_aflow_params 'a,b/a,c/a,\beta,x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11}'
+_aflow_params_values '9.92,1.66129032258,1.0,120.0,0.66667,0.19792,0.66667,0.38542,0.66667,0.66667,0.0,0.25,0.33333,0.08333,0.16667,0.79167,0.16667,0.29167,0.41667,0.25,0.04167,-0.08333,0.25,0.54167'
+_aflow_Strukturbericht '$D2_{2}$'
+_aflow_Pearson 'mC48'
+
+_symmetry_space_group_name_H-M "C 1 2/m 1"
+_symmetry_Int_Tables_number 12
+ 
+_cell_length_a    9.92000
+_cell_length_b    16.48000
+_cell_length_c    9.92000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  120.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 -x,-y,-z
+4 x,-y,z
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zn1 Zn 2 a 0.00000 0.00000 0.00000 1.00000
+Zn2 Zn 2 c 0.00000 0.00000 0.50000 1.00000
+Mg1 Mg 4 i 0.66667 0.00000 0.19792 1.00000
+Mg2 Mg 4 i 0.66667 0.00000 0.38542 1.00000
+Zn3 Zn 4 i 0.66667 0.00000 0.66667 1.00000
+Zn4 Zn 4 i 0.00000 0.00000 0.25000 1.00000
+Zn5 Zn 4 i 0.33333 0.00000 0.08333 1.00000
+Zn6 Zn 4 i 0.16667 0.00000 0.79167 1.00000
+Zn7 Zn 4 i 0.16667 0.00000 0.29167 1.00000
+Zn8 Zn 8 j 0.41667 0.25000 0.04167 1.00000
+Zn9 Zn 8 j -0.08333 0.25000 0.54167 1.00000

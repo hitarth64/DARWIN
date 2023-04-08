@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O3W'
+_chemical_formula_sum 'O3 W'
+
+loop_
+_publ_author_name
+ 'P. M. Woodward'
+ 'A. W. Sleight'
+ 'T. Vogt'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 131
+_journal_year 1997
+_journal_page_first 9
+_journal_page_last 17
+_publ_Section_title
+;
+ Ferroelectric Tungsten Trioxide
+;
+
+_aflow_title '$\delta$-WO$_{3}$ Structure'
+_aflow_proto 'A3B_aP32_2_12i_4i'
+_aflow_params 'a,b/a,c/a,\alpha,\beta,\gamma,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16}'
+_aflow_params_values '7.309,1.02914215351,1.05048570256,88.81,89.08,89.07,0.0007,0.0386,0.21,0.5038,0.5361,0.2181,0.0076,0.466,0.2884,0.4972,0.9638,0.2878,0.2851,0.2574,0.287,0.2204,0.763,0.2232,0.2186,0.2627,0.7258,0.284,0.7583,0.7679,0.2943,0.0422,-0.0002,0.2971,0.5446,0.4982,0.2096,0.482,-0.0072,0.2088,-0.017,0.5051,0.2566,0.0259,0.285,0.2502,0.528,0.2158,0.2438,0.0313,0.7817,0.2499,0.5338,0.719'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'aP32'
+
+_symmetry_space_group_name_H-M "P -1"
+_symmetry_Int_Tables_number 2
+ 
+_cell_length_a    7.30900
+_cell_length_b    7.52200
+_cell_length_c    7.67800
+_cell_angle_alpha 88.81000
+_cell_angle_beta  89.08000
+_cell_angle_gamma 89.07000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 i 0.00070 0.03860 0.21000 1.00000
+O2 O 2 i 0.50380 0.53610 0.21810 1.00000
+O3 O 2 i 0.00760 0.46600 0.28840 1.00000
+O4 O 2 i 0.49720 0.96380 0.28780 1.00000
+O5 O 2 i 0.28510 0.25740 0.28700 1.00000
+O6 O 2 i 0.22040 0.76300 0.22320 1.00000
+O7 O 2 i 0.21860 0.26270 0.72580 1.00000
+O8 O 2 i 0.28400 0.75830 0.76790 1.00000
+O9 O 2 i 0.29430 0.04220 -0.00020 1.00000
+O10 O 2 i 0.29710 0.54460 0.49820 1.00000
+O11 O 2 i 0.20960 0.48200 -0.00720 1.00000
+O12 O 2 i 0.20880 -0.01700 0.50510 1.00000
+W1 W 2 i 0.25660 0.02590 0.28500 1.00000
+W2 W 2 i 0.25020 0.52800 0.21580 1.00000
+W3 W 2 i 0.24380 0.03130 0.78170 1.00000
+W4 W 2 i 0.24990 0.53380 0.71900 1.00000

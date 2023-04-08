@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cd3H16O20S3'
+_chemical_formula_sum 'Cd3 H16 O20 S3'
+
+loop_
+_publ_author_name
+ 'R. Caminiti'
+ 'G. Johansson'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 35a
+_journal_year 1981
+_journal_page_first 451
+_journal_page_last 455
+_publ_Section_title
+;
+ A refinement of the Crystal Structure of the Cadmium Sulfate 3CdSO$_{4}$$\cdot$8H$_{2}$O
+;
+
+_aflow_title '(CdSO$_{4}$)$_{3}$$\cdot$8H$_{2}$O ($H4_{20}$) Structure'
+_aflow_proto 'A3B16C20D3_mC168_15_ef_8f_10f_ef'
+_aflow_params 'a,b/a,c/a,\beta,y_{1},y_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21},x_{22},y_{22},z_{22}'
+_aflow_params_values '14.818,0.803279794844,0.638952625186,97.39,-0.05363,0.50828,0.15443,0.40511,0.035,0.083,0.252,0.716,0.095,0.209,0.601,0.251,0.079,0.406,0.271,0.075,0.309,0.195,0.326,0.288,0.273,0.347,0.273,0.094,0.203,0.346,0.06,0.3,0.402,0.0258,0.4358,0.1357,0.4224,0.0799,0.1936,0.3962,0.4709,0.0521,0.1008,0.2269,0.0033,0.0848,0.0936,0.1832,0.2296,0.1152,0.0982,0.0936,0.1928,0.6827,0.2796,0.0746,0.4019,0.2214,0.3584,0.2573,0.0955,0.2506,0.4077,0.12978,0.11705,0.05632'
+_aflow_Strukturbericht '$H4_{20}$'
+_aflow_Pearson 'mC168'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    14.81800
+_cell_length_b    11.90300
+_cell_length_c    9.46800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  97.39000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cd1 Cd 4 e 0.00000 -0.05363 0.25000 1.00000
+S1 S 4 e 0.00000 0.50828 0.25000 1.00000
+Cd2 Cd 8 f 0.15443 0.40511 0.03500 1.00000
+H1 H 8 f 0.08300 0.25200 0.71600 1.00000
+H2 H 8 f 0.09500 0.20900 0.60100 1.00000
+H3 H 8 f 0.25100 0.07900 0.40600 1.00000
+H4 H 8 f 0.27100 0.07500 0.30900 1.00000
+H5 H 8 f 0.19500 0.32600 0.28800 1.00000
+H6 H 8 f 0.27300 0.34700 0.27300 1.00000
+H7 H 8 f 0.09400 0.20300 0.34600 1.00000
+H8 H 8 f 0.06000 0.30000 0.40200 1.00000
+O1 O 8 f 0.02580 0.43580 0.13570 1.00000
+O2 O 8 f 0.42240 0.07990 0.19360 1.00000
+O3 O 8 f 0.39620 0.47090 0.05210 1.00000
+O4 O 8 f 0.10080 0.22690 0.00330 1.00000
+O5 O 8 f 0.08480 0.09360 0.18320 1.00000
+O6 O 8 f 0.22960 0.11520 0.09820 1.00000
+O7 O 8 f 0.09360 0.19280 0.68270 1.00000
+O8 O 8 f 0.27960 0.07460 0.40190 1.00000
+O9 O 8 f 0.22140 0.35840 0.25730 1.00000
+O10 O 8 f 0.09550 0.25060 0.40770 1.00000
+S2 S 8 f 0.12978 0.11705 0.05632 1.00000

@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cu2O4Se'
+_chemical_formula_sum 'Cu2 O4 Se'
+
+loop_
+_publ_author_name
+ 'H. Effenberger'
+ 'F. Pertlik'
+_journal_name_full_name
+;
+ Monatshefte f{\"u}r Chemie - Chemical Monthly
+;
+_journal_volume 117
+_journal_year 1986
+_journal_page_first 887
+_journal_page_last 896
+_publ_Section_title
+;
+ Die Kristallstrukturen der Kupfer(II)-oxo-selenite Cu$_{2}$O(SeO$_{3}$) (kubisch und monoklin) und Cu$_{4}$O(SeO$_{3}$)$_{3}$ (monoklin und triklin)
+;
+
+# Found in Magnon spectrum of the helimagnetic insulator Cu$_{2}$OSeO$_{3}$, 2016
+
+_aflow_title 'Monoclinic Cu$_{2}$OSeO$_{3}$ Structure'
+_aflow_proto 'A2B4C_mP28_14_abe_4e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '6.987,0.852010877344,1.53753112924,128.36609,0.5082,0.705,0.7605,0.6549,-0.031,-0.0981,0.408,0.5641,0.0995,-0.051,0.717,0.896,0.261,0.7826,0.8405,0.1649,0.5773,-0.0999'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP28'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    6.98700
+_cell_length_b    5.95300
+_cell_length_c    10.74273
+_cell_angle_alpha 90.00000
+_cell_angle_beta  128.36609
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 2 a 0.00000 0.00000 0.00000 1.00000
+Cu2 Cu 2 b 0.50000 0.00000 0.00000 1.00000
+Cu3 Cu 4 e 0.50820 0.70500 0.76050 1.00000
+O1 O 4 e 0.65490 -0.03100 -0.09810 1.00000
+O2 O 4 e 0.40800 0.56410 0.09950 1.00000
+O3 O 4 e -0.05100 0.71700 0.89600 1.00000
+O4 O 4 e 0.26100 0.78260 0.84050 1.00000
+Se1 Se 4 e 0.16490 0.57730 -0.09990 1.00000

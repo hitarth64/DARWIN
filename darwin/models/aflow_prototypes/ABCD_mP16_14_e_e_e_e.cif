@@ -1,0 +1,64 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'ClCuHO'
+_chemical_formula_sum 'Cl Cu H O'
+
+loop_
+_publ_author_name
+ 'Y. Cudennec'
+ 'A. Riou'
+ 'Y. G\\'{e}rault'
+ 'A. Lecerf'
+_journal_name_full_name
+;
+ Journal of Solid State Chemistry
+;
+_journal_volume 151
+_journal_year 2000
+_journal_page_first 308
+_journal_page_last 312
+_publ_Section_title
+;
+ Synthesis and Crystal Structures of Cd(OH)Cl and Cu(OH)Cl and Relationship to Brucite Type
+;
+
+_aflow_title 'Cu(OH)Cl Structure'
+_aflow_proto 'ABCD_mP16_14_e_e_e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.2953,1.05871046654,0.882880879386,118.138,0.3115,0.0907,0.1334,0.03201,0.11772,0.28577,0.674,0.128,0.528,0.8807,0.1478,0.5318'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP16'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    6.29530
+_cell_length_b    6.66490
+_cell_length_c    5.55800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  118.13800
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 4 e 0.31150 0.09070 0.13340 1.00000
+Cu1 Cu 4 e 0.03201 0.11772 0.28577 1.00000
+H1 H 4 e 0.67400 0.12800 0.52800 1.00000
+O1 O 4 e 0.88070 0.14780 0.53180 1.00000

@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'F7K2Nb'
+_chemical_formula_sum 'F7 K2 Nb'
+
+loop_
+_publ_author_name
+ 'G. M. Brown'
+ 'L. A. Walker'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 20
+_journal_year 1966
+_journal_page_first 220
+_journal_page_last 229
+_publ_Section_title
+;
+ Refinement of the structure of potassium heptafluoroniobate, K$_{2}$NbF$_{7}$, from neutron-diffraction data
+;
+
+# Found in Structure and luminescence of K$_{2}$TaF$_{7}$ and K$_{2}$NbF$_{7}$, 1987
+
+_aflow_title 'K$_{2}$NbF$_{7}$ ($K6_{2}$) Structure'
+_aflow_proto 'A7B2C_mP40_14_7e_2e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10}'
+_aflow_params_values '5.846,2.17122819022,1.4565514882,90.0,0.0463,0.2431,0.1994,0.4573,0.2567,0.2114,0.0448,0.1072,0.388,0.4599,0.1107,0.4101,0.2166,-0.0207,0.2159,0.1875,0.1216,0.0063,0.5572,0.0792,0.1317,0.2397,0.4404,0.1833,0.7626,0.2845,0.4446,0.2718,0.1288,0.2229'
+_aflow_Strukturbericht '$K6_{2}$'
+_aflow_Pearson 'mP40'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    5.84600
+_cell_length_b    12.69300
+_cell_length_c    8.51500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F1 F 4 e 0.04630 0.24310 0.19940 1.00000
+F2 F 4 e 0.45730 0.25670 0.21140 1.00000
+F3 F 4 e 0.04480 0.10720 0.38800 1.00000
+F4 F 4 e 0.45990 0.11070 0.41010 1.00000
+F5 F 4 e 0.21660 -0.02070 0.21590 1.00000
+F6 F 4 e 0.18750 0.12160 0.00630 1.00000
+F7 F 4 e 0.55720 0.07920 0.13170 1.00000
+K1 K 4 e 0.23970 0.44040 0.18330 1.00000
+K2 K 4 e 0.76260 0.28450 0.44460 1.00000
+Nb1 Nb 4 e 0.27180 0.12880 0.22290 1.00000

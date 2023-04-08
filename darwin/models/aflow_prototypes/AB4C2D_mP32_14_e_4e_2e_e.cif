@@ -1,0 +1,69 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'AuBr4(H2O)2K'
+_chemical_formula_sum 'Au Br4 (H2O)2 K'
+
+loop_
+_publ_author_name
+ 'H. Omrani'
+ 'F. Th\\'{e}obald'
+ 'H. Vivier'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 42
+_journal_year 1986
+_journal_page_first 1091
+_journal_page_last 1092
+_publ_Section_title
+;
+ Structure of potassium tetrabromoaurate(III) dihydrate
+;
+
+# Found in Sodium tetrabromoaurate(III) dihydrate, 2001
+
+_aflow_title 'KAuBr$_{4}$$\cdot$2H$_{2}$O ($H4_{19}$) Structure'
+_aflow_proto 'AB4C2D_mP32_14_e_4e_2e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '8.48,1.41580188679,1.45127830189,129.09091,0.2507,0.0067,0.5026,0.3935,0.8371,0.6395,0.114,0.1778,0.3679,0.2208,-0.0834,0.313,0.2767,0.0954,0.6901,0.5843,0.1353,0.0613,0.0171,0.364,0.5512,0.2671,0.4723,0.5181'
+_aflow_Strukturbericht '$H4_{19}$'
+_aflow_Pearson 'mP32'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    8.48000
+_cell_length_b    12.00600
+_cell_length_c    12.30684
+_cell_angle_alpha 90.00000
+_cell_angle_beta  129.09091
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Au1 Au 4 e 0.25070 0.00670 0.50260 1.00000
+Br1 Br 4 e 0.39350 0.83710 0.63950 1.00000
+Br2 Br 4 e 0.11400 0.17780 0.36790 1.00000
+Br3 Br 4 e 0.22080 -0.08340 0.31300 1.00000
+Br4 Br 4 e 0.27670 0.09540 0.69010 1.00000
+H2O1 H2O 4 e 0.58430 0.13530 0.06130 1.00000
+H2O2 H2O 4 e 0.01710 0.36400 0.55120 1.00000
+K1 K 4 e 0.26710 0.47230 0.51810 1.00000

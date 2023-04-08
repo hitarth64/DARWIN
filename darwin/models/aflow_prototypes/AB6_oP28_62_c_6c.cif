@@ -1,0 +1,68 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Copper (ii) azide'
+_chemical_formula_sum 'Cu N6'
+
+loop_
+_publ_author_name
+ 'I. Agrell'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 21
+_journal_year 1967
+_journal_page_first 2647
+_journal_page_last 2658
+_publ_Section_title
+;
+ The Crystal Structure of Cu(N$_{3}$)$_{2}$
+;
+
+_aflow_title 'Copper (II) Azide [Cu(N$_{3}$)$_{2}$] Structure'
+_aflow_proto 'AB6_oP28_62_c_6c'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7}'
+_aflow_params_values '13.481,0.228766411987,0.673243824642,0.39692,0.58022,0.81158,0.66343,0.7465,0.59084,0.6767,0.50317,0.52408,0.35102,0.47071,0.24672,0.42026,0.15152'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP28'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    13.48100
+_cell_length_b    3.08400
+_cell_length_c    9.07600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 4 c 0.39692 0.25000 0.58022 1.00000
+N1 N 4 c 0.81158 0.25000 0.66343 1.00000
+N2 N 4 c 0.74650 0.25000 0.59084 1.00000
+N3 N 4 c 0.67670 0.25000 0.50317 1.00000
+N4 N 4 c 0.52408 0.25000 0.35102 1.00000
+N5 N 4 c 0.47071 0.25000 0.24672 1.00000
+N6 N 4 c 0.42026 0.25000 0.15152 1.00000

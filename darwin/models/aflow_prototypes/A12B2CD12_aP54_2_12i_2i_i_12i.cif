@@ -1,0 +1,87 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H12N2NiO12'
+_chemical_formula_sum 'H12 N2 Ni O12'
+
+loop_
+_publ_author_name
+ 'F. Bigoli'
+ 'A. Braibanti'
+ 'A. Tiripicchio'
+ 'M. T. Camellini'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 27
+_journal_year 1971
+_journal_page_first 1427
+_journal_page_last 1434
+_publ_Section_title
+;
+ The crystal structures of nitrates of divalent hexaaquocations. III. Hexaaquonickel nitrate
+;
+
+# Found in Reaction of [Ni(H$_{2}$O)$_{6}$](NO$_{3}$)$_{2}$ with gaseous NH$_{3}$; crystal growth {\em via} in-situ solvation, 2015
+
+_aflow_title 'Ni(NO$_{3}$)$_{2}$(H$_{2}$O)$_{6}$ Structure'
+_aflow_proto 'A12B2CD12_aP54_2_12i_2i_i_12i'
+_aflow_params 'a,b/a,c/a,\alpha,\beta,\gamma,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21},x_{22},y_{22},z_{22},x_{23},y_{23},z_{23},x_{24},y_{24},z_{24},x_{25},y_{25},z_{25},x_{26},y_{26},z_{26},x_{27},y_{27},z_{27}'
+_aflow_params_values '7.694,1.54873927736,0.756043670393,102.3,102.4,105.9,-0.098,0.375,0.1583,0.1088,0.418,0.275,-0.0233,0.1283,0.355,0.202,0.135,0.442,0.3033,0.1153,-0.095,0.07,0.04,0.7433,-0.0353,0.2655,0.6483,0.1356,0.3861,0.7517,0.4,0.355,0.3917,0.4704,0.3451,0.1817,0.7167,0.1417,-0.0167,0.7667,0.1167,0.7,0.4207,0.873,0.6648,0.3707,0.6081,0.19,0.09,0.2325,0.0606,0.4696,0.8648,0.8845,0.5323,0.8766,0.5422,0.2611,0.8757,0.5844,0.5386,0.6283,0.2804,0.2587,0.6035,0.3158,0.3106,0.5904,-0.0424,0.0135,0.3655,0.2694,0.1112,0.1448,0.333,0.17,0.1038,0.8533,0.0773,0.3149,0.776,0.3614,0.3496,0.2179,0.8166,0.1262,0.9031'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'aP54'
+
+_symmetry_space_group_name_H-M "P -1"
+_symmetry_Int_Tables_number 2
+ 
+_cell_length_a    7.69400
+_cell_length_b    11.91600
+_cell_length_c    5.817
+_cell_angle_alpha 102.30000
+_cell_angle_beta  102.40000
+_cell_angle_gamma 105.90000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 2 i -0.09800 0.37500 0.15830 1.00000
+H2 H 2 i 0.10880 0.41800 0.27500 1.00000
+H3 H 2 i -0.02330 0.12830 0.35500 1.00000
+H4 H 2 i 0.20200 0.13500 0.44200 1.00000
+H5 H 2 i 0.30330 0.11530 -0.09500 1.00000
+H6 H 2 i 0.07000 0.04000 0.74330 1.00000
+H7 H 2 i -0.03530 0.26550 0.64830 1.00000
+H8 H 2 i 0.13560 0.38610 0.75170 1.00000
+H9 H 2 i 0.40000 0.35500 0.39170 1.00000
+H10 H 2 i 0.47040 0.34510 0.18170 1.00000
+H11 H 2 i 0.71670 0.14170 -0.01670 1.00000
+H12 H 2 i 0.76670 0.11670 0.70000 1.00000
+N1 N 2 i 0.42070 0.87300 0.66480 1.00000
+N2 N 2 i 0.37070 0.60810 0.19000 1.00000
+Ni1 Ni 2 i 0.09000 0.23250 0.06060 1.00000
+O1 O 2 i 0.46960 0.86480 0.88450 1.00000
+O2 O 2 i 0.53230 0.87660 0.54220 1.00000
+O3 O 2 i 0.26110 0.87570 0.58440 1.00000
+O4 O 2 i 0.53860 0.62830 0.28040 1.00000
+O5 O 2 i 0.25870 0.60350 0.31580 1.00000
+O6 O 2 i 0.31060 0.59040 -0.04240 1.00000
+O7 O 2 i 0.01350 0.36550 0.26940 1.00000
+O8 O 2 i 0.11120 0.14480 0.33300 1.00000
+O9 O 2 i 0.17000 0.10380 0.85330 1.00000
+O10 O 2 i 0.07730 0.31490 0.77600 1.00000
+O11 O 2 i 0.36140 0.34960 0.21790 1.00000
+O12 O 2 i 0.81660 0.12620 0.90310 1.00000

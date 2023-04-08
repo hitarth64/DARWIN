@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'ClH4NO2'
+_chemical_formula_sum 'Cl H4 N O2'
+
+loop_
+_publ_author_name
+ 'A. I. Smolentsev'
+ 'D. Y. Naumov'
+_journal_name_full_name
+;
+ Acta Crystallographica Section E: Crystallographic Communications
+;
+_journal_volume 61
+_journal_year 2005
+_journal_page_first i38
+_journal_page_last i40
+_publ_Section_title
+;
+ Ammonium chlorite, NH$_{4}$ClO$_{2}$, at 150~K
+;
+
+_aflow_title 'Ammonium Chlorite (NH$_{4}$ClO$_{2}$) Structure'
+_aflow_proto 'AB4CD2_tP16_113_c_f_a_e'
+_aflow_params 'a,c/a,z_{2},x_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.3397,0.592457056328,0.37123,0.14562,0.6062,0.111,0.03,0.125'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP16'
+
+_symmetry_space_group_name_H-M "P -4 21 m"
+_symmetry_Int_Tables_number 113
+ 
+_cell_length_a    6.33970
+_cell_length_b    6.33970
+_cell_length_c    3.75600
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x+1/2,y+1/2,-z
+4 -x,-y,z
+5 y+1/2,x+1/2,z
+6 y,-x,-z
+7 -y,x,-z
+8 -y+1/2,-x+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 2 a 0.00000 0.00000 0.00000 1.00000
+Cl1 Cl 2 c 0.00000 0.50000 0.37123 1.00000
+O1 O 4 e 0.14562 0.64562 0.60620 1.00000
+H1 H 8 f 0.11100 0.03000 0.12500 1.00000

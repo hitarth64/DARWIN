@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O5SiY2'
+_chemical_formula_sum 'O5 Si Y2'
+
+loop_
+_publ_author_name
+ 'G. V. Anan\'eva'
+ 'A. M. Korovkin'
+ 'T. I. Merkulyaeva'
+ 'A. M. Morozova'
+ 'M. V. Petrov'
+ 'I. R. Savinova'
+ 'V. R. Startsev'
+ 'P. P. Feofilov'
+_journal_name_full_name
+;
+ Inorganic Materials
+;
+_journal_volume 17
+_journal_year 1981
+_journal_page_first 754
+_journal_page_last 758
+_publ_Section_title
+;
+ Growth of lanthanide oxyorthosilicate single crystals, and their structural and optical characteristics
+;
+
+# Found in Y$_{2}$SiO$_{5}$ (Y$_{2}$[SiO$_{4}$]O ht) Crystal Structure, {PAULING FILE in: Inorganic Solid Phases, SpringerMaterials (online database), Springer, Heidelberg (ed.) SpringerMaterials }, 2016
+
+_aflow_title 'Y$_{2}$SiO$_{5}$ ($RE$$_{2}$SiO$_{5}$ X2) Structure'
+_aflow_proto 'A5BC2_mC64_15_5f_f_2f'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '14.43,0.466597366597,0.721413721414,122.13,0.089,0.002,0.143,0.118,0.287,0.318,0.297,0.429,0.06,0.298,0.157,0.33,0.485,0.102,0.103,0.181,0.093,0.308,0.037,0.257,0.466,0.359,0.122,0.165'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC64'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    14.43000
+_cell_length_b    6.73300
+_cell_length_c    10.41000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  122.13000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 8 f 0.08900 0.00200 0.14300 1.00000
+O2 O 8 f 0.11800 0.28700 0.31800 1.00000
+O3 O 8 f 0.29700 0.42900 0.06000 1.00000
+O4 O 8 f 0.29800 0.15700 0.33000 1.00000
+O5 O 8 f 0.48500 0.10200 0.10300 1.00000
+Si1 Si 8 f 0.18100 0.09300 0.30800 1.00000
+Y1 Y 8 f 0.03700 0.25700 0.46600 1.00000
+Y2 Y 8 f 0.35900 0.12200 0.16500 1.00000

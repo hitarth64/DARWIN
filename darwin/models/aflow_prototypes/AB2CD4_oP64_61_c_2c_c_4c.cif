@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Hambergite'
+_chemical_formula_sum 'B Be2 H O4'
+
+loop_
+_publ_author_name
+ 'G. D. Gatta'
+ 'G. J. {McIntyre}'
+ 'G. Bromiley'
+ 'A. Guastoni'
+ 'F. Nestola'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 97
+_journal_year 2012
+_journal_page_first 1891
+_journal_page_last 1897
+_publ_Section_title
+;
+ A single-crystal neutron diffraction study of hambergite, Be$_{2}$BO$_{3}$(OH,F)
+;
+
+_aflow_title 'Hambergite [Be$_{2}$BO$_{3}$(OH), $G7_{2}$] Structure'
+_aflow_proto 'AB2CD4_oP64_61_c_2c_c_4c'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '9.762,1.24984634296,0.453800450727,0.10617,0.60704,0.77298,0.00261,0.68871,0.26018,0.23724,0.56757,0.27717,0.3138,0.7228,0.4574,0.0376,0.68766,0.61914,0.1012,0.60302,0.08204,0.18691,0.5345,0.61701,0.33976,0.67302,0.296'
+_aflow_Strukturbericht '$G7_{2}$'
+_aflow_Pearson 'oP64'
+
+_symmetry_space_group_name_H-M "P 21/b 21/c 21/a"
+_symmetry_Int_Tables_number 61
+ 
+_cell_length_a    9.76200
+_cell_length_b    12.20100
+_cell_length_c    4.43000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y+1/2,z+1/2
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 8 c 0.10617 0.60704 0.77298 1.00000
+Be1 Be 8 c 0.00261 0.68871 0.26018 1.00000
+Be2 Be 8 c 0.23724 0.56757 0.27717 1.00000
+H1 H 8 c 0.31380 0.72280 0.45740 1.00000
+O1 O 8 c 0.03760 0.68766 0.61914 1.00000
+O2 O 8 c 0.10120 0.60302 0.08204 1.00000
+O3 O 8 c 0.18691 0.53450 0.61701 1.00000
+O4 O 8 c 0.33976 0.67302 0.29600 1.00000

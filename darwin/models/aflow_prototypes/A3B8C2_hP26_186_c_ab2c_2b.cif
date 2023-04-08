@@ -1,0 +1,75 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Mo3O8Zn2'
+_chemical_formula_sum 'Mo3 O8 Zn2'
+
+loop_
+_publ_author_name
+ 'G. B. Ansell'
+ 'L. Katz'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 21
+_journal_year 1966
+_journal_page_first 482
+_journal_page_last 485
+_publ_Section_title
+;
+ A Refinement of the Crystal Structure of Zinc Molybdenum(IV) Oxide, Zn$_{2}$Mo$_{3}$O$_{8}$
+;
+
+# Found in Structure of Kamiokite, 1986
+
+_aflow_title 'Zn$_{2}$Mo$_{3}$O$_{8}$ Structure'
+_aflow_proto 'A3B8C2_hP26_186_c_ab2c_2b'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7}'
+_aflow_params_values '5.775,1.71688311688,0.3886,0.147,-0.0535,0.5132,0.1461,0.25,0.4861,0.3639,0.1647,0.6354'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP26'
+
+_symmetry_space_group_name_H-M "P 63 m c"
+_symmetry_Int_Tables_number 186
+ 
+_cell_length_a    5.77500
+_cell_length_b    5.77500
+_cell_length_c    9.91500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x+y,y,z
+8 -x,-x+y,z+1/2
+9 -y,-x,z
+10 x-y,-y,z+1/2
+11 x,x-y,z
+12 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 a 0.00000 0.00000 0.38860 1.00000
+O2 O 2 b 0.33333 0.66667 0.14700 1.00000
+Zn1 Zn 2 b 0.33333 0.66667 -0.05350 1.00000
+Zn2 Zn 2 b 0.33333 0.66667 0.51320 1.00000
+Mo1 Mo 6 c 0.14610 0.85390 0.25000 1.00000
+O3 O 6 c 0.48610 0.51390 0.36390 1.00000
+O4 O 6 c 0.16470 0.83530 0.63540 1.00000

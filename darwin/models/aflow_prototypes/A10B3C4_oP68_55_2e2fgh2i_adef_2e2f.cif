@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O10Ru3Sr4'
+_chemical_formula_sum 'O10 Ru3 Sr4'
+
+loop_
+_publ_author_name
+ 'M. K. Crawford'
+ 'R. L. Harlow'
+ 'W. Marshall'
+ 'Z. Li'
+ 'G. Cao'
+ 'R. L. Lindstrom'
+ 'Q. Huang'
+ 'J. W. Lynn'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 65
+_journal_year 2002
+_journal_page_first 214412
+_journal_page_last 214412
+_publ_Section_title
+;
+ Structure and magnetism of single crystal Sr$_{4}$Ru$_{3}$O$_{10}$: A ferromagnetic triple-layer ruthenate
+;
+
+_aflow_title 'Orthorhombic Sr$_{4}$Ru$_{3}$O$_{10}$ Structure'
+_aflow_proto 'A10B3C4_oP68_55_2e2fgh2i_adef_2e2f'
+_aflow_params 'a,b/a,c/a,z_{3},z_{4},z_{5},z_{6},z_{7},z_{8},z_{9},z_{10},z_{11},z_{12},x_{13},y_{13},x_{14},y_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16}'
+_aflow_params_values '3.9001,1.0,7.32622240455,0.0695,0.213,0.1402,0.2961,0.4301,0.2871,0.4303,0.3598,0.0699,0.2038,0.2028,0.2971,0.2966,0.2964,0.2721,0.2271,0.1392,0.2266,0.2275,0.3608'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP68'
+
+_symmetry_space_group_name_H-M "P 21/b 21/a 2/m"
+_symmetry_Int_Tables_number 55
+ 
+_cell_length_a    3.90010
+_cell_length_b    3.90010
+_cell_length_c    28.57300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x+1/2,y+1/2,-z
+4 -x,-y,z
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x+1/2,-y+1/2,z
+8 x,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ru1 Ru 2 a 0.00000 0.00000 0.00000 1.00000
+Ru2 Ru 2 d 0.00000 0.50000 0.50000 1.00000
+O1 O 4 e 0.00000 0.00000 0.06950 1.00000
+O2 O 4 e 0.00000 0.00000 0.21300 1.00000
+Ru3 Ru 4 e 0.00000 0.00000 0.14020 1.00000
+Sr1 Sr 4 e 0.00000 0.00000 0.29610 1.00000
+Sr2 Sr 4 e 0.00000 0.00000 0.43010 1.00000
+O3 O 4 f 0.00000 0.50000 0.28710 1.00000
+O4 O 4 f 0.00000 0.50000 0.43030 1.00000
+Ru4 Ru 4 f 0.00000 0.50000 0.35980 1.00000
+Sr3 Sr 4 f 0.00000 0.50000 0.06990 1.00000
+Sr4 Sr 4 f 0.00000 0.50000 0.20380 1.00000
+O5 O 4 g 0.20280 0.29710 0.00000 1.00000
+O6 O 4 h 0.29660 0.29640 0.50000 1.00000
+O7 O 8 i 0.27210 0.22710 0.13920 1.00000
+O8 O 8 i 0.22660 0.22750 0.36080 1.00000

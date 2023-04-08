@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'N4Si3'
+_chemical_formula_sum 'N4 Si3'
+
+loop_
+_publ_author_name
+ 'P. Yang'
+ 'H.-K. Fun'
+ 'I. {Ab. Rahman}'
+ 'I. Saleh'
+_journal_name_full_name
+;
+ Ceramics International
+;
+_journal_volume 21
+_journal_year 1995
+_journal_page_first 137
+_journal_page_last 142
+_publ_Section_title
+;
+ Two phase refinements of the structures of $\alpha$-Si$_{3}$N$_{4}$ and $\beta$-Si$_{3}$N$_{4}$ made from rice husk by Rietveld analysis
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title '$\beta$-Si$_{3}$N$_{4}$ Structure'
+_aflow_proto 'A4B3_hP14_176_ch_h'
+_aflow_params 'a,c/a,x_{2},y_{2},x_{3},y_{3}'
+_aflow_params_values '7.6093,0.382150789166,0.329,0.039,0.1742,0.7678'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP14'
+
+_symmetry_space_group_name_H-M "P 63/m"
+_symmetry_Int_Tables_number 176
+ 
+_cell_length_a    7.60930
+_cell_length_b    7.60930
+_cell_length_c    2.90790
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 -x,-y,-z
+8 -x+y,-x,-z+1/2
+9 y,-x+y,-z
+10 x,y,-z+1/2
+11 x-y,x,-z
+12 -y,x-y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 2 c 0.33333 0.66667 0.25000 1.00000
+N2 N 6 h 0.32900 0.03900 0.25000 1.00000
+Si1 Si 6 h 0.17420 0.76780 0.25000 1.00000

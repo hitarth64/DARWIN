@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'HoMn2O5'
+_chemical_formula_sum 'Ho Mn2 O5'
+
+loop_
+_publ_author_name
+ 'S. {Quezel-Ambrunaz}'
+ 'F. Bertaut'
+ 'G. Buisson'
+_journal_name_full_name
+;
+ Comptes rendus de l'{A}cad\'{e}mie des Sciences
+;
+_journal_volume 258
+_journal_year 1964
+_journal_page_first 3025
+_journal_page_last 3027
+_publ_Section_title
+;
+ Structure des compos\\'{e}s d\'oxydes de terres rares et de mangan\`{e}se de formule TMn$_{2}$O$_{5}$
+;
+
+# Found in Structure of NdMn$_{2}$O$_{5}$, 1993
+
+_aflow_title 'HoMn$_{2}$O$_{5}$ Structure'
+_aflow_proto 'AB2C5_oP32_55_g_fh_eghi'
+_aflow_params 'a,b/a,c/a,z_{1},z_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},x_{6},y_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '7.36,1.1535326087,0.773097826087,0.25,0.25,0.143,0.172,0.14,0.44,0.09,0.848,0.14,0.44,0.1,0.72,0.25'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP32'
+
+_symmetry_space_group_name_H-M "P 21/b 21/a 2/m"
+_symmetry_Int_Tables_number 55
+ 
+_cell_length_a    7.36000
+_cell_length_b    8.49000
+_cell_length_c    5.69000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x+1/2,y+1/2,-z
+4 -x,-y,z
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x+1/2,-y+1/2,z
+8 x,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 e 0.00000 0.00000 0.25000 1.00000
+Mn1 Mn 4 f 0.00000 0.50000 0.25000 1.00000
+Ho1 Ho 4 g 0.14300 0.17200 0.00000 1.00000
+O2 O 4 g 0.14000 0.44000 0.00000 1.00000
+Mn2 Mn 4 h 0.09000 0.84800 0.50000 1.00000
+O3 O 4 h 0.14000 0.44000 0.50000 1.00000
+O4 O 8 i 0.10000 0.72000 0.25000 1.00000

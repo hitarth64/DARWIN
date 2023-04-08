@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'As3Cr3K2'
+_chemical_formula_sum 'As3 Cr3 K2'
+
+loop_
+_publ_author_name
+ 'J.-K. Bao'
+ 'J.-Y. Liu'
+ 'C.-W. Ma'
+ 'Z.-H. Meng'
+ 'Z.-T. Tang'
+ 'Y.-L. Sun'
+ 'H.-F. Zhai'
+ 'H. Jiang'
+ 'H. Bai'
+ 'C.-M. Feng'
+ 'Z.-A. Xu'
+ 'G.-H. Cao'
+_journal_name_full_name
+;
+ Physical Review X
+;
+_journal_volume 5
+_journal_year 2015
+_journal_page_first 011013
+_journal_page_last 011013
+_publ_Section_title
+;
+ Superconductivity in Quasi-One-Dimensional K$_{2}$Cr$_{3}$As$_{3}$ with Significant Electron Correlations
+;
+
+# Found in Q.-G. et al., Superconductivity at 10.4 K in a novel quasi-one-dimensional ternary molybdenum pnictide K$_{2}$Mo$_{3}$As$_{3}$, Sci. Bull. 63, 952-956 (2018) 
+
+_aflow_title 'Cr-233 Quasi-One-Dimensional Superconductor (K$_{2}$Cr$_{3}$As$_{3}$) Structure'
+_aflow_proto 'A3B3C2_hP16_187_jk_jk_ck'
+_aflow_params 'a,c/a,x_{2},x_{3},x_{4},x_{5},x_{6}'
+_aflow_params_values '9.9832,0.423751903197,0.8339,0.0898,0.1676,-0.0873,0.5387'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP16'
+
+_symmetry_space_group_name_H-M "P -6 m 2"
+_symmetry_Int_Tables_number 187
+ 
+_cell_length_a    9.98320
+_cell_length_b    9.98320
+_cell_length_c    4.23040
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x,x-y,-z
+5 -x+y,y,-z
+6 -y,-x,-z
+7 -x+y,-x,-z
+8 x,y,-z
+9 -y,x-y,-z
+10 -x+y,y,z
+11 -y,-x,z
+12 x,x-y,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 1 c 0.33333 0.66667 0.00000 1.00000
+As1 As 3 j 0.83390 0.16610 0.00000 1.00000
+Cr1 Cr 3 j 0.08980 -0.08980 0.00000 1.00000
+As2 As 3 k 0.16760 0.83240 0.50000 1.00000
+Cr2 Cr 3 k -0.08730 0.08730 0.50000 1.00000
+K2 K 3 k 0.53870 0.46130 0.50000 1.00000

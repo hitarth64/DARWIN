@@ -1,0 +1,67 @@
+# AFLOW.org Repositories
+# TaTi/AB_aP16_2_4i_4i-001.AB params=5.4244498076,1.04446593575,1.78376517004,72.976133815,87.0786711125,79.9750121379,0.375,0.75,0.375,0.875,0.0,0.375,0.375,0.5,0.875,0.625,0.75,0.625,0.875,0.5,0.375,0.125,0.75,0.125,0.875,0.75,0.875,0.375,-0.0,0.875 SG=2 [ANRL doi: 10.1016/j.commatsci.2017.01.017 (part 1), doi: 10.1016/j.commatsci.2018.10.043 (part 2)]
+data_TaTi
+_pd_phase_name AB_aP16_2_4i_4i-001.AB
+
+_chemical_name_mineral 'TaTi'
+_chemical_formula_sum 'Ta Ti'
+
+loop_
+_publ_author_name
+ 'C. Jiang'
+ 'C. Wolverton'
+ 'J. Sofo'
+ 'L.-Q. Chen'
+ 'Z.-K. Liu'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 69
+_journal_year 2004
+_journal_page_first 214202
+_journal_page_last 214202
+_publ_Section_title
+;
+ First-principles study of binary bcc alloys using special quasirandom structures
+;
+
+_aflow_title 'TaTi (BCC SQS-16) Structure'
+_aflow_proto 'AB_aP16_2_4i_4i'
+_aflow_params 'a,b/a,c/a,\alpha,\beta,\gamma,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '5.4244498076,1.04446593575,1.78376517004,72.976133815,87.0786711125,79.9750121379,0.375,0.75,0.375,0.875,0.0,0.375,0.375,0.5,0.875,0.625,0.75,0.625,0.875,0.5,0.375,0.125,0.75,0.125,0.875,0.75,0.875,0.375,0.0,0.875'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'aP16'
+
+_cell_length_a  5.4244498076
+_cell_length_b  5.6656530442
+_cell_length_c  9.6759446334
+_cell_angle_alpha  72.9761338150
+_cell_angle_beta  87.0786711125
+_cell_angle_gamma  79.9750121379
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ta1 1.0000000000 0.3750000000 0.7500000000 0.3750000000 Biso 1.0 Ta 2 i
+Ta2 1.0000000000 0.8750000000 0.0000000000 0.3750000000 Biso 1.0 Ta 2 i
+Ta3 1.0000000000 0.3750000000 0.5000000000 0.8750000000 Biso 1.0 Ta 2 i
+Ta4 1.0000000000 0.6250000000 0.7500000000 0.6250000000 Biso 1.0 Ta 2 i
+Ti1 1.0000000000 0.8750000000 0.5000000000 0.3750000000 Biso 1.0 Ti 2 i
+Ti2 1.0000000000 0.1250000000 0.7500000000 0.1250000000 Biso 1.0 Ti 2 i
+Ti3 1.0000000000 0.8750000000 0.7500000000 0.8750000000 Biso 1.0 Ti 2 i
+Ti4 1.0000000000 0.3750000000 0.0000000000 0.8750000000 Biso 1.0 Ti 2 i

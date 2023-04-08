@@ -1,0 +1,83 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Natrolite'
+_chemical_formula_sum 'Al2 H4 Na2 O12 Si3'
+
+loop_
+_publ_author_name
+ 'A. Kirfel'
+ 'M. Orthen'
+ 'G. Will'
+_journal_name_full_name
+;
+ Zeolites
+;
+_journal_volume 4
+_journal_year 1984
+_journal_page_first 140
+_journal_page_last 146
+_publ_Section_title
+;
+ Natrolite: refinement of the crystal structure of two samples from Marienberg (Usti nad Labem, CSSR)
+;
+
+_aflow_title 'Natrolite (Na$_{2}$Al$_{2}$Si$_{3}$O$_{10}$$\cdot$2H$_{2}$O, $S6_{10}$) Structure'
+_aflow_proto 'A2B4C2D12E3_oF184_43_b_2b_b_6b_ab'
+_aflow_params 'a,b/a,c/a,z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12}'
+_aflow_params_values '18.296,1.01918452121,0.359914735461,0.0,0.0374,0.0937,0.6152,0.0533,0.1604,0.0616,0.0848,0.1932,0.1731,0.2208,0.0307,0.6179,0.0226,0.0686,0.866,0.0701,0.1818,0.6099,0.0983,0.0351,0.5003,0.2065,0.1529,0.7261,0.1804,0.2273,0.3903,0.0561,0.1896,0.1112,0.1533,0.2113,0.6231'
+_aflow_Strukturbericht '$S6_{10}$'
+_aflow_Pearson 'oF184'
+
+_symmetry_space_group_name_H-M "F d d 2"
+_symmetry_Int_Tables_number 43
+ 
+_cell_length_a    18.29600
+_cell_length_b    18.64700
+_cell_length_c    6.58500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x+1/4,y+1/4,z+1/4
+4 x+1/4,-y+1/4,z+1/4
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 -x+1/4,y+3/4,z+3/4
+8 x+1/4,-y+3/4,z+3/4
+9 x+1/2,y,z+1/2
+10 -x+1/2,-y,z+1/2
+11 -x+3/4,y+1/4,z+3/4
+12 x+3/4,-y+1/4,z+3/4
+13 x+1/2,y+1/2,z
+14 -x+1/2,-y+1/2,z
+15 -x+3/4,y+3/4,z+1/4
+16 x+3/4,-y+3/4,z+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si1 Si 8 a 0.00000 0.00000 0.00000 1.00000
+Al1 Al 16 b 0.03740 0.09370 0.61520 1.00000
+H1 H 16 b 0.05330 0.16040 0.06160 1.00000
+H2 H 16 b 0.08480 0.19320 0.17310 1.00000
+Na1 Na 16 b 0.22080 0.03070 0.61790 1.00000
+O1 O 16 b 0.02260 0.06860 0.86600 1.00000
+O2 O 16 b 0.07010 0.18180 0.60990 1.00000
+O3 O 16 b 0.09830 0.03510 0.50030 1.00000
+O4 O 16 b 0.20650 0.15290 0.72610 1.00000
+O5 O 16 b 0.18040 0.22730 0.39030 1.00000
+O6 O 16 b 0.05610 0.18960 0.11120 1.00000
+Si2 Si 16 b 0.15330 0.21130 0.62310 1.00000

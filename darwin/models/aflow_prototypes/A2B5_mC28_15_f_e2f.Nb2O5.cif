@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Nb2O5'
+_chemical_formula_sum 'Nb2 O5'
+
+loop_
+_publ_author_name
+ 'T. S. Ercit'
+_journal_name_full_name
+;
+ Mineralogy and Petrology
+;
+_journal_volume 43
+_journal_year 1991
+_journal_page_first 217
+_journal_page_last 223
+_publ_Section_title
+;
+ Refinement of the structure of $\zeta$-Nb$_{2}$O$_{5}$ and its relationship to the rutile and thoreaulite structures
+;
+
+# Found in ResearchGate, {~},
+
+_aflow_title '$\zeta$-Nb$_{2}$O$_{5}$ (B-Nb$_{2}$O$_{5}$) Structure'
+_aflow_proto 'A2B5_mC28_15_f_e2f'
+_aflow_params 'a,b/a,c/a,\beta,y_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '12.74,0.38328100471,0.436491365777,105.02,0.6465,0.3598,0.25874,0.2512,0.1088,0.4421,0.4709,0.2055,0.0723,0.1256'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC28'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    12.74000
+_cell_length_b    4.88300
+_cell_length_c    5.56090
+_cell_angle_alpha 90.00000
+_cell_angle_beta  105.02000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 e 0.00000 0.64650 0.25000 1.00000
+Nb1 Nb 8 f 0.35980 0.25874 0.25120 1.00000
+O2 O 8 f 0.10880 0.44210 0.47090 1.00000
+O3 O 8 f 0.20550 0.07230 0.12560 1.00000

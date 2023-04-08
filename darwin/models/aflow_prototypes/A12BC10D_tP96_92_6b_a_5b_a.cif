@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Retgersite'
+_chemical_formula_sum 'H12 Ni O10 S'
+
+loop_
+_publ_author_name
+ 'K. Stadnicka'
+ 'A. M. Glazer'
+ 'M. Koralewski'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 43
+_journal_year 1987
+_journal_page_first 319
+_journal_page_last 325
+_publ_Section_title
+;
+ Structure, absolute configuration and optical activity of $\alpha$-nickel sulfate hexahydrate
+;
+
+# Found in Handbook of Mineralogy, 2004
+
+_aflow_title 'Retgersite ($\alpha$-NiSO$_{4}$$\cdot$6H$_{2}$O, $H4_{5}$) Structure'
+_aflow_proto 'A12BC10D_tP96_92_6b_a_5b_a'
+_aflow_params 'a,c/a,x_{1},x_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13}'
+_aflow_params_values '6.783,2.69615214507,0.2106,0.70943,0.1097,0.8667,0.0394,0.2215,-0.0746,0.0867,0.5702,0.1559,0.0507,0.5371,0.3532,0.0601,-0.0051,0.4453,0.0744,-0.0101,0.2941,0.1149,0.1727,-0.047,0.0528,0.4705,0.2449,0.0561,0.0658,0.3599,0.085,0.6209,0.6203,0.0658,0.9237,0.6731,0.0003'
+_aflow_Strukturbericht '$H4_{5}$'
+_aflow_Pearson 'tP96'
+
+_symmetry_space_group_name_H-M "P 41 21 2"
+_symmetry_Int_Tables_number 92
+ 
+_cell_length_a    6.78300
+_cell_length_b    6.78300
+_cell_length_c    18.28800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+3/4
+3 -x+1/2,y+1/2,-z+1/4
+4 -x,-y,z+1/2
+5 -y,-x,-z+1/2
+6 -y+1/2,x+1/2,z+1/4
+7 y+1/2,-x+1/2,z+3/4
+8 y,x,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 4 a 0.21060 0.21060 0.00000 1.00000
+S1 S 4 a 0.70943 0.70943 0.00000 1.00000
+H1 H 8 b 0.10970 0.86670 0.03940 1.00000
+H2 H 8 b 0.22150 -0.07460 0.08670 1.00000
+H3 H 8 b 0.57020 0.15590 0.05070 1.00000
+H4 H 8 b 0.53710 0.35320 0.06010 1.00000
+H5 H 8 b -0.00510 0.44530 0.07440 1.00000
+H6 H 8 b -0.01010 0.29410 0.11490 1.00000
+O1 O 8 b 0.17270 -0.04700 0.05280 1.00000
+O2 O 8 b 0.47050 0.24490 0.05610 1.00000
+O3 O 8 b 0.06580 0.35990 0.08500 1.00000
+O4 O 8 b 0.62090 0.62030 0.06580 1.00000
+O5 O 8 b 0.92370 0.67310 0.00030 1.00000

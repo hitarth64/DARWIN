@@ -1,0 +1,76 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'NiO6Sr2W'
+_chemical_formula_sum 'Ni O6 Sr2 W'
+
+loop_
+_publ_author_name
+ 'D. Iwanaga'
+ 'Y. Inaguma'
+ 'M. Itoh'
+_journal_name_full_name
+;
+ Materials Research Bulletin
+;
+_journal_volume 35
+_journal_year 2000
+_journal_page_first 449
+_journal_page_last 457
+_publ_Section_title
+;
+ Structure and Magnetic Properties of Sr$_{2}$Ni$A$O$_{6}$ ($A$ = W, Te)
+;
+
+_aflow_title 'Sr$_{2}$NiWO$_{6}$ Structure'
+_aflow_proto 'AB6C2D_tI20_87_a_eh_d_b'
+_aflow_params 'a,c/a,z_{4},x_{5},y_{5}'
+_aflow_params_values '5.5571,1.42396213853,0.255,0.289,0.227'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI20'
+
+_symmetry_space_group_name_H-M "I 4/m"
+_symmetry_Int_Tables_number 87
+ 
+_cell_length_a    5.55710
+_cell_length_b    5.55710
+_cell_length_c    7.91310
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,x,z
+4 y,-x,z
+5 -x,-y,-z
+6 x,y,-z
+7 y,-x,-z
+8 -y,x,-z
+9 x+1/2,y+1/2,z+1/2
+10 -x+1/2,-y+1/2,z+1/2
+11 -y+1/2,x+1/2,z+1/2
+12 y+1/2,-x+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z+1/2
+14 x+1/2,y+1/2,-z+1/2
+15 y+1/2,-x+1/2,-z+1/2
+16 -y+1/2,x+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 2 a 0.00000 0.00000 0.00000 1.00000
+W1 W 2 b 0.00000 0.00000 0.50000 1.00000
+Sr1 Sr 4 d 0.00000 0.50000 0.25000 1.00000
+O1 O 4 e 0.00000 0.00000 0.25500 1.00000
+O2 O 8 h 0.28900 0.22700 0.00000 1.00000

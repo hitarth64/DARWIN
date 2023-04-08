@@ -1,0 +1,63 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Arsenopyrite'
+_chemical_formula_sum 'As Fe S'
+
+loop_
+_publ_author_name
+ 'L. Bindi'
+ 'Y. Mo\"{e}lo'
+ 'P. L\\'eone'
+ 'M. Suchaud'
+_journal_name_full_name
+;
+ Canadian Mineralogist
+;
+_journal_volume 50
+_journal_year 2012
+_journal_page_first 471
+_journal_page_last 479
+_publ_Section_title
+;
+ Stoichiometric Arsenopyrite, FeAsS, from La Roche-Balue Quarry, Loire-Atlantique, France: Crystal Structure And M\"{o}ssbauer Study
+;
+
+_aflow_title 'Arsenopyrite (FeAsS, $E0_{7}$) Structure'
+_aflow_proto 'ABC_mP12_14_e_e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3}'
+_aflow_params_values '5.7612,0.986617371381,1.00107616469,111.721,0.14746,0.13055,0.86937,0.28353,-0.00643,0.29429,0.6551,0.1311,0.3211'
+_aflow_Strukturbericht '$E0_{7}$'
+_aflow_Pearson 'mP12'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    5.76120
+_cell_length_b    5.68410
+_cell_length_c    5.76740
+_cell_angle_alpha 90.00000
+_cell_angle_beta  111.72100
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+As1 As 4 e 0.14746 0.13055 0.86937 1.00000
+Fe1 Fe 4 e 0.28353 -0.00643 0.29429 1.00000
+S1 S 4 e 0.65510 0.13110 0.32110 1.00000

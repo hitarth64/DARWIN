@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cryolite'
+_chemical_formula_sum 'Al F6 Na3'
+
+loop_
+_publ_author_name
+ 'H. Yang'
+ 'S. Ghose'
+ 'D. M. Hatch'
+_journal_name_full_name
+;
+ Physics and Chemistry of Minerals
+;
+_journal_volume 19
+_journal_year 1993
+_journal_page_first 528
+_journal_page_last 544
+_publ_Section_title
+;
+ Ferroelastic phase transition in cryolite, Na$_{3}$AlF$_{6}$, a mixed fluoride perovskite: High temperature single crystal X-ray diffraction study and symmetry analysis of the transition mechanism
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'High-Temperature Cryolite (Na$_{3}$AlF$_{6}$) Structure'
+_aflow_proto 'AB6C3_oI20_71_a_in_cj'
+_aflow_params 'a,b/a,c/a,z_{3},z_{4},x_{5},y_{5}'
+_aflow_params_values '5.6333,0.99893490494,1.41336339268,0.2192,0.2485,0.2335,0.2166'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oI20'
+
+_symmetry_space_group_name_H-M "I 2/m 2/m 2/m"
+_symmetry_Int_Tables_number 71
+ 
+_cell_length_a    5.63330
+_cell_length_b    5.62730
+_cell_length_c    7.96190
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z
+8 x,y,-z
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y+1/2,-z+1/2
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z+1/2
+14 -x+1/2,y+1/2,z+1/2
+15 x+1/2,-y+1/2,z+1/2
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 2 a 0.00000 0.00000 0.00000 1.00000
+Na1 Na 2 c 0.50000 0.50000 0.00000 1.00000
+F1 F 4 i 0.00000 0.00000 0.21920 1.00000
+Na2 Na 4 j 0.50000 0.00000 0.24850 1.00000
+F2 F 8 n 0.23350 0.21660 0.00000 1.00000

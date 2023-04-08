@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cr2AgBiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94071038
+_cell_length_b   6.94071038
+_cell_length_c   6.94071038
+_cell_angle_alpha   136.53702139
+_cell_angle_beta   136.53702139
+_cell_angle_gamma   63.15117545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2AgBiO8
+_chemical_formula_sum   'Cr2 Ag1 Bi1 O8'
+_cell_volume   156.20440997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.25000000  0.75000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.75000000  0.25000000  0.50000000  1
+  Bi  Bi3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.45201000  0.58931900  0.38106700  1
+  O  O5  1  0.79453400  0.16990500  0.11477100  1
+  O  O6  1  0.92905800  0.54799000  0.13730900  1
+  O  O7  1  0.41068100  0.79174900  0.86269100  1
+  O  O8  1  0.83009500  0.94486700  0.62463000  1
+  O  O9  1  0.20825100  0.07094200  0.61893300  1
+  O  O10  1  0.32023700  0.20546600  0.37537000  1
+  O  O11  1  0.05513300  0.67976300  0.88522900  1

@@ -1,0 +1,80 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'BFe14Nd2'
+_chemical_formula_sum 'B Fe14 Nd2'
+
+loop_
+_publ_author_name
+ 'D. Givord'
+ 'H. S. Li'
+ 'J. M. Moreau'
+_journal_name_full_name
+;
+ Solid State Communications
+;
+_journal_volume 50
+_journal_year 1984
+_journal_page_first 497
+_journal_page_last 499
+_publ_Section_title
+;
+ Magnetic properties and crystal structure of Nd$_{2}$Fe$_{14}$B
+;
+
+_aflow_title 'Nd$_{2}$Fe$_{14}$B Structure'
+_aflow_proto 'AB14C2_tP68_136_f_ce2j2k_fg'
+_aflow_params 'a,c/a,z_{2},x_{3},x_{4},x_{5},x_{6},z_{6},x_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9}'
+_aflow_params_values '8.792,1.38648771611,0.116,0.124,0.3572,0.7698,0.0978,0.2942,0.3184,0.255,0.567,0.2245,0.3735,0.1397,0.537,0.1759'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP68'
+
+_symmetry_space_group_name_H-M "P 42/m 21/n 2/m"
+_symmetry_Int_Tables_number 136
+ 
+_cell_length_a    8.79200
+_cell_length_b    8.79200
+_cell_length_c    12.19000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -y,-x,-z
+6 -y+1/2,x+1/2,z+1/2
+7 y+1/2,-x+1/2,z+1/2
+8 y,x,-z
+9 -x,-y,-z
+10 -x+1/2,y+1/2,z+1/2
+11 x+1/2,-y+1/2,z+1/2
+12 x,y,-z
+13 y,x,z
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y,-x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 4 c 0.00000 0.50000 0.00000 1.00000
+Fe2 Fe 4 e 0.00000 0.00000 0.11600 1.00000
+B1 B 4 f 0.12400 0.12400 0.00000 1.00000
+Nd1 Nd 4 f 0.35720 0.35720 0.00000 1.00000
+Nd2 Nd 4 g 0.76980 0.23020 0.00000 1.00000
+Fe3 Fe 8 j 0.09780 0.09780 0.29420 1.00000
+Fe4 Fe 8 j 0.31840 0.31840 0.25500 1.00000
+Fe5 Fe 16 k 0.56700 0.22450 0.37350 1.00000
+Fe6 Fe 16 k 0.13970 0.53700 0.17590 1.00000

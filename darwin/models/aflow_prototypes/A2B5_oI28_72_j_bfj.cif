@@ -1,0 +1,81 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ga2Mg5'
+_chemical_formula_sum 'Ga2 Mg5'
+
+loop_
+_publ_author_name
+ 'K. Schubert'
+ 'K. Frank'
+ 'R. Gohle'
+ 'A. Maldonado'
+ 'H. G. Meissner'
+ 'A. Raman'
+ 'W. Rossteutscher'
+_journal_name_full_name
+;
+ Naturwissenschaften
+;
+_journal_volume 50
+_journal_year 1963
+_journal_page_first 41
+_journal_page_last 41
+_publ_Section_title
+;
+ Einige Strukturdaten metallischer Phasen (8)
+;
+
+# Found in Crystal Structure of Ga$_{2}$Mg$_{5}$, 2018 Found in Crystal Structure of Ga$_{2}$Mg$_{5}$, {Crystallography online.com},
+
+_aflow_title 'Ga$_{2}$Mg$_{5}$ ($D8_{g}$) Structure'
+_aflow_proto 'A2B5_oI28_72_j_bfj'
+_aflow_params 'a,b/a,c/a,x_{2},x_{3},y_{3},x_{4},y_{4}'
+_aflow_params_values '13.7,0.511678832117,0.439416058394,0.26,0.378,0.255,0.27,0.345'
+_aflow_Strukturbericht '$D8_{g}$'
+_aflow_Pearson 'oI28'
+
+_symmetry_space_group_name_H-M "I 2/b 2/a 2/m"
+_symmetry_Int_Tables_number 72
+ 
+_cell_length_a    13.70000
+_cell_length_b    7.01000
+_cell_length_c    6.02000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z+1/2
+3 -x,y,-z+1/2
+4 -x,-y,z
+5 -x,-y,-z
+6 -x,y,z+1/2
+7 x,-y,z+1/2
+8 x,y,-z
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z+1/2
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 4 b 0.50000 0.00000 0.25000 1.00000
+Mg2 Mg 8 f 0.26000 0.00000 0.25000 1.00000
+Ga1 Ga 8 j 0.37800 0.25500 0.00000 1.00000
+Mg3 Mg 8 j 0.27000 0.34500 0.00000 1.00000

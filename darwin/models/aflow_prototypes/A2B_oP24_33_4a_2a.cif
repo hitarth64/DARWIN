@@ -1,0 +1,65 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cervantite'
+_chemical_formula_sum 'O2 Sb'
+
+loop_
+_publ_author_name
+ 'G. Thornton'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 1271
+_journal_page_last 1273
+_publ_Section_title
+;
+ A Neutron Diffraction Study of $\alpha$-Sb$_{2}$O$_{3}$
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Cervantite ($\alpha$-Sb$_{2}$O$_{4}$) Structure'
+_aflow_proto 'A2B_oP24_33_4a_2a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '5.456,0.882331378299,2.16037390029,0.34,0.177,0.0962,0.159,0.71,0.195,0.086,0.208,0.312,0.33,0.84,0.41,-0.032,0.036,0.009,0.366,0.016,0.253'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP24'
+
+_symmetry_space_group_name_H-M "P n a 21"
+_symmetry_Int_Tables_number 33
+ 
+_cell_length_a    5.45600
+_cell_length_b    4.81400
+_cell_length_c    11.78700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x+1/2,y+1/2,z+1/2
+4 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 a 0.34000 0.17700 0.09620 1.00000
+O2 O 4 a 0.15900 0.71000 0.19500 1.00000
+O3 O 4 a 0.08600 0.20800 0.31200 1.00000
+O4 O 4 a 0.33000 0.84000 0.41000 1.00000
+Sb1 Sb 4 a -0.03200 0.03600 0.00900 1.00000
+Sb2 Sb 4 a 0.36600 0.01600 0.25300 1.00000

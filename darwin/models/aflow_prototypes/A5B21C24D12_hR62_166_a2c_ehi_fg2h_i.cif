@@ -1,0 +1,103 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Chabazite'
+_chemical_formula_sum 'Ca5 (H2O)21 O24 Si12'
+
+loop_
+_publ_author_name
+ 'M. Calligaris'
+ 'G. Nardin'
+ 'L. Randaccio'
+ 'P. C. Chiaramonti'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 602
+_journal_page_last 605
+_publ_Section_title
+;
+ Cation-site location in a natural chabazite
+;
+
+_aflow_title 'Chabazite (Ca$_{1.4}$Sr$_{0.3}$Al$_{3.8}$Si$_{8.3}$O$_{24}$$\cdot$13H$_{2}$O, $S3_{4}$ (I)) Structure'
+_aflow_proto 'A5B21C24D12_hR62_166_a2c_ehi_fg2h_i'
+_aflow_params 'a,c/a,x_{2},x_{3},x_{5},x_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11}'
+_aflow_params_values '13.80257,1.09220819021,0.2038,0.4065,0.2638,1.1548,0.418,0.75989,0.2515,0.89459,1.0248,-0.67229,0.2024,-0.5087,0.31011,0.1044,-0.1251,0.33381'
+_aflow_Strukturbericht '$S3_{4}$ (I)'
+_aflow_Pearson 'hR62'
+
+_symmetry_space_group_name_H-M "R -3 2/m (hexagonal axes)"
+_symmetry_Int_Tables_number 166
+ 
+_cell_length_a    13.80257
+_cell_length_b    13.80257
+_cell_length_c    15.07528
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,-z
+5 -x,-x+y,-z
+6 x-y,-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -y,-x,z
+11 x,x-y,z
+12 -x+y,y,z
+13 x+1/3,y+2/3,z+2/3
+14 -y+1/3,x-y+2/3,z+2/3
+15 -x+y+1/3,-x+2/3,z+2/3
+16 y+1/3,x+2/3,-z+2/3
+17 -x+1/3,-x+y+2/3,-z+2/3
+18 x-y+1/3,-y+2/3,-z+2/3
+19 -x+1/3,-y+2/3,-z+2/3
+20 y+1/3,-x+y+2/3,-z+2/3
+21 x-y+1/3,x+2/3,-z+2/3
+22 -y+1/3,-x+2/3,z+2/3
+23 x+1/3,x-y+2/3,z+2/3
+24 -x+y+1/3,y+2/3,z+2/3
+25 x+2/3,y+1/3,z+1/3
+26 -y+2/3,x-y+1/3,z+1/3
+27 -x+y+2/3,-x+1/3,z+1/3
+28 y+2/3,x+1/3,-z+1/3
+29 -x+2/3,-x+y+1/3,-z+1/3
+30 x-y+2/3,-y+1/3,-z+1/3
+31 -x+2/3,-y+1/3,-z+1/3
+32 y+2/3,-x+y+1/3,-z+1/3
+33 x-y+2/3,x+1/3,-z+1/3
+34 -y+2/3,-x+1/3,z+1/3
+35 x+2/3,x-y+1/3,z+1/3
+36 -x+y+2/3,y+1/3,z+1/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 3 a 0.00000 0.00000 0.00000 0.11000
+Ca2 Ca 6 c 0.00000 0.00000 0.20380 0.53000
+Ca3 Ca 6 c 0.00000 0.00000 0.40650 0.24000
+H2O1 H2O 9 e 0.50000 0.00000 0.00000 0.50000
+O1 O 18 f 0.26380 0.00000 0.00000 1.00000
+O2 O 18 g 0.65480 0.00000 0.50000 1.00000
+H2O2 H2O 18 h 0.21937 0.78063 0.19863 0.57000
+O3 O 18 h 0.11897 0.88103 0.13253 1.00000
+O4 O 18 h 0.89903 0.10097 0.12577 1.00000
+H2O3 H2O 36 i 0.20113 0.50997 0.00127 0.23000
+Si1 Si 36 i 0.00003 0.22947 0.10437 1.00000

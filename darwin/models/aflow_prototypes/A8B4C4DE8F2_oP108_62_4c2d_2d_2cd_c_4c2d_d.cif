@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'C8H4K4MoN8O2'
+_chemical_formula_sum 'C8 H4 K4 Mo N8 O2'
+
+loop_
+_publ_author_name
+ 'I. Typilo'
+ 'O. Sereda'
+ 'H. {Stoeckli-Evans}'
+ 'R. Gladyshevskii'
+ 'D. Semenyshyn'
+_journal_name_full_name
+;
+ Chemistry of Metals and Alloys
+;
+_journal_volume 3
+_journal_year 2010
+_journal_page_first 49
+_journal_page_last 52
+_publ_Section_title
+;
+ Refinement of the crystal structure of potassium octacyanomolybdate(IV) dihydrate
+;
+
+_aflow_title 'K$_{4}$[Mo(CN)$_{8}$]$\cdot$2H$_{2}$O ($F2_{1}$) Structure'
+_aflow_proto 'A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19}'
+_aflow_params_values '16.6959,0.695320408004,0.519864158266,0.0619,0.3937,0.1418,0.8446,0.2168,0.3978,0.2602,0.6753,0.36535,0.025,0.46252,0.52249,0.1375,0.59643,0.021,0.2866,0.2614,0.2957,0.326,0.7133,0.6401,0.5221,0.0391,0.1388,0.6648,0.1731,0.0725,0.5689,0.349,0.08,0.367,0.412,0.017,0.347,0.14835,0.04756,0.18788,0.0123,0.5809,0.2893,0.3068,0.0216,0.05,0.3888,0.0593,0.409'
+_aflow_Strukturbericht '$F2_{1}$'
+_aflow_Pearson 'oP108'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    16.69590
+_cell_length_b    11.60900
+_cell_length_c    8.67960
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 4 c 0.06190 0.25000 0.39370 1.00000
+C2 C 4 c 0.14180 0.25000 0.84460 1.00000
+C3 C 4 c 0.21680 0.25000 0.39780 1.00000
+C4 C 4 c 0.26020 0.25000 0.67530 1.00000
+K1 K 4 c 0.36535 0.25000 0.02500 1.00000
+K2 K 4 c 0.46252 0.25000 0.52249 1.00000
+Mo1 Mo 4 c 0.13750 0.25000 0.59643 1.00000
+N1 N 4 c 0.02100 0.25000 0.28660 1.00000
+N2 N 4 c 0.26140 0.25000 0.29570 1.00000
+N3 N 4 c 0.32600 0.25000 0.71330 1.00000
+N4 N 4 c 0.64010 0.25000 0.52210 1.00000
+C5 C 8 d 0.03910 0.13880 0.66480 1.00000
+C6 C 8 d 0.17310 0.07250 0.56890 1.00000
+H1 H 8 d 0.34900 0.08000 0.36700 1.00000
+H2 H 8 d 0.41200 0.01700 0.34700 1.00000
+K3 K 8 d 0.14835 0.04756 0.18788 1.00000
+N5 N 8 d 0.01230 0.58090 0.28930 1.00000
+N6 N 8 d 0.30680 0.02160 0.05000 1.00000
+O1 O 8 d 0.38880 0.05930 0.40900 1.00000

@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ag2HgI4'
+_chemical_formula_sum 'Ag2 Hg I4'
+
+loop_
+_publ_author_name
+ 'J. A. A. Ketelaar'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 80
+_journal_year 1931
+_journal_page_first 190
+_journal_page_last 203
+_publ_Section_title
+;
+ Strukturbestimmung der komplexen Quecksilberverbindungen Ag$_{2}$HgJ$_{4}$ und Cu$_{2}$HgJ$_{4}$
+;
+
+# Found in Single-crystal studies of $\beta$-Ag$_{2}$HgI$_{4}$, 1974
+
+_aflow_title '$E3_{1}$ ($\beta$-Ag$_{2}$HgI$_{4}$) ({\em{obsolete}}) Structure'
+_aflow_proto 'A2BC4_tP7_111_f_a_n'
+_aflow_params 'a,c/a,x_{3},z_{3}'
+_aflow_params_values '6.34,1.0,0.27,0.225'
+_aflow_Strukturbericht '$E3_{1}$'
+_aflow_Pearson 'tP7'
+
+_symmetry_space_group_name_H-M "P -4 2 m"
+_symmetry_Int_Tables_number 111
+ 
+_cell_length_a    6.34000
+_cell_length_b    6.34000
+_cell_length_c    6.34000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,x,z
+6 y,-x,-z
+7 -y,x,-z
+8 -y,-x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hg1 Hg 1 a 0.00000 0.00000 0.00000 1.00000
+Ag1 Ag 2 f 0.50000 0.00000 0.50000 1.00000
+I1 I 4 n 0.27000 0.27000 0.22500 1.00000

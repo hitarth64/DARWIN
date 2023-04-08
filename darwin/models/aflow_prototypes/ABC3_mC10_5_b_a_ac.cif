@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral '(Ba,Ca)CO3'
+_chemical_formula_sum 'Ba C O3'
+
+loop_
+_publ_author_name
+ 'D. Spahr'
+ 'L. Bayarjargal'
+ 'V. Vinograd'
+ 'R. Luchitskaia'
+ 'V. Milman'
+ 'B. Winkler'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 75
+_journal_year 2019
+_journal_page_first 291
+_journal_page_last 300
+_publ_Section_title
+;
+ A new BaCa(CO$_{3}$)$_{2}$ polymorph
+;
+
+_aflow_title '$C2$ (Ba,Ca)CO$_{3}$ Structure'
+_aflow_proto 'ABC3_mC10_5_b_a_ac'
+_aflow_params 'a,b/a,c/a,\beta,y_{1},y_{2},y_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '6.7064,0.763241083144,0.627266491709,109.284,0.6259,0.8722,0.103,0.8957,0.5037,0.7367'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC10'
+
+_symmetry_space_group_name_H-M "C 1 2 1"
+_symmetry_Int_Tables_number 5
+ 
+_cell_length_a    6.70640
+_cell_length_b    5.11860
+_cell_length_c    4.20670
+_cell_angle_alpha 90.00000
+_cell_angle_beta  109.28400
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 x+1/2,y+1/2,z
+4 -x+1/2,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 2 a 0.00000 0.62590 0.00000 1.00000
+O1 O 2 a 0.00000 0.87220 0.00000 1.00000
+Ba1 Ba 2 b 0.00000 0.10300 0.50000 1.00000
+O2 O 4 c 0.89570 0.50370 0.73670 1.00000

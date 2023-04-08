@@ -1,0 +1,107 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'NO2'
+_chemical_formula_sum 'N O2'
+
+loop_
+_publ_author_name
+ '{\AA}. Kvick'
+ 'R. K. {McMullan}'
+ 'M. D. Newton'
+_journal_name_full_name
+;
+ Journal of Chemical Physics
+;
+_journal_volume 76
+_journal_year 1982
+_journal_page_first 3754
+_journal_page_last 3761
+_publ_Section_title
+;
+ The structure of dinitrogen tetroxide N$_{2}$O$_{4}$: Neutron diffraction study at 100, 60 and 20 K and {\em ab initio} theoretical calculations
+;
+
+# Found in Crystal Structure Data of Inorganic Compounds, 2005 Found in Crystal Structure Data of Inorganic Compounds, {Landolt-Bornstein Volume III 43A2},
+
+_aflow_title 'NO$_{2}$ (Modern, $C26$) Structure'
+_aflow_proto 'AB2_cI36_204_d_g'
+_aflow_params 'a,x_{1},y_{2},z_{2}'
+_aflow_params_values '7.6937,0.38587,0.32597,0.1425'
+_aflow_Strukturbericht '$C26$'
+_aflow_Pearson 'cI36'
+
+_symmetry_space_group_name_H-M "I 2/m -3"
+_symmetry_Int_Tables_number 204
+ 
+_cell_length_a    7.69370
+_cell_length_b    7.69370
+_cell_length_c    7.69370
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,z,x
+6 y,-z,-x
+7 -y,z,-x
+8 -y,-z,x
+9 z,x,y
+10 z,-x,-y
+11 -z,x,-y
+12 -z,-x,y
+13 -x,-y,-z
+14 -x,y,z
+15 x,-y,z
+16 x,y,-z
+17 -y,-z,-x
+18 -y,z,x
+19 y,-z,x
+20 y,z,-x
+21 -z,-x,-y
+22 -z,x,y
+23 z,-x,y
+24 z,x,-y
+25 x+1/2,y+1/2,z+1/2
+26 x+1/2,-y+1/2,-z+1/2
+27 -x+1/2,y+1/2,-z+1/2
+28 -x+1/2,-y+1/2,z+1/2
+29 y+1/2,z+1/2,x+1/2
+30 y+1/2,-z+1/2,-x+1/2
+31 -y+1/2,z+1/2,-x+1/2
+32 -y+1/2,-z+1/2,x+1/2
+33 z+1/2,x+1/2,y+1/2
+34 z+1/2,-x+1/2,-y+1/2
+35 -z+1/2,x+1/2,-y+1/2
+36 -z+1/2,-x+1/2,y+1/2
+37 -x+1/2,-y+1/2,-z+1/2
+38 -x+1/2,y+1/2,z+1/2
+39 x+1/2,-y+1/2,z+1/2
+40 x+1/2,y+1/2,-z+1/2
+41 -y+1/2,-z+1/2,-x+1/2
+42 -y+1/2,z+1/2,x+1/2
+43 y+1/2,-z+1/2,x+1/2
+44 y+1/2,z+1/2,-x+1/2
+45 -z+1/2,-x+1/2,-y+1/2
+46 -z+1/2,x+1/2,y+1/2
+47 z+1/2,-x+1/2,y+1/2
+48 z+1/2,x+1/2,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 12 d 0.38587 0.00000 0.00000 1.00000
+O1 O 24 g 0.00000 0.32597 0.14250 1.00000

@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'C19Sc15'
+_chemical_formula_sum 'C19 Sc15'
+
+loop_
+_publ_author_name
+ 'H. Jedlicka'
+ 'H. Nowotny'
+ 'F. Benesovsky'
+_journal_name_full_name
+;
+ Monatshefte f{\"u}r Chemie - Chemical Monthly
+;
+_journal_volume 102
+_journal_year 1971
+_journal_page_first 389
+_journal_page_last 403
+_publ_Section_title
+;
+ Zum System Scandium-Kohlenstoff, 2. Mitt.: Kristallstruktur des C-reichen Carbids
+;
+
+_aflow_title 'C$_{19}$Sc$_{15}$ Structure'
+_aflow_proto 'A19B15_tP68_114_bc4e_ac3e'
+_aflow_params 'a,c/a,z_{3},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11}'
+_aflow_params_values '7.5,2.0,0.165,0.3198,0.712,0.118,-0.008,0.384,0.2,0.1333,0.436,0.208,0.212,-0.194,0.375,0.179,0.4021,0.1993,-0.02,0.0982,0.2823,0.1593,0.7157,0.0982,0.1423'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP68'
+
+_symmetry_space_group_name_H-M "P -4 21 c"
+_symmetry_Int_Tables_number 114
+ 
+_cell_length_a    7.50000
+_cell_length_b    7.50000
+_cell_length_c    15.00000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 y+1/2,x+1/2,z+1/2
+6 y,-x,-z
+7 -y,x,-z
+8 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sc1 Sc 2 a 0.00000 0.00000 0.00000 1.00000
+C1 C 2 b 0.00000 0.00000 0.50000 1.00000
+C2 C 4 c 0.00000 0.00000 0.16500 1.00000
+Sc2 Sc 4 c 0.00000 0.00000 0.31980 1.00000
+C3 C 8 e 0.71200 0.11800 -0.00800 1.00000
+C4 C 8 e 0.38400 0.20000 0.13330 1.00000
+C5 C 8 e 0.43600 0.20800 0.21200 1.00000
+C6 C 8 e -0.19400 0.37500 0.17900 1.00000
+Sc3 Sc 8 e 0.40210 0.19930 -0.02000 1.00000
+Sc4 Sc 8 e 0.09820 0.28230 0.15930 1.00000
+Sc5 Sc 8 e 0.71570 0.09820 0.14230 1.00000

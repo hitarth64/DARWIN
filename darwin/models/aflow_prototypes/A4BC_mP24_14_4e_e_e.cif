@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O7Si2Y2'
+_chemical_formula_sum 'O4 Si Y'
+
+loop_
+_publ_author_name
+ 'A. N. Christensen'
+ 'R. G. Hazell'
+ 'A. W. Hewat'
+_journal_name_full_name
+;
+ Acta Chemica Scandinavica
+;
+_journal_volume 51
+_journal_year 1997
+_journal_page_first 37
+_journal_page_last 43
+_publ_Section_title
+;
+ Synthesis, Crystal Growth and Structure Investigations of Rare-Earth Disilicates and Rare-Earth Oxyapatites
+;
+
+# Found in Revision of the crystallographic data of polymorphic Y$_{2}$Si$_{2}$O$_{7}$ and Y$_{2}$SiO$_{5}$ compounds, 2004
+
+_aflow_title '$\gamma$-Y$_{2}$Si$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A4BC_mP24_14_4e_e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '4.6916,2.31309148265,1.1908943644,96.04,0.7933,0.0502,0.1358,0.867,0.1822,0.5371,0.534,-0.0106,0.4976,0.3792,0.2017,0.2513,0.6445,0.1136,0.3696,0.8904,0.8495,0.0941'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP24'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.69160
+_cell_length_b    10.85210
+_cell_length_c    5.58720
+_cell_angle_alpha 90.00000
+_cell_angle_beta  96.04000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 4 e 0.79330 0.05020 0.13580 1.00000
+O2 O 4 e 0.86700 0.18220 0.53710 1.00000
+O3 O 4 e 0.53400 -0.01060 0.49760 0.50000
+O4 O 4 e 0.37920 0.20170 0.25130 1.00000
+Si1 Si 4 e 0.64450 0.11360 0.36960 1.00000
+Y1 Y 4 e 0.89040 0.84950 0.09410 1.00000

@@ -1,0 +1,81 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'EuIn2P2'
+_chemical_formula_sum 'Eu In2 P2'
+
+loop_
+_publ_author_name
+ 'J. Jiang'
+ 'S. M. Kauzlarich'
+_journal_name_full_name
+;
+ Chemistry of Materials
+;
+_journal_volume 18
+_journal_year 2006
+_journal_page_first 435
+_journal_page_last 441
+_publ_Section_title
+;
+ Colossal Magnetoresistance in a Rare Earth Zintl Compound with a New Structure Type: EuIn$_{2}$P$_{2}$
+;
+
+_aflow_title 'EuIn$_{2}$P$_{2}$ Structure'
+_aflow_proto 'AB2C2_hP10_194_a_f_f'
+_aflow_params 'a,c/a,z_{2},z_{3}'
+_aflow_params_values '4.0829,4.30943691984,0.82845,0.10706'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP10'
+
+_symmetry_space_group_name_H-M "P 63/m 2/m 2/c"
+_symmetry_Int_Tables_number 194
+ 
+_cell_length_a    4.08290
+_cell_length_b    4.08290
+_cell_length_c    17.59500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x-y,x,z+1/2
+3 -y,x-y,z
+4 -x,-y,z+1/2
+5 -x+y,-x,z
+6 y,-x+y,z+1/2
+7 x-y,-y,-z
+8 x,x-y,-z+1/2
+9 y,x,-z
+10 -x+y,y,-z+1/2
+11 -x,-x+y,-z
+12 -y,-x,-z+1/2
+13 -x,-y,-z
+14 -x+y,-x,-z+1/2
+15 y,-x+y,-z
+16 x,y,-z+1/2
+17 x-y,x,-z
+18 -y,x-y,-z+1/2
+19 -x+y,y,z
+20 -x,-x+y,z+1/2
+21 -y,-x,z
+22 x-y,-y,z+1/2
+23 x,x-y,z
+24 y,x,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Eu1 Eu 2 a 0.00000 0.00000 0.00000 1.00000
+In1 In 4 f 0.33333 0.66667 0.82845 1.00000
+P1 P 4 f 0.33333 0.66667 0.10706 1.00000

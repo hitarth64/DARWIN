@@ -1,0 +1,64 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'ClI'
+_chemical_formula_sum 'Cl I'
+
+loop_
+_publ_author_name
+ 'K. H. Boswijk'
+ 'J. {van der Heide}'
+ 'A. Vos'
+ 'E. H. Wiebenga'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 9
+_journal_year 1956
+_journal_page_first 274
+_journal_page_last 277
+_publ_Section_title
+;
+ The crystal structure of $\alpha$-ICl
+;
+
+_aflow_title '$\alpha$-ICl Structure'
+_aflow_proto 'AB_mP16_14_2e_2e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '12.6,0.347619047619,0.944444444444,119.5,0.084,0.152,0.706,0.462,0.858,0.62,0.179,0.366,0.588,0.297,0.632,0.436'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP16'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    12.60000
+_cell_length_b    4.38000
+_cell_length_c    11.90000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  119.50000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 4 e 0.08400 0.15200 0.70600 1.00000
+Cl2 Cl 4 e 0.46200 0.85800 0.62000 1.00000
+I1 I 4 e 0.17900 0.36600 0.58800 1.00000
+I2 I 4 e 0.29700 0.63200 0.43600 1.00000

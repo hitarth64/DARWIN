@@ -1,0 +1,69 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Paralstonite'
+_chemical_formula_sum 'Ba C2 Ca O6'
+
+loop_
+_publ_author_name
+ 'H. Effenberger'
+_journal_name_full_name
+;
+ Neues Jahrbuch fur Mineralogie, Monatshefte
+;
+_journal_volume 1980
+_journal_year 1980
+_journal_page_first 353
+_journal_page_last 363
+_publ_Section_title
+;
+ Die Kristallstruktur des Minerals Paralstonite, BaCa(CO$_{3}$)$_{2}$
+;
+
+# Found in A new BaCa(CO$_{3}$)$_{2}$ polymorph, 2019
+
+_aflow_title 'Paralstonite (BaCa(CO$_{3}$)$_{2}$) Structure'
+_aflow_proto 'AB2CD6_hP30_150_e_c2d_f_3g'
+_aflow_params 'a,c/a,z_{1},z_{2},z_{3},x_{4},x_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '8.692,0.707317073171,0.267,0.356,0.817,0.687,0.3586,0.191,0.677,0.355,0.173,0.517,0.822,0.15,0.001,0.255'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP30'
+
+_symmetry_space_group_name_H-M "P 3 2 1"
+_symmetry_Int_Tables_number 150
+ 
+_cell_length_a    8.69200
+_cell_length_b    8.69200
+_cell_length_c    6.14800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,-z
+5 y,x,-z
+6 -x,-x+y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 2 c 0.00000 0.00000 0.26700 1.00000
+C2 C 2 d 0.33333 0.66667 0.35600 1.00000
+C3 C 2 d 0.33333 0.66667 0.81700 1.00000
+Ba1 Ba 3 e 0.68700 0.00000 0.00000 1.00000
+Ca1 Ca 3 f 0.35860 0.00000 0.50000 1.00000
+O1 O 6 g 0.19100 0.67700 0.35500 1.00000
+O2 O 6 g 0.17300 0.51700 0.82200 1.00000
+O3 O 6 g 0.15000 0.00100 0.25500 1.00000

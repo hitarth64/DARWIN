@@ -1,0 +1,83 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Manganese-leonite'
+_chemical_formula_sum 'H8 K2 Mn O15 S2'
+
+loop_
+_publ_author_name
+ 'B. Hertweck'
+ 'G. Giester'
+ 'E. Libowitzky'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 86
+_journal_year 2001
+_journal_page_first 1282
+_journal_page_last 1292
+_publ_Section_title
+;
+ The crystal structures of the low-temperature phases of leonite-type compounds, K$_{2}$$Me$(SO$_{4}$)$_{2}$$\cdot$4H$_{2}$O ($Me^{2+}$ = Mg, Mn, Fe)
+;
+
+_aflow_title 'Manganese-leonite [K$_{2}$Mn(SO$_{4}$)$_{2}$$\cdot$4H$_{2}$O, $H4_{23}$] Structure'
+_aflow_proto 'A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i'
+_aflow_params 'a,b/a,c/a,\beta,y_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20}'
+_aflow_params_values '12.017,0.798368977282,0.827910460181,95.03,0.2267,0.061,0.743,-0.041,0.728,0.1728,0.0594,0.6841,0.0965,0.6686,0.4354,0.0104,0.7806,0.70695,-0.04418,0.21077,0.52021,0.072,0.276,0.621,0.079,0.349,0.726,0.047,0.271,-0.027,0.17022,0.26326,0.24936,0.1588,0.3743,0.8871,0.1519,0.0973,0.5987,0.1723,0.1457,0.548,0.1918,0.0236,0.3754,0.0387,0.3351,0.6481'
+_aflow_Strukturbericht '$H4_{23}$'
+_aflow_Pearson 'mC112'
+
+_symmetry_space_group_name_H-M "C 1 2/m 1"
+_symmetry_Int_Tables_number 12
+ 
+_cell_length_a    12.01700
+_cell_length_b    9.59400
+_cell_length_c    9.94900
+_cell_angle_alpha 90.00000
+_cell_angle_beta  95.03000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 -x,-y,-z
+4 x,-y,z
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 2 a 0.00000 0.00000 0.00000 1.00000
+Mn2 Mn 2 d 0.00000 0.50000 0.50000 1.00000
+O1 O 4 g 0.00000 0.22670 0.00000 1.00000
+H1 H 4 i 0.06100 0.00000 0.74300 1.00000
+H2 H 4 i -0.04100 0.00000 0.72800 1.00000
+O2 O 4 i 0.17280 0.00000 0.05940 1.00000
+O3 O 4 i 0.68410 0.00000 0.09650 1.00000
+O4 O 4 i 0.66860 0.00000 0.43540 1.00000
+O5 O 4 i 0.01040 0.00000 0.78060 1.00000
+S1 S 4 i 0.70695 0.00000 -0.04418 1.00000
+S2 S 4 i 0.21077 0.00000 0.52021 1.00000
+H3 H 8 j 0.07200 0.27600 0.62100 1.00000
+H4 H 8 j 0.07900 0.34900 0.72600 1.00000
+H5 H 8 j 0.04700 0.27100 -0.02700 1.00000
+K1 K 8 j 0.17022 0.26326 0.24936 1.00000
+O6 O 8 j 0.15880 0.37430 0.88710 1.00000
+O7 O 8 j 0.15190 0.09730 0.59870 0.50000
+O8 O 8 j 0.17230 0.14570 0.54800 0.50000
+O9 O 8 j 0.19180 0.02360 0.37540 0.50000
+O10 O 8 j 0.03870 0.33510 0.64810 1.00000

@@ -1,0 +1,70 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Potassium nitrite'
+_chemical_formula_sum 'K N O2'
+
+loop_
+_publ_author_name
+ 'N. {Onoda-Yamamuro}'
+ 'H. Honda'
+ 'R. Ikeda'
+ 'O. Yamamuro'
+ 'T. Matsuo'
+ 'K. Oikawa'
+ 'T. Kamiyama'
+ 'F. Izumi'
+_journal_name_full_name
+;
+ Journal of Physics: Condensed Matter
+;
+_journal_volume 10
+_journal_year 1998
+_journal_page_first 3341
+_journal_page_last 3351
+_publ_Section_title
+;
+ Neutron powder diffraction study of the low-temperature phases of KNO$_{2}$
+;
+
+# Found in Order-disorder phase transitions in KNO$_{2}$, CsNO$_{2}$, and TlNO$_{2}$ crystals: A molecular dynamics study, 2001
+
+_aflow_title 'KNO$_{2}$ III Structure'
+_aflow_proto 'ABC2_mP16_14_e_e_2e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '4.401,2.18057259714,1.58638945694,108.274,0.4105,0.1407,0.2101,-0.0732,0.4107,0.1839,0.2034,0.4127,0.3067,0.8385,0.2999,0.0865'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mP16'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.40100
+_cell_length_b    9.59670
+_cell_length_c    6.98170
+_cell_angle_alpha 90.00000
+_cell_angle_beta  108.27400
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 4 e 0.41050 0.14070 0.21010 1.00000
+N1 N 4 e -0.07320 0.41070 0.18390 1.00000
+O1 O 4 e 0.20340 0.41270 0.30670 1.00000
+O2 O 4 e 0.83850 0.29990 0.08650 1.00000

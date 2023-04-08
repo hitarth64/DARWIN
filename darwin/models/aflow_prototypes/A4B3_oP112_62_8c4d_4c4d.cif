@@ -1,0 +1,82 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'P4Se3'
+_chemical_formula_sum 'P4 Se3'
+
+loop_
+_publ_author_name
+ 'E. Keulen'
+ 'A. Vos'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 12
+_journal_year 1959
+_journal_page_first 323
+_journal_page_last 329
+_publ_Section_title
+;
+ The Crystal Structure of P$_{4}$Se$_{3}$
+;
+
+_aflow_title 'P$_{4}$Se$_{3}$ Structure'
+_aflow_proto 'A4B3_oP112_62_8c4d_4c4d'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4},x_{5},z_{5},x_{6},z_{6},x_{7},z_{7},x_{8},z_{8},x_{9},z_{9},x_{10},z_{10},x_{11},z_{11},x_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20}'
+_aflow_params_values '11.797,0.825548868356,2.22683733152,0.086,0.627,0.041,0.5,-0.034,0.282,0.238,0.331,-0.048,0.825,0.239,0.807,0.192,0.104,-0.032,0.015,-0.057,0.571,0.0148,0.2567,0.107,0.87,0.163,0.018,0.227,0.134,0.5875,0.304,0.634,0.6443,-0.01,0.134,0.7527,-0.039,0.634,0.8663,0.1592,0.072,0.5139,0.8527,0.572,0.6298,0.1723,0.072,0.7612,0.0602,0.572,-0.0645'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP112'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    11.79700
+_cell_length_b    9.73900
+_cell_length_c    26.27000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 4 c 0.08600 0.25000 0.62700 1.00000
+P2 P 4 c 0.04100 0.25000 0.50000 1.00000
+P3 P 4 c -0.03400 0.25000 0.28200 1.00000
+P4 P 4 c 0.23800 0.25000 0.33100 1.00000
+P5 P 4 c -0.04800 0.25000 0.82500 1.00000
+P6 P 4 c 0.23900 0.25000 0.80700 1.00000
+P7 P 4 c 0.19200 0.25000 0.10400 1.00000
+P8 P 4 c -0.03200 0.25000 0.01500 1.00000
+Se1 Se 4 c -0.05700 0.25000 0.57100 1.00000
+Se2 Se 4 c 0.01480 0.25000 0.25670 1.00000
+Se3 Se 4 c 0.10700 0.25000 0.87000 1.00000
+Se4 Se 4 c 0.16300 0.25000 0.01800 1.00000
+P9 P 8 d 0.22700 0.13400 0.58750 1.00000
+P10 P 8 d 0.30400 0.63400 0.64430 1.00000
+P11 P 8 d -0.01000 0.13400 0.75270 1.00000
+P12 P 8 d -0.03900 0.63400 0.86630 1.00000
+Se5 Se 8 d 0.15920 0.07200 0.51390 1.00000
+Se6 Se 8 d 0.85270 0.57200 0.62980 1.00000
+Se7 Se 8 d 0.17230 0.07200 0.76120 1.00000
+Se8 Se 8 d 0.06020 0.57200 -0.06450 1.00000

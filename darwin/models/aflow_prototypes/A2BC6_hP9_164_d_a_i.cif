@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'K2Pt(SCN)6'
+_chemical_formula_sum 'K2 Pt S6'
+
+loop_
+_publ_author_name
+ 'S. B. Hendricks'
+ 'H. E. Merwin'
+_journal_name_full_name
+;
+ American Journal of Science
+;
+_journal_volume 15
+_journal_year 1928
+_journal_page_first 487
+_journal_page_last 494
+_publ_Section_title
+;
+ The atomic arrangement in crystals of alkali platini-thiocyanates
+;
+
+# Found in Strukturbericht 1913-1928, 1931
+
+_aflow_title 'K$_{2}$Pt(SCN)$_{6}$ ($H6_{3}$) Structure'
+_aflow_proto 'A2BC6_hP9_164_d_a_i'
+_aflow_params 'a,c/a,z_{2},x_{3},z_{3}'
+_aflow_params_values '6.73,1.52451708767,0.5,0.135,0.1125'
+_aflow_Strukturbericht '$H6_{3}$'
+_aflow_Pearson 'hP9'
+
+_symmetry_space_group_name_H-M "P -3 2/m 1"
+_symmetry_Int_Tables_number 164
+ 
+_cell_length_a    6.73000
+_cell_length_b    6.73000
+_cell_length_c    10.26000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x-y,-y,-z
+5 y,x,-z
+6 -x,-x+y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -x+y,y,z
+11 -y,-x,z
+12 x,x-y,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pt1 Pt 1 a 0.00000 0.00000 0.00000 1.00000
+K1 K 2 d 0.33333 0.66667 0.50000 1.00000
+S1 S 6 i 0.13500 0.86500 0.11250 1.00000

@@ -1,0 +1,84 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'O10Ru3Sr4'
+_chemical_formula_sum 'O10 Ru3 Sr4'
+
+loop_
+_publ_author_name
+ 'M. K. Crawford'
+ 'R. L. Harlow'
+ 'W. Marshall'
+ 'Z. Li'
+ 'G. Cao'
+ 'R. L. Lindstrom'
+ 'Q. Huang'
+ 'J. W. Lynn'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 65
+_journal_year 2002
+_journal_page_first 214412
+_journal_page_last 214412
+_publ_Section_title
+;
+ Structure and magnetism of single crystal Sr$_{4}$Ru$_{3}$O$_{10}$: A ferromagnetic triple-layer ruthenate
+;
+
+_aflow_title 'Base-centered orthorhombic Sr$_{4}$Ru$_{3}$O$_{10}$ Structure'
+_aflow_proto 'A10B3C4_oC68_64_2dfg_ad_2d'
+_aflow_params 'a,b/a,c/a,x_{2},x_{3},x_{4},x_{5},x_{6},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '28.573,0.13649599272,0.13649599272,-0.0695,0.787,0.8598,0.7039,0.5699,0.7971,0.2972,0.6392,0.2271,0.2279'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC68'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/a"
+_symmetry_Int_Tables_number 64
+ 
+_cell_length_a    28.57300
+_cell_length_b    3.90010
+_cell_length_c    3.90010
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x+1/2,y,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x+1/2,-y,z+1/2
+8 x+1/2,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x,y+1/2,-z+1/2
+12 -x,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ru1 Ru 4 a 0.00000 0.00000 0.00000 1.00000
+O1 O 8 d -0.06950 0.00000 0.00000 1.00000
+O2 O 8 d 0.78700 0.00000 0.00000 1.00000
+Ru2 Ru 8 d 0.85980 0.00000 0.00000 1.00000
+Sr1 Sr 8 d 0.70390 0.00000 0.00000 1.00000
+Sr2 Sr 8 d 0.56990 0.00000 0.00000 1.00000
+O3 O 8 f 0.00000 0.79710 0.29720 1.00000
+O4 O 16 g 0.63920 0.22710 0.22790 1.00000

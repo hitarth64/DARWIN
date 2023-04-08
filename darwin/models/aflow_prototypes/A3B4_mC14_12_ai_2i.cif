@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ni3Sn4'
+_chemical_formula_sum 'Ni3 Sn4'
+
+loop_
+_publ_author_name
+ 'W. Jeitschko'
+ 'B. Jaberg'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 38
+_journal_year 1982
+_journal_page_first 598
+_journal_page_last 600
+_publ_Section_title
+;
+ Structure refinement of Ni$_{3}$Sn$_{4}$
+;
+
+_aflow_title '$\delta$-Ni$_{3}$Sn$_{4}$ ($D7_{a}$) Structure'
+_aflow_proto 'A3B4_mC14_12_ai_2i'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},z_{2},x_{3},z_{3},x_{4},z_{4}'
+_aflow_params_values '12.214,0.332405436384,0.427296544948,105.0,0.2147,0.3369,0.4286,0.6864,0.1718,0.8123'
+_aflow_Strukturbericht '$D7_{a}$'
+_aflow_Pearson 'mC14'
+
+_symmetry_space_group_name_H-M "C 1 2/m 1"
+_symmetry_Int_Tables_number 12
+ 
+_cell_length_a    12.21400
+_cell_length_b    4.06000
+_cell_length_c    5.21900
+_cell_angle_alpha 90.00000
+_cell_angle_beta  105.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z
+3 -x,-y,-z
+4 x,-y,z
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 2 a 0.00000 0.00000 0.00000 1.00000
+Ni2 Ni 4 i 0.21470 0.00000 0.33690 1.00000
+Sn1 Sn 4 i 0.42860 0.00000 0.68640 1.00000
+Sn2 Sn 4 i 0.17180 0.00000 0.81230 1.00000

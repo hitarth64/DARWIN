@@ -1,0 +1,72 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H6NO4P'
+_chemical_formula_sum 'H6 N O4 P'
+
+loop_
+_publ_author_name
+ 'T. Fukami'
+ 'S. Akahoshi'
+ 'K. Hukuda'
+ 'T. Yagi'
+_journal_name_full_name
+;
+ Journal of the Physical Society of Japan
+;
+_journal_volume 56
+_journal_year 1987
+_journal_page_first 2223
+_journal_page_last 2224
+_publ_Section_title
+;
+ Refinement of the Crystal Structure of NH$_{4}$H$_{2}$PO$_{4}$ above and below Antiferroelectric Phase Transition Temperature
+;
+
+_aflow_title 'Ferroelectric NH$_{4}$H$_{2}$PO$_{4}$ Structure'
+_aflow_proto 'A6BC4D_oP48_19_6a_a_4a_a'
+_aflow_params 'a,b/a,c/a,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12}'
+_aflow_params_values '7.503,1.00119952019,0.99800079968,0.012,0.574,0.587,0.0,0.388,0.547,-0.068,0.504,0.421,0.113,0.487,0.453,0.789,0.348,0.122,0.154,0.298,0.892,0.011,0.4837,0.5016,0.082,0.6443,0.1192,-0.0853,0.3498,0.1145,0.8628,0.5773,0.872,0.1571,0.41,0.8974,0.0,0.5019,0.0004'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP48'
+
+_symmetry_space_group_name_H-M "P 21 21 21"
+_symmetry_Int_Tables_number 19
+ 
+_cell_length_a    7.50300
+_cell_length_b    7.51200
+_cell_length_c    7.48800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 a 0.01200 0.57400 0.58700 1.00000
+H2 H 4 a 0.00000 0.38800 0.54700 1.00000
+H3 H 4 a -0.06800 0.50400 0.42100 1.00000
+H4 H 4 a 0.11300 0.48700 0.45300 1.00000
+H5 H 4 a 0.78900 0.34800 0.12200 1.00000
+H6 H 4 a 0.15400 0.29800 0.89200 1.00000
+N1 N 4 a 0.01100 0.48370 0.50160 1.00000
+O1 O 4 a 0.08200 0.64430 0.11920 1.00000
+O2 O 4 a -0.08530 0.34980 0.11450 1.00000
+O3 O 4 a 0.86280 0.57730 0.87200 1.00000
+O4 O 4 a 0.15710 0.41000 0.89740 1.00000
+P1 P 4 a 0.00000 0.50190 0.00040 1.00000

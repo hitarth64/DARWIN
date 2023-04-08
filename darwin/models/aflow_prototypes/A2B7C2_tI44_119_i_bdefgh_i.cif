@@ -1,0 +1,87 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cd2O7Re2'
+_chemical_formula_sum 'Cd2 O7 Re2'
+
+loop_
+_publ_author_name
+ 'S.-W. Huang'
+ 'H.-T. Jeng'
+ 'J.-Y. Lin'
+ 'W. J. Chang'
+ 'J. M. Chen'
+ 'G. H. Lee'
+ 'H. Berger'
+ 'H. D. Yang'
+ 'K. S. Liang'
+_journal_name_full_name
+;
+ Journal of Physics: Condensed Matter
+;
+_journal_volume 21
+_journal_year 2009
+_journal_page_first 195602
+_journal_page_last 195602
+_publ_Section_title
+;
+ Electronic structure of pyrochlore Cd$_{2}$Re$_{2}$O$_{7}$
+;
+
+# Found in The crystal structure of the inversion breaking metal Cd$_{2}$Re$_{2}$O$_{7}$, {arXiv:1911.10141 [cond-mat.str-el]}, 2019
+
+_aflow_title 'Phase II Cd$_{2}$Re$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A2B7C2_tI44_119_i_bdefgh_i'
+_aflow_params 'a,c/a,z_{3},z_{4},x_{5},x_{6},x_{7},z_{7},x_{8},z_{8}'
+_aflow_params_values '7.2312,1.41410830844,0.1974,0.0683,0.1889,0.1941,0.2471,0.3741,0.2471,0.87294'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tI44'
+
+_symmetry_space_group_name_H-M "I -4 m 2"
+_symmetry_Int_Tables_number 119
+ 
+_cell_length_a    7.23120
+_cell_length_b    7.23120
+_cell_length_c    10.22570
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -y,-x,-z
+4 y,x,-z
+5 -x,y,z
+6 x,-y,z
+7 y,-x,-z
+8 -y,x,-z
+9 x+1/2,y+1/2,z+1/2
+10 -x+1/2,-y+1/2,z+1/2
+11 -y+1/2,-x+1/2,-z+1/2
+12 y+1/2,x+1/2,-z+1/2
+13 -x+1/2,y+1/2,z+1/2
+14 x+1/2,-y+1/2,z+1/2
+15 y+1/2,-x+1/2,-z+1/2
+16 -y+1/2,x+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 b 0.00000 0.00000 0.50000 1.00000
+O2 O 2 d 0.00000 0.50000 0.75000 1.00000
+O3 O 4 e 0.00000 0.00000 0.19740 1.00000
+O4 O 4 f 0.00000 0.50000 0.06830 1.00000
+O5 O 8 g 0.18890 0.18890 0.00000 1.00000
+O6 O 8 h 0.19410 0.69410 0.25000 1.00000
+Cd1 Cd 8 i 0.24710 0.00000 0.37410 1.00000
+Re1 Re 8 i 0.24710 0.00000 0.87294 1.00000

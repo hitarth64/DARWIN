@@ -1,0 +1,96 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral '$\beta$-alum'
+_chemical_formula_sum 'Al C2 H36 N2 O20 S2'
+
+loop_
+_publ_author_name
+ 'A. M. Abdeen'
+ 'G. Will'
+ 'W. Sch\"{a}fer'
+ 'A. Kirfel'
+ 'M. O. Bargouth'
+ 'K. Recker'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 157
+_journal_year 1981
+_journal_page_first 147
+_journal_page_last 166
+_publ_Section_title
+;
+ X-Ray and neutron diffraction study of alums
+;
+
+_aflow_title '$\beta$-Alum [Al(NH$_{3}$CH$_{3}$)$_{2}$(SO$_{4}$)$_{2}$$\cdot$12H$_{2}$O, $H4_{14}$] Structure'
+_aflow_proto 'AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c'
+_aflow_params 'a,x_{2},x_{3},x_{4},x_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14}'
+_aflow_params_values '12.314,0.4501,0.5156,0.2341,0.3022,0.3851,0.5072,0.4134,0.0837,0.5363,0.0275,0.5423,0.2018,0.4728,0.4132,0.1846,0.4502,0.2143,0.4941,0.1944,0.2148,0.6103,0.1697,0.6911,0.753,0.0914,0.8521,-0.019,0.0185,0.0419,0.1373,0.2975'
+_aflow_Strukturbericht '$H4_{14}$'
+_aflow_Pearson 'cP252'
+
+_symmetry_space_group_name_H-M "P 21/a -3"
+_symmetry_Int_Tables_number 205
+ 
+_cell_length_a    12.31400
+_cell_length_b    12.31400
+_cell_length_c    12.31400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y,z+1/2
+5 y,z,x
+6 y+1/2,-z+1/2,-x
+7 -y,z+1/2,-x+1/2
+8 -y+1/2,-z,x+1/2
+9 z,x,y
+10 z+1/2,-x+1/2,-y
+11 -z,x+1/2,-y+1/2
+12 -z+1/2,-x,y+1/2
+13 -x,-y,-z
+14 -x+1/2,y+1/2,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+17 -y,-z,-x
+18 -y+1/2,z+1/2,x
+19 y,-z+1/2,x+1/2
+20 y+1/2,z,-x+1/2
+21 -z,-x,-y
+22 -z+1/2,x+1/2,y
+23 z,-x+1/2,y+1/2
+24 z+1/2,x,-y+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 4 a 0.0000 0.0000 0.0000 1.00000
+C1 C 8 c 0.4501 0.4501 0.4501 0.50000
+N1 N 8 c 0.5156 0.5156 0.5156 0.50000
+O1 O 8 c 0.2341 0.2341 0.2341 1.00000
+S1 S 8 c 0.3022 0.3022 0.3022 1.00000
+H1 H 24 d 0.3851 0.5072 0.4134 0.50000
+H2 H 24 d 0.0837 0.5363 0.0275 0.50000
+H3 H 24 d 0.5423 0.2018 0.4728 1.00000
+H4 H 24 d 0.4132 0.1846 0.4502 1.00000
+H5 H 24 d 0.2143 0.4941 0.1944 1.00000
+H6 H 24 d 0.2148 0.6103 0.1697 1.00000
+O2 O 24 d 0.6911 0.7530 0.0914 1.00000
+O3 O 24 d 0.8521 -0.0190 0.0185 1.00000
+O4 O 24 d 0.0419 0.1373 0.2975 1.00000

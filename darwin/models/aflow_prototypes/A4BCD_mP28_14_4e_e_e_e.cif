@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl4IK \cdot H2O'
+_chemical_formula_sum 'Cl4 (H2O) I K'
+
+loop_
+_publ_author_name
+ 'R. J. Elema'
+ 'J. L. {de Boer}'
+ 'A. Vos'
+_journal_name_full_name
+;
+ Acta Cristallographica
+;
+_journal_volume 16
+_journal_year 1963
+_journal_page_first 243
+_journal_page_last 247
+_publ_Section_title
+;
+ The refinement of the crystal structure of KICl$_{4}$ $\cdot$ H$_{2}$O
+;
+
+_aflow_title 'KICl$_{4}$$\cdot$H$_{2}$O ($H0_{10}$) Structure'
+_aflow_proto 'A4BCD_mP28_14_4e_e_e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '4.284,3.34990662932,3.16137721755,102.62529,0.4857,0.7807,0.2292,-0.06,0.0955,0.1866,0.625,-0.0116,0.3824,0.7875,0.8953,0.0398,0.264,0.708,-0.043,0.7052,-0.0592,0.2041,0.1442,0.3409,-0.0791'
+_aflow_Strukturbericht '$H0_{10}$'
+_aflow_Pearson 'mP28'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.28400
+_cell_length_b    14.35100
+_cell_length_c    13.54334
+_cell_angle_alpha 90.00000
+_cell_angle_beta  102.62529
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 4 e 0.48570 0.78070 0.22920 1.00000
+Cl2 Cl 4 e -0.06000 0.09550 0.18660 1.00000
+Cl3 Cl 4 e 0.62500 -0.01160 0.38240 1.00000
+Cl4 Cl 4 e 0.78750 0.89530 0.03980 1.00000
+H2O1 H2O 4 e 0.26400 0.70800 -0.04300 1.00000
+I1 I 4 e 0.70520 -0.05920 0.20410 1.00000
+K1 K 4 e 0.14420 0.34090 -0.07910 1.00000

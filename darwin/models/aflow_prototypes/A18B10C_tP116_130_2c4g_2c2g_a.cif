@@ -1,0 +1,83 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'H18O10Sr'
+_chemical_formula_sum 'H18 O10 Sr'
+
+loop_
+_publ_author_name
+ 'J. S. Ricci'
+ 'R. C. Stevens'
+ 'R. K. {McMullan}'
+ 'W. T. Klooster'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 61
+_journal_year 2005
+_journal_page_first 381
+_journal_page_last 386
+_publ_Section_title
+;
+ Structure of strontium hydroxide octahydrate, Sr(OH)$_{2} \cdot $8H$_{2}$O, at 20, 100 and 200 K from neutron diffraction
+;
+
+_aflow_title 'Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ Structure'
+_aflow_proto 'A18B10C_tP116_130_2c4g_2c2g_a'
+_aflow_params 'a,c/a,z_{2},z_{3},z_{4},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11}'
+_aflow_params_values '8.984,1.28194568121,0.4888,0.2426,0.40482,0.15904,0.8044,0.5759,0.1201,-0.047,0.4874,0.1327,0.8054,0.5766,0.8623,0.8392,0.4596,-0.0398,0.84543,0.47219,0.12549,0.84587,0.47366,0.87655'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'tP116'
+
+_symmetry_space_group_name_H-M "P 4/n 21/c 2/c (origin choice 2)"
+_symmetry_Int_Tables_number 130
+ 
+_cell_length_a    8.98400
+_cell_length_b    8.98400
+_cell_length_c    11.51700
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y,-z+1/2
+3 -x,y+1/2,-z+1/2
+4 -x+1/2,-y+1/2,z
+5 -y,-x,-z+1/2
+6 -y+1/2,x,z
+7 y,-x+1/2,z
+8 y+1/2,x+1/2,-z+1/2
+9 -x,-y,-z
+10 -x+1/2,y,z+1/2
+11 x,-y+1/2,z+1/2
+12 x+1/2,y+1/2,-z
+13 y,x,z+1/2
+14 y+1/2,-x,-z
+15 -y,x+1/2,-z
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 4 a 0.75000 0.25000 0.25000 1.00000
+H1 H 4 c 0.25000 0.25000 0.48880 1.00000
+H2 H 4 c 0.25000 0.25000 0.24260 1.00000
+O1 O 4 c 0.25000 0.25000 0.40482 1.00000
+O2 O 4 c 0.25000 0.25000 0.15904 1.00000
+H3 H 16 g 0.80440 0.57590 0.12010 1.00000
+H4 H 16 g -0.04700 0.48740 0.13270 1.00000
+H5 H 16 g 0.80540 0.57660 0.86230 1.00000
+H6 H 16 g 0.83920 0.45960 -0.03980 1.00000
+O3 O 16 g 0.84543 0.47219 0.12549 1.00000
+O4 O 16 g 0.84587 0.47366 0.87655 1.00000

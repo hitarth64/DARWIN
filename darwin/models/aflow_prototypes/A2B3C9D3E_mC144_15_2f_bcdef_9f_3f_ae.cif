@@ -1,0 +1,88 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Catapleiite'
+_chemical_formula_sum '(H2O)2 Na3 O9 Si3 Zr'
+
+loop_
+_publ_author_name
+ 'G. D. Ilyushin'
+ 'A. A. Voronkov'
+ 'V. V. Ilyukhin'
+ 'N. N. Nevskii'
+ 'N. V. Belov'
+_journal_name_full_name
+;
+ Doklady Akademii Nauk SSSR
+;
+_journal_volume 260
+_journal_year 1981
+_journal_page_first 623
+_journal_page_last 627
+_publ_Section_title
+;
+ Crystal structure of natural monoclinic catapleiite, Na$_{2}$ZrSi$_{3}$O$_{9} \cdot$ 2H$_{2}$O
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Catapleiite (Na$_{2}$ZrSi$_{3}$O$_{9}\cdot$2H$_{2}$O) Structure'
+_aflow_proto 'A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae'
+_aflow_params 'a,b/a,c/a,\beta,y_{5},y_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21}'
+_aflow_params_values '23.8927,0.311057352246,0.843270120162,147.42281,0.4941,-0.0074,0.8315,0.4922,0.0362,0.3371,0.0092,0.8816,0.2531,0.2432,0.255,0.8661,0.0088,-0.0767,0.3666,0.49,0.0586,0.0493,0.4955,0.1747,0.0711,0.1973,0.1285,0.0641,0.1942,0.2558,0.2265,0.3221,0.3544,0.562,0.298,0.1203,0.569,0.2938,0.2625,0.7239,0.1738,0.3455,0.5976,0.2004,0.2221,0.0995,0.2923,0.2252,0.1972,0.0015,0.5723'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC144'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    23.89270
+_cell_length_b    7.43200
+_cell_length_c    20.14800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  147.42281
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zr1 Zr 4 a 0.00000 0.00000 0.00000 1.00000
+Na1 Na 4 b 0.00000 0.50000 0.00000 1.00000
+Na2 Na 4 c 0.25000 0.25000 0.00000 1.00000
+Na3 Na 4 d 0.25000 0.25000 0.50000 1.00000
+Na4 Na 4 e 0.00000 0.49410 0.25000 1.00000
+Zr2 Zr 4 e 0.00000 -0.00740 0.25000 1.00000
+H2O1 H2O 8 f 0.83150 0.49220 0.03620 1.00000
+H2O2 H2O 8 f 0.33710 0.00920 0.88160 1.00000
+Na5 Na 8 f 0.25310 0.24320 0.25500 1.00000
+O1 O 8 f 0.86610 0.00880 -0.07670 1.00000
+O2 O 8 f 0.36660 0.49000 0.05860 1.00000
+O3 O 8 f 0.04930 0.49550 0.17470 1.00000
+O4 O 8 f 0.07110 0.19730 0.12850 1.00000
+O5 O 8 f 0.06410 0.19420 0.25580 1.00000
+O6 O 8 f 0.22650 0.32210 0.35440 1.00000
+O7 O 8 f 0.56200 0.29800 0.12030 1.00000
+O8 O 8 f 0.56900 0.29380 0.26250 1.00000
+O9 O 8 f 0.72390 0.17380 0.34550 1.00000
+Si1 Si 8 f 0.59760 0.20040 0.22210 1.00000
+Si2 Si 8 f 0.09950 0.29230 0.22520 1.00000
+Si3 Si 8 f 0.19720 0.00150 0.57230 1.00000

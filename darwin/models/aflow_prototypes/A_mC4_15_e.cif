@@ -1,0 +1,67 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ga'
+_chemical_formula_sum 'Ga'
+
+loop_
+_publ_author_name
+ 'L. Bosio'
+ 'A. Defrain'
+ 'H. Curien'
+ 'A. Rimsky'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 25
+_journal_year 1969
+_journal_page_first 995
+_journal_page_last 995
+_publ_Section_title
+;
+ Structure cristalline du gallium $\beta$
+;
+
+# Found in The Structures of the Elements, {Reprint of the 1974 John Wilely \& Sons edition}, 1982
+
+_aflow_title '$\beta$-Ga ({\em{obsolete}}) Structure'
+_aflow_proto 'A_mC4_15_e'
+_aflow_params 'a,b/a,c/a,\beta,y_{1}'
+_aflow_params_values '2.766,2.91142443962,1.20462762111,92.03333,0.131'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'mC4'
+
+_symmetry_space_group_name_H-M "C 1 2/c 1"
+_symmetry_Int_Tables_number 15
+ 
+_cell_length_a    2.76600
+_cell_length_b    8.05300
+_cell_length_c    3.33200
+_cell_angle_alpha 90.00000
+_cell_angle_beta  92.03333
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y,-z+1/2
+3 -x,-y,-z
+4 x,-y,z+1/2
+5 x+1/2,y+1/2,z
+6 -x+1/2,y+1/2,-z+1/2
+7 -x+1/2,-y+1/2,-z
+8 x+1/2,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ga1 Ga 4 e 0.00000 0.13100 0.25000 1.00000

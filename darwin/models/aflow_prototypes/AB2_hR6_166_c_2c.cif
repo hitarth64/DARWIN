@@ -1,0 +1,95 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'CaSi2'
+_chemical_formula_sum 'Ca Si2'
+
+loop_
+_publ_author_name
+ 'S. M. Castillo'
+ 'Z. Tang'
+ 'A. P. Litvinchuk'
+ 'A. M. Guloy'
+_journal_name_full_name
+;
+ Inorganic Chemistry
+;
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 10203
+_journal_page_last 10207
+_publ_Section_title
+;
+ Lattice Dynamics of the Rhombohedral Polymorphs of CaSi$_{2}$
+;
+
+_aflow_title 'CaSi$_{2}$ ($C12$) Structure'
+_aflow_proto 'AB2_hR6_166_c_2c'
+_aflow_params 'a,c/a,x_{1},x_{2},x_{3}'
+_aflow_params_values '3.8548,7.95397945419,0.083,0.183,0.35'
+_aflow_Strukturbericht '$C12$'
+_aflow_Pearson 'hR6'
+
+_symmetry_space_group_name_H-M "R -3 2/m (hexagonal axes)"
+_symmetry_Int_Tables_number 166
+ 
+_cell_length_a    3.85480
+_cell_length_b    3.85480
+_cell_length_c    30.66100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,-z
+5 -x,-x+y,-z
+6 x-y,-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -y,-x,z
+11 x,x-y,z
+12 -x+y,y,z
+13 x+1/3,y+2/3,z+2/3
+14 -y+1/3,x-y+2/3,z+2/3
+15 -x+y+1/3,-x+2/3,z+2/3
+16 y+1/3,x+2/3,-z+2/3
+17 -x+1/3,-x+y+2/3,-z+2/3
+18 x-y+1/3,-y+2/3,-z+2/3
+19 -x+1/3,-y+2/3,-z+2/3
+20 y+1/3,-x+y+2/3,-z+2/3
+21 x-y+1/3,x+2/3,-z+2/3
+22 -y+1/3,-x+2/3,z+2/3
+23 x+1/3,x-y+2/3,z+2/3
+24 -x+y+1/3,y+2/3,z+2/3
+25 x+2/3,y+1/3,z+1/3
+26 -y+2/3,x-y+1/3,z+1/3
+27 -x+y+2/3,-x+1/3,z+1/3
+28 y+2/3,x+1/3,-z+1/3
+29 -x+2/3,-x+y+1/3,-z+1/3
+30 x-y+2/3,-y+1/3,-z+1/3
+31 -x+2/3,-y+1/3,-z+1/3
+32 y+2/3,-x+y+1/3,-z+1/3
+33 x-y+2/3,x+1/3,-z+1/3
+34 -y+2/3,-x+1/3,z+1/3
+35 x+2/3,x-y+1/3,z+1/3
+36 -x+y+2/3,y+1/3,z+1/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 6 c 0.00000 0.00000 0.08300 1.00000
+Si1 Si 6 c 0.00000 0.00000 0.18300 1.00000
+Si2 Si 6 c 0.00000 0.00000 0.35000 1.00000

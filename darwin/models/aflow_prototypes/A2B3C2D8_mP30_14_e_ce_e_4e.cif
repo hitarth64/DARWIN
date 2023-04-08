@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Azurite'
+_chemical_formula_sum 'C2 Cu3 H2 O8'
+
+loop_
+_publ_author_name
+ 'K. C. Rule'
+ 'M. Reehuis'
+ 'M. C. R. Gibson'
+ 'B. Ouladdiaf'
+ 'M. J. Gutmann'
+ 'J.-U. Hoffmann'
+ 'S. Gerischer'
+ 'D. A. Tennant'
+ 'S. S\"{u}llow'
+ 'M. Lang'
+_journal_name_full_name
+;
+ Physical Review B
+;
+_journal_volume 83
+_journal_year 2011
+_journal_page_first 104401
+_journal_page_last 104401
+_publ_Section_title
+;
+ Magnetic and crystal structure of azurite Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$ as determined by neutron diffraction
+;
+
+_aflow_title 'Azurite [Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$, $G7_{4}$] Structure'
+_aflow_proto 'A2B3C2D8_mP30_14_e_ce_e_4e'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8}'
+_aflow_params_values '4.99995,1.16452364524,2.06746667467,92.2103,0.3308,0.7994,0.3192,0.2508,-0.0033,0.0834,0.182,0.3,0.3709,0.0975,0.8972,0.3318,0.0762,0.3126,0.4451,0.4518,0.7098,0.4183,0.4339,0.7949,0.2065'
+_aflow_Strukturbericht '$G7_{4}$'
+_aflow_Pearson 'mP30'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    4.99995
+_cell_length_b    5.82256
+_cell_length_c    10.33723
+_cell_angle_alpha 90.00000
+_cell_angle_beta  92.21030
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 2 c 0.00000 0.00000 0.50000 1.00000
+C1 C 4 e 0.33080 0.79940 0.31920 1.00000
+Cu2 Cu 4 e 0.25080 -0.00330 0.08340 1.00000
+H1 H 4 e 0.18200 0.30000 0.37090 1.00000
+O1 O 4 e 0.09750 0.89720 0.33180 1.00000
+O2 O 4 e 0.07620 0.31260 0.44510 1.00000
+O3 O 4 e 0.45180 0.70980 0.41830 1.00000
+O4 O 4 e 0.43390 0.79490 0.20650 1.00000

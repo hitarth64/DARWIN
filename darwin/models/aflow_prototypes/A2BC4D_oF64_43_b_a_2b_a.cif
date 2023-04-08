@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Archerite'
+_chemical_formula_sum 'H2 K O4 P'
+
+loop_
+_publ_author_name
+ 'H. A. Levy'
+ 'S. W. Peterson'
+ 'S. H. Simonsen'
+_journal_name_full_name
+;
+ Physical Review
+;
+_journal_volume 93
+_journal_year 1954
+_journal_page_first 1120
+_journal_page_last 1121
+_publ_Section_title
+;
+ Neutron Diffraction Study of the Ferroelectric Modification of Potassium Dihydrogen Phosphate
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Archerite (KH$_{2}$PO$_{4}$) Structure'
+_aflow_proto 'A2BC4D_oF64_43_b_a_2b_a'
+_aflow_params 'a,b/a,c/a,z_{1},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5}'
+_aflow_params_values '10.53,0.991452991453,0.655270655271,0.512,0.0,0.188,-0.0375,0.1355,0.116,0.0345,0.131,-0.0345,0.116,0.8765'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oF64'
+
+_symmetry_space_group_name_H-M "F d d 2"
+_symmetry_Int_Tables_number 43
+ 
+_cell_length_a    10.53000
+_cell_length_b    10.44000
+_cell_length_c    6.90000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x+1/4,y+1/4,z+1/4
+4 x+1/4,-y+1/4,z+1/4
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 -x+1/4,y+3/4,z+3/4
+8 x+1/4,-y+3/4,z+3/4
+9 x+1/2,y,z+1/2
+10 -x+1/2,-y,z+1/2
+11 -x+3/4,y+1/4,z+3/4
+12 x+3/4,-y+1/4,z+3/4
+13 x+1/2,y+1/2,z
+14 -x+1/2,-y+1/2,z
+15 -x+3/4,y+3/4,z+1/4
+16 x+3/4,-y+3/4,z+1/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 8 a 0.00000 0.00000 0.51200 1.00000
+P1 P 8 a 0.00000 0.00000 0.00000 1.00000
+H1 H 16 b 0.18800 -0.03750 0.13550 1.00000
+O1 O 16 b 0.11600 0.03450 0.13100 1.00000
+O2 O 16 b -0.03450 0.11600 0.87650 1.00000

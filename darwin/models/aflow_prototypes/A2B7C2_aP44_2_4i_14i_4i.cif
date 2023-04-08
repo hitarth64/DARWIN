@@ -1,0 +1,79 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Ho2O7Si2'
+_chemical_formula_sum 'Ho2 O7 Si2'
+
+loop_
+_publ_author_name
+ 'J. Felsche'
+_journal_name_full_name
+;
+ Naturwissenschaften
+;
+_journal_volume 59
+_journal_year 1972
+_journal_page_first 35
+_journal_page_last 36
+_publ_Section_title
+;
+ A new silicate structure containing linear [Si$_{3}$O$_{10}$] groups
+;
+
+# Found in Revision of the crystallographic data of polymorphic Y$_{2}$Si$_{2}$O$_{7}$ and Y$_{2}$SiO$_{5}$ compounds, 2004
+
+_aflow_title '$\alpha$-Ho$_{2}$Si$_{2}$O$_{7}$ Structure'
+_aflow_proto 'A2B7C2_aP44_2_4i_14i_4i'
+_aflow_params 'a,b/a,c/a,\alpha,\beta,\gamma,x_{1},y_{1},z_{1},x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20},x_{21},y_{21},z_{21},x_{22},y_{22},z_{22}'
+_aflow_params_values '6.612,1.00862068966,1.82773744707,85.81,89.38,88.57,-0.0521,0.331,0.11666,0.8845,0.0908,0.35915,0.3705,0.7756,0.36947,0.6657,0.828,0.1059,0.6408,0.4893,0.1258,0.6226,0.1401,0.2096,0.2968,0.2956,0.0948,0.4002,0.4255,0.304,0.5879,0.1717,0.4454,0.224,0.095,0.3785,0.2937,0.422,0.5099,0.2862,0.2179,0.687,-0.0374,0.2281,0.5714,0.0752,0.5789,0.6864,0.2414,-0.0859,-0.001,0.3397,0.7841,0.1903,-0.0041,0.6708,0.0797,0.0023,0.0137,0.1857,0.1539,0.8505,0.1168,0.4862,0.3353,0.1761,0.3781,0.2726,0.4051,0.1457,0.3719,0.6179'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'aP44'
+
+_symmetry_space_group_name_H-M "P -1"
+_symmetry_Int_Tables_number 2
+ 
+_cell_length_a    6.61200
+_cell_length_b    6.66900
+_cell_length_c    12.08500
+_cell_angle_alpha 85.81000
+_cell_angle_beta  89.38000
+_cell_angle_gamma 88.57000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ho1 Ho 2 i -0.05210 0.33100 0.11666 1.00000
+Ho2 Ho 2 i 0.88450 0.09080 0.35915 1.00000
+Ho3 Ho 2 i 0.37050 0.77560 0.36947 1.00000
+Ho4 Ho 2 i 0.66570 0.82800 0.10590 1.00000
+O1 O 2 i 0.64080 0.48930 0.12580 1.00000
+O2 O 2 i 0.62260 0.14010 0.20960 1.00000
+O3 O 2 i 0.29680 0.29560 0.09480 1.00000
+O4 O 2 i 0.40020 0.42550 0.30400 1.00000
+O5 O 2 i 0.58790 0.17170 0.44540 1.00000
+O6 O 2 i 0.22400 0.09500 0.37850 1.00000
+O7 O 2 i 0.29370 0.42200 0.50990 1.00000
+O8 O 2 i 0.28620 0.21790 0.68700 1.00000
+O9 O 2 i -0.03740 0.22810 0.57140 1.00000
+O10 O 2 i 0.07520 0.57890 0.68640 1.00000
+O11 O 2 i 0.24140 -0.08590 -0.00100 1.00000
+O12 O 2 i 0.33970 0.78410 0.19030 1.00000
+O13 O 2 i -0.00410 0.67080 0.07970 1.00000
+O14 O 2 i 0.00230 0.01370 0.18570 1.00000
+Si1 Si 2 i 0.15390 0.85050 0.11680 1.00000
+Si2 Si 2 i 0.48620 0.33530 0.17610 1.00000
+Si3 Si 2 i 0.37810 0.27260 0.40510 1.00000
+Si4 Si 2 i 0.14570 0.37190 0.61790 1.00000

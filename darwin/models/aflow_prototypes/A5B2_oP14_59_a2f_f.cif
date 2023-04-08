@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Shcherbinaite'
+_chemical_formula_sum 'O5 V2'
+
+loop_
+_publ_author_name
+ 'R. Enjalbert'
+ 'J. Galy'
+_journal_name_full_name
+;
+ Acta Crystallographica Section C: Structural Chemistry
+;
+_journal_volume 42
+_journal_year 1986
+_journal_page_first 1467
+_journal_page_last 1469
+_publ_Section_title
+;
+ A Refinement of the Structure of V$_{2}$O$_{5}$
+;
+
+_aflow_title 'Shcherbinaite (V$_{2}$O$_{5}$) ({\em{revised}}) Structure'
+_aflow_proto 'A5B2_oP14_59_a2f_f'
+_aflow_params 'a,b/a,c/a,z_{1},x_{2},z_{2},x_{3},z_{3},x_{4},z_{4}'
+_aflow_params_values '11.512,0.309589993051,0.379430159833,0.001,0.1043,0.531,-0.0689,0.003,0.10118,0.891'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oP14'
+
+_symmetry_space_group_name_H-M "P 21/m 21/m 2/n (origin choice 2)"
+_symmetry_Int_Tables_number 59
+ 
+_cell_length_a    11.51200
+_cell_length_b    3.56400
+_cell_length_c    4.36800
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y,-z
+3 -x,y+1/2,-z
+4 -x+1/2,-y+1/2,z
+5 -x,-y,-z
+6 -x+1/2,y,z
+7 x,-y+1/2,z
+8 x+1/2,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 2 a 0.25000 0.25000 0.00100 1.00000
+O2 O 4 f 0.10430 0.25000 0.53100 1.00000
+O3 O 4 f -0.06890 0.25000 0.00300 1.00000
+V1 V 4 f 0.10118 0.25000 0.89100 1.00000

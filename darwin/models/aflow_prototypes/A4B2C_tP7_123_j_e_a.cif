@@ -1,0 +1,74 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl4K2Pt'
+_chemical_formula_sum 'Cl4 K2 Pt'
+
+loop_
+_publ_author_name
+ 'R. H. B. Mais'
+ 'P. G. Owston'
+ 'A. Wood'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 28
+_journal_year 1972
+_journal_page_first 393
+_journal_page_last 399
+_publ_Section_title
+;
+ The crystal structure of K$_{2}$PtCl$_{4}$ and K$_{2}$PdCl$_{4}$ with estimates of the factors affecting accuracy
+;
+
+_aflow_title 'K$_{2}$PtCl$_{4}$ ($H1_{5}$) Structure'
+_aflow_proto 'A4B2C_tP7_123_j_e_a'
+_aflow_params 'a,c/a,x_{3}'
+_aflow_params_values '7.025,0.589893238434,0.2324'
+_aflow_Strukturbericht '$H1_{5}$'
+_aflow_Pearson 'tP7'
+
+_symmetry_space_group_name_H-M "P 4/m 2/m 2/m"
+_symmetry_Int_Tables_number 123
+ 
+_cell_length_a    7.02500
+_cell_length_b    7.02500
+_cell_length_c    4.14400
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 -y,-x,-z
+6 -y,x,z
+7 y,-x,z
+8 y,x,-z
+9 -x,-y,-z
+10 -x,y,z
+11 x,-y,z
+12 x,y,-z
+13 y,x,z
+14 y,-x,-z
+15 -y,x,-z
+16 -y,-x,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pt1 Pt 1 a 0.00000 0.00000 0.00000 1.00000
+K1 K 2 e 0.00000 0.50000 0.50000 1.00000
+Cl1 Cl 4 j 0.23240 0.23240 0.00000 1.00000

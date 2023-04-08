@@ -1,0 +1,78 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Tutton salt'
+_chemical_formula_sum 'Cu H20 N2 O14 S2'
+
+loop_
+_publ_author_name
+ 'G. M. Brown'
+ 'R. Chidambaram'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 25
+_journal_year 1969
+_journal_page_first 676
+_journal_page_last 687
+_publ_Section_title
+;
+ The structure of copper ammonium sulfate hexahydrate from neutron diffraction data
+;
+
+_aflow_title 'Tutton salt [Cu(NH$_{4}$)$_{2}$(SO$_{4}$)$_{2}$$\cdot$6H$_{2}$O, $H4_{4}$] Structure'
+_aflow_proto 'AB20C2D14E2_mP78_14_a_10e_e_7e_e'
+_aflow_params 'a,b/a,c/a,\beta,x_{2},y_{2},z_{2},x_{3},y_{3},z_{3},x_{4},y_{4},z_{4},x_{5},y_{5},z_{5},x_{6},y_{6},z_{6},x_{7},y_{7},z_{7},x_{8},y_{8},z_{8},x_{9},y_{9},z_{9},x_{10},y_{10},z_{10},x_{11},y_{11},z_{11},x_{12},y_{12},z_{12},x_{13},y_{13},z_{13},x_{14},y_{14},z_{14},x_{15},y_{15},z_{15},x_{16},y_{16},z_{16},x_{17},y_{17},z_{17},x_{18},y_{18},z_{18},x_{19},y_{19},z_{19},x_{20},y_{20},z_{20}'
+_aflow_params_values '6.3016,1.96450107909,1.4616129237,106.112,0.20966,0.66679,0.06554,0.40162,0.70084,0.22515,0.46879,0.66573,0.07617,0.36184,0.57533,0.16861,0.32899,-0.0962,0.22103,0.1068,0.87132,0.25555,-0.0597,-0.09535,0.73282,0.00217,0.81595,0.85798,0.31563,0.05877,0.89729,0.3095,0.14082,0.02457,0.35953,0.65214,0.13458,0.60057,0.76827,0.41576,0.78118,-0.0758,0.54888,0.63349,-0.07032,0.28057,-0.04314,0.82138,0.39147,0.17726,0.88327,0.17658,0.03043,0.89108,0.83608,0.2821,0.06534,-0.00531,0.74517,0.86102,0.41069'
+_aflow_Strukturbericht '$H4_{4}$'
+_aflow_Pearson 'mP78'
+
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+ 
+_cell_length_a    6.30160
+_cell_length_b    12.37950
+_cell_length_c    9.21050
+_cell_angle_alpha 90.00000
+_cell_angle_beta  106.11200
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 2 a 0.00000 0.00000 0.00000 1.00000
+H1 H 4 e 0.20966 0.66679 0.06554 1.00000
+H2 H 4 e 0.40162 0.70084 0.22515 1.00000
+H3 H 4 e 0.46879 0.66573 0.07617 1.00000
+H4 H 4 e 0.36184 0.57533 0.16861 1.00000
+H5 H 4 e 0.32899 -0.09620 0.22103 1.00000
+H6 H 4 e 0.10680 0.87132 0.25555 1.00000
+H7 H 4 e -0.05970 -0.09535 0.73282 1.00000
+H8 H 4 e 0.00217 0.81595 0.85798 1.00000
+H9 H 4 e 0.31563 0.05877 0.89729 1.00000
+H10 H 4 e 0.30950 0.14082 0.02457 1.00000
+N1 N 4 e 0.35953 0.65214 0.13458 1.00000
+O1 O 4 e 0.60057 0.76827 0.41576 1.00000
+O2 O 4 e 0.78118 -0.07580 0.54888 1.00000
+O3 O 4 e 0.63349 -0.07032 0.28057 1.00000
+O4 O 4 e -0.04314 0.82138 0.39147 1.00000
+O5 O 4 e 0.17726 0.88327 0.17658 1.00000
+O6 O 4 e 0.03043 0.89108 0.83608 1.00000
+O7 O 4 e 0.28210 0.06534 -0.00531 1.00000
+S1 S 4 e 0.74517 0.86102 0.41069 1.00000

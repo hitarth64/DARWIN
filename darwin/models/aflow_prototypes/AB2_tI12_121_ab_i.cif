@@ -1,0 +1,73 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'BFe2'
+_chemical_formula_sum 'B Fe2'
+
+loop_
+_publ_author_name
+ 'F. Wever'
+ 'A. M\"{u}ller'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 192
+_journal_year 1930
+_journal_page_first 317
+_journal_page_last 336
+_publ_Section_title
+;
+ \"{U}ber das Zweistoffsystem Eisen-Bor und \"{u}ber die Struktur des Eisenborides Fe$_{4}$B$_{2}$
+;
+
+_aflow_title '$C17$ (Fe$_{2}$B) ({\em{obsolete}}) Structure'
+_aflow_proto 'AB2_tI12_121_ab_i'
+_aflow_params 'a,c/a,x_{3},z_{3}'
+_aflow_params_values '5.078,0.831626624655,0.16667,0.2'
+_aflow_Strukturbericht '$C17$'
+_aflow_Pearson 'tI12'
+
+_symmetry_space_group_name_H-M "I -4 2 m"
+_symmetry_Int_Tables_number 121
+ 
+_cell_length_a    5.07800
+_cell_length_b    5.07800
+_cell_length_c    4.22300
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,x,z
+6 y,-x,-z
+7 -y,x,-z
+8 -y,-x,z
+9 x+1/2,y+1/2,z+1/2
+10 x+1/2,-y+1/2,-z+1/2
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 y+1/2,x+1/2,z+1/2
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B1 B 2 a 0.00000 0.00000 0.00000 1.00000
+B2 B 2 b 0.00000 0.00000 0.50000 1.00000
+Fe1 Fe 8 i 0.16667 0.16667 0.20000 1.00000

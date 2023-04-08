@@ -1,0 +1,75 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cs7O'
+_chemical_formula_sum 'Cs7 O'
+
+loop_
+_publ_author_name
+ 'A. Simon'
+_journal_name_full_name
+;
+ Zeitschrift fur Anorganische und Allgemeine Chemie
+;
+_journal_volume 422
+_journal_year 1976
+_journal_page_first 208
+_journal_page_last 218
+_publ_Section_title
+;
+ \"{U}ber Alkalimetall-Suboxide. VII. Das metallreichste C\"{a}siumoxid-Cs$_{7}$O
+;
+
+# Found in Binary Alloy Phase Diagrams, 1990 Found in Binary Alloy Phase Diagrams, {Cd-Ce to Hf-Rb}}
+
+_aflow_title 'Cs$_{7}$O Structure'
+_aflow_proto 'A7B_hP24_187_ai2j2kn_j'
+_aflow_params 'a,c/a,z_{2},x_{3},x_{4},x_{5},x_{6},x_{7},x_{8},z_{8}'
+_aflow_params_values '16.244,0.562977099237,0.20321,0.55085,0.21582,0.74805,0.44928,0.11229,0.81357,0.21992'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'hP24'
+
+_symmetry_space_group_name_H-M "P -6 m 2"
+_symmetry_Int_Tables_number 187
+ 
+_cell_length_a    16.24400
+_cell_length_b    16.24400
+_cell_length_c    9.14500
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 x,x-y,-z
+5 -x+y,y,-z
+6 -y,-x,-z
+7 -x+y,-x,-z
+8 x,y,-z
+9 -y,x-y,-z
+10 -x+y,y,z
+11 -y,-x,z
+12 x,x-y,z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cs1 Cs 1 a 0.00000 0.00000 0.00000 1.00000
+Cs2 Cs 2 i 0.66667 0.33333 0.20321 1.00000
+Cs3 Cs 3 j 0.55085 0.44915 0.00000 1.00000
+Cs4 Cs 3 j 0.21582 0.78418 0.00000 1.00000
+O1 O 3 j 0.74805 0.25195 0.00000 1.00000
+Cs5 Cs 3 k 0.44928 0.55072 0.50000 1.00000
+Cs6 Cs 3 k 0.11229 0.88771 0.50000 1.00000
+Cs7 Cs 6 n 0.81357 0.18643 0.21992 1.00000

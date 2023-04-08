@@ -1,0 +1,77 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Cl6(H2O)6NiSn'
+_chemical_formula_sum 'Cl6 (H2O)6 Ni Sn'
+
+loop_
+_publ_author_name
+ 'L. Pauling'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 72
+_journal_year 1930
+_journal_page_first 482
+_journal_page_last 492
+_publ_Section_title
+;
+ On the crystal structure of nickel chlorostannate hexahydrate
+;
+
+# Found in Strukturbericht Band II 1928-1932, 1937
+
+_aflow_title 'Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ ($I6_{1}$) Structure'
+_aflow_proto 'A6B6CD_hR14_148_f_f_b_a'
+_aflow_params 'a,c/a,x_{3},y_{3},z_{3},x_{4},y_{4},z_{4}'
+_aflow_params_values '10.59967,1.01326739417,0.94,-0.69,0.14,0.44,-0.19,0.64001'
+_aflow_Strukturbericht '$I6_{1}$'
+_aflow_Pearson 'hR14'
+
+_symmetry_space_group_name_H-M "R -3 (hexagonal axes)"
+_symmetry_Int_Tables_number 148
+ 
+_cell_length_a    10.59967
+_cell_length_b    10.59967
+_cell_length_c    10.74030
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 120.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,-z
+5 y,-x+y,-z
+6 x-y,x,-z
+7 x+1/3,y+2/3,z+2/3
+8 -y+1/3,x-y+2/3,z+2/3
+9 -x+y+1/3,-x+2/3,z+2/3
+10 -x+1/3,-y+2/3,-z+2/3
+11 y+1/3,-x+y+2/3,-z+2/3
+12 x-y+1/3,x+2/3,-z+2/3
+13 x+2/3,y+1/3,z+1/3
+14 -y+2/3,x-y+1/3,z+1/3
+15 -x+y+2/3,-x+1/3,z+1/3
+16 -x+2/3,-y+1/3,-z+1/3
+17 y+2/3,-x+y+1/3,-z+1/3
+18 x-y+2/3,x+1/3,-z+1/3
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sn1 Sn 3 a 0.00000 0.00000 0.00000 1.00000
+Ni1 Ni 3 b 0.00000 0.00000 0.50000 1.00000
+Cl1 Cl 18 f 0.81000 0.82000 0.13000 1.00000
+H2O1 H2O 18 f 0.14333 0.48667 0.29667 1.00000

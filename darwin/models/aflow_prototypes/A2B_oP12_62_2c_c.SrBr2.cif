@@ -1,0 +1,66 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Br2Sr'
+_chemical_formula_sum 'Br2 Sr'
+
+loop_
+_publ_author_name
+ 'M. A. Kamermans'
+_journal_name_full_name
+;
+ Zeitschrift f{\"u}r Kristallographie - Crystalline Materials
+;
+_journal_volume 101
+_journal_year 1939
+_journal_page_first 406
+_journal_page_last 411
+_publ_Section_title
+;
+ The Crystal Structure of SrBr$_{2}$
+;
+
+# Found in Strukturbericht Band VII 1939, 1943
+
+_aflow_title '$C53$ (SrBr$_{2}$) ({\em{obsolete}}) Structure'
+_aflow_proto 'A2B_oP12_62_2c_c'
+_aflow_params 'a,b/a,c/a,x_{1},z_{1},x_{2},z_{2},x_{3},z_{3}'
+_aflow_params_values '11.42,0.376532399299,0.805604203152,0.103,0.119,0.614,0.842,0.811,0.108'
+_aflow_Strukturbericht '$C53$'
+_aflow_Pearson 'oP12'
+
+_symmetry_space_group_name_H-M "P 21/n 21/m 21/a"
+_symmetry_Int_Tables_number 62
+ 
+_cell_length_a    11.42000
+_cell_length_b    4.30000
+_cell_length_c    9.20000
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x,y+1/2,-z
+4 -x+1/2,-y,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x,-y+1/2,z
+8 x+1/2,y,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Br1 Br 4 c 0.10300 0.25000 0.11900 1.00000
+Br2 Br 4 c 0.61400 0.25000 0.84200 1.00000
+Sr1 Sr 4 c 0.81100 0.25000 0.10800 1.00000

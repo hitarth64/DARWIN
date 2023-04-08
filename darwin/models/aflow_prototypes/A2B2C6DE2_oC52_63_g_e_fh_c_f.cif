@@ -1,0 +1,79 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Br2Cu2O6PbSe2'
+_chemical_formula_sum 'Br2 Cu2 O6 Pb Se2'
+
+loop_
+_publ_author_name
+ 'O. I. Siidra'
+ 'M. S. Kozin'
+ 'W. Depmeier'
+ 'R. A. Kayukov'
+ 'V. M. Kovrugin'
+_journal_name_full_name
+;
+ Acta Crystallographica Section B: Structural Science
+;
+_journal_volume 74
+_journal_year 2018
+_journal_page_first 712
+_journal_page_last 724
+_publ_Section_title
+;
+ Copper-lead selenite bromides: a new large family of compounds partly having Cu$^{2+}$ substructures derivable from kagome nets
+;
+
+_aflow_title 'Cu$_{2}$Pb(SeO$_{3}$)$_{2}$Br$_{2}$ Structure'
+_aflow_proto 'A2B2C6DE2_oC52_63_g_e_fh_c_f'
+_aflow_params 'a,b/a,c/a,y_{1},x_{2},y_{3},z_{3},y_{4},z_{4},x_{5},y_{5},x_{6},y_{6},z_{6}'
+_aflow_params_values '8.275,1.12422960725,1.43697885196,0.33496,0.1862,0.1287,0.5177,0.31221,0.54036,0.22773,0.07717,0.1531,0.3602,0.4531'
+_aflow_Strukturbericht 'None'
+_aflow_Pearson 'oC52'
+
+_symmetry_space_group_name_H-M "C 2/m 2/c 21/m"
+_symmetry_Int_Tables_number 63
+ 
+_cell_length_a    8.27500
+_cell_length_b    9.30300
+_cell_length_c    11.89100
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z+1/2
+4 -x,-y,z+1/2
+5 -x,-y,-z
+6 -x,y,z
+7 x,-y,z+1/2
+8 x,y,-z+1/2
+9 x+1/2,y+1/2,z
+10 x+1/2,-y+1/2,-z
+11 -x+1/2,y+1/2,-z+1/2
+12 -x+1/2,-y+1/2,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x+1/2,y+1/2,z
+15 x+1/2,-y+1/2,z+1/2
+16 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 4 c 0.00000 0.33496 0.25000 1.00000
+Cu1 Cu 8 e 0.18620 0.00000 0.00000 1.00000
+O1 O 8 f 0.00000 0.12870 0.51770 1.00000
+Se1 Se 8 f 0.00000 0.31221 0.54036 1.00000
+Br1 Br 8 g 0.22773 0.07717 0.25000 1.00000
+O2 O 16 h 0.15310 0.36020 0.45310 1.00000

@@ -1,0 +1,71 @@
+# CIF file 
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_chemical_name_mineral 'Andalusite'
+_chemical_formula_sum 'Al2 O5 S'
+
+loop_
+_publ_author_name
+ 'J. K. Winter'
+ 'S. Ghose'
+_journal_name_full_name
+;
+ American Mineralogist
+;
+_journal_volume 64
+_journal_year 1979
+_journal_page_first 573
+_journal_page_last 586
+_publ_Section_title
+;
+ Thermal expansion and high-temperaturce crystal chemistry of the Al$_{2}$SiO$_{4}$ polymorphs
+;
+
+# Found in The American Mineralogist Crystal Structure Database, 2003
+
+_aflow_title 'Andalusite (Al$_{2}$SiO$_{5}$, $S0_{2}$) Structure'
+_aflow_proto 'A2B5C_oP32_58_eg_3gh_g'
+_aflow_params 'a,b/a,c/a,z_{1},x_{2},y_{2},x_{3},y_{3},x_{4},y_{4},x_{5},y_{5},x_{6},y_{6},x_{7},y_{7},z_{7}'
+_aflow_params_values '7.798,1.01347781482,0.712567324955,0.2419,0.1295,0.6391,0.0767,0.8629,0.4246,0.3629,0.103,0.4003,0.246,0.252,0.2305,0.1339,0.2394'
+_aflow_Strukturbericht '$S0_{2}$'
+_aflow_Pearson 'oP32'
+
+_symmetry_space_group_name_H-M "P 21/n 21/n 2/m"
+_symmetry_Int_Tables_number 58
+ 
+_cell_length_a    7.79800
+_cell_length_b    7.90310
+_cell_length_c    5.55660
+_cell_angle_alpha 90.00000
+_cell_angle_beta  90.00000
+_cell_angle_gamma 90.00000
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z+1/2
+3 -x+1/2,y+1/2,-z+1/2
+4 -x,-y,z
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z+1/2
+7 x+1/2,-y+1/2,z+1/2
+8 x,y,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 4 e 0.00000 0.00000 0.24190 1.00000
+Al2 Al 4 g 0.12950 0.63910 0.00000 1.00000
+O1 O 4 g 0.07670 0.86290 0.00000 1.00000
+O2 O 4 g 0.42460 0.36290 0.00000 1.00000
+O3 O 4 g 0.10300 0.40030 0.00000 1.00000
+S1 S 4 g 0.24600 0.25200 0.00000 1.00000
+O4 O 8 h 0.23050 0.13390 0.23940 1.00000
