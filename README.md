@@ -70,10 +70,27 @@ DARWIN is released under the [MIT License](LICENSE).
 ## How to cite:
 Please cite the following work if you want to use DARWIN:
 ```
-@article{choubisa2021interpretable,
-  title={Interpretable discovery of new semiconductors with machine learning},
-  author={Choubisa, Hitarth and Todorovi{\'c}, Petar and Pina, Joao M and Parmar, Darshan H and Li, Ziliang and Voznyy, Oleksandr and Tamblyn, Isaac and Sargent, Edward},
-  journal={arXiv preprint arXiv:2101.04383},
-  year={2021}
+@article{Choubisa2023,
+author={Choubisa, Hitarth
+and Todorovi{\'{c}}, Petar
+and Pina, Joao M.
+and Parmar, Darshan H.
+and Li, Ziliang
+and Voznyy, Oleksandr
+and Tamblyn, Isaac
+and Sargent, Edward H.},
+title={Interpretable discovery of semiconductors with machine learning},
+journal={npj Computational Materials},
+year={2023},
+month={Jun},
+day={29},
+volume={9},
+number={1},
+pages={117},
+issn={2057-3960},
+doi={10.1038/s41524-023-01066-9},
+url={https://doi.org/10.1038/s41524-023-01066-9}
 }
+
+
 ```
