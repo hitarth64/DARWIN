@@ -68,7 +68,7 @@ This software was written by Hitarth Choubisa.
 DARWIN is released under the [MIT License](LICENSE).
 
 ## How to cite:
-Please cite the following work if you want to use DARWIN:
+Please cite the following work if you use DARWIN:
 ```
 @article{Choubisa2023,
 author={Choubisa, Hitarth
