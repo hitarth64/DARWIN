@@ -7,7 +7,7 @@ In the process, the package provides following functionalities:
 * Enables interpretability analysis on the predictions of the machine learning model and evolutionary algorithm
 * Provides trained and ready-to-use machine learning models for energy-above-hull, bandgaps and direct-indirect nature of the bandgap
 * Transfer learning of pre-trained models
-* The following paper describes the details of the DARWIN framework: [DARWIN]([https://arxiv.org/abs/2101.04383](https://www.nature.com/articles/s41524-023-01066-9))
+* The following paper describes the details of the DARWIN framework: [DARWIN](https://www.nature.com/articles/s41524-023-01066-9)
 
 ## Table of Contents:
 - [Requirements](#requirements)
